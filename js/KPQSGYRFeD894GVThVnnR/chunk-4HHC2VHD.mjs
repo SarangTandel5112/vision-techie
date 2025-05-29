@@ -455,7 +455,8 @@ Outcome
 	•	Enabled businesses and marketers to collect survey responses 10x faster through incentives
 	•	Increased form completion rate by over 60% using reward-based participation
 	•	Supported a wide range of campaigns — from academic research to brand surveys
-	•	Created a scalable, white-labeled solution adaptable for various industries`
+	•	Created a scalable, white-labeled solution adaptable for various industries
+    `
     }];
 for (let s of n)
     Object.freeze(s);
