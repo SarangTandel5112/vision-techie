@@ -183,8 +183,8 @@ var Z = {
                                 pixelHeight: 1650,
                                 pixelWidth: 2640,
                                 sizes: "880px",
-                                src: "./public/images/dashboard/slider/headcin.png",
-                                srcSet: "./public/images/dashboard/slider/headcin.png?scale-down-to=512 512w, ./public/images/dashboard/slider/headcin.png?scale-down-to=1024 1024w, ./public/images/dashboard/slider/headcin.png?scale-down-to=2048 2048w, ./public/images/dashboard/slider/headcin.png 2640w"
+                                src: "./assets/images/dashboard/slider/headcin.png",
+                                srcSet: "./assets/images/dashboard/slider/headcin.png?scale-down-to=512 512w, ./assets/images/dashboard/slider/headcin.png?scale-down-to=1024 1024w, ./assets/images/dashboard/slider/headcin.png?scale-down-to=2048 2048w, ./assets/images/dashboard/slider/headcin.png 2640w"
                             },
                             className: "framer-qd7rfh",
                             "data-framer-name": "Work Image",
@@ -248,8 +248,8 @@ var Z = {
                                         pixelHeight: 1650,
                                         pixelWidth: 2640,
                                         sizes: "880px",
-                                        src: "./public/images/dashboard/slider/StudioManagement.png",
-                                        srcSet: "./public/images/dashboard/slider/StudioManagement.png?scale-down-to=512 512w, ./public/images/dashboard/slider/StudioManagement.png?scale-down-to=1024 1024w, ./public/images/dashboard/slider/StudioManagement.png?scale-down-to=2048 2048w, ./public/images/dashboard/slider/StudioManagement.png 2640w"
+                                        src: "./assets/images/dashboard/slider/StudioManagement.png",
+                                        srcSet: "./assets/images/dashboard/slider/StudioManagement.png?scale-down-to=512 512w, ./assets/images/dashboard/slider/StudioManagement.png?scale-down-to=1024 1024w, ./assets/images/dashboard/slider/StudioManagement.png?scale-down-to=2048 2048w, ./assets/images/dashboard/slider/StudioManagement.png 2640w"
                                     }
                                 },
                                 dQeLRqgF9: {
@@ -262,8 +262,8 @@ var Z = {
                                         pixelHeight: 1650,
                                         pixelWidth: 750,
                                         sizes: "250px",
-                                        src: "./public/images/dashboard/slider/eigen-talk.png",
-                                        srcSet: "./public/images/dashboard/slider/eigen-talk.png?scale-down-to=512 232w, ./public/images/dashboard/slider/eigen-talk.png?scale-down-to=1024 465w, ./public/images/dashboard/slider/eigen-talk.png 750w"
+                                        src: "./assets/images/dashboard/slider/eigen-talk.png",
+                                        srcSet: "./assets/images/dashboard/slider/eigen-talk.png?scale-down-to=512 232w, ./assets/images/dashboard/slider/eigen-talk.png?scale-down-to=1024 465w, ./assets/images/dashboard/slider/eigen-talk.png 750w"
                                     }
                                 },
                                 m_dEMUyT4: {
@@ -275,8 +275,8 @@ var Z = {
                                         pixelHeight: 1650,
                                         pixelWidth: 2640,
                                         sizes: "880px",
-                                        src: "./public/images/dashboard/slider/migrate-globe.png",
-                                        srcSet: "./public/images/dashboard/slider/migrate-globe.png?scale-down-to=512 512w, ./public/images/dashboard/slider/migrate-globe.png?scale-down-to=1024 1024w, ./public/images/dashboard/slider/migrate-globe.png?scale-down-to=2048 2048w, ./public/images/dashboard/slider/migrate-globe.png 2640w"
+                                        src: "./assets/images/dashboard/slider/migrate-globe.png",
+                                        srcSet: "./assets/images/dashboard/slider/migrate-globe.png?scale-down-to=512 512w, ./assets/images/dashboard/slider/migrate-globe.png?scale-down-to=1024 1024w, ./assets/images/dashboard/slider/migrate-globe.png?scale-down-to=2048 2048w, ./assets/images/dashboard/slider/migrate-globe.png 2640w"
                                     }
                                 },
                                 RWG2YQchV: {
@@ -289,8 +289,8 @@ var Z = {
                                         pixelHeight: 1650,
                                         pixelWidth: 2640,
                                         sizes: "880px",
-                                        src: "./public/images/dashboard/slider/tech58.png",
-                                        srcSet: "./public/images/dashboard/slider/tech58.png?scale-down-to=512 512w, ./public/images/dashboard/slider/tech58.png?scale-down-to=1024 1024w, ./public/images/dashboard/slider/tech58.png?scale-down-to=2048 2048w, ./public/images/dashboard/slider/tech58.png 2640w"
+                                        src: "./assets/images/dashboard/slider/tech58.png",
+                                        srcSet: "./assets/images/dashboard/slider/tech58.png?scale-down-to=512 512w, ./assets/images/dashboard/slider/tech58.png?scale-down-to=1024 1024w, ./assets/images/dashboard/slider/tech58.png?scale-down-to=2048 2048w, ./assets/images/dashboard/slider/tech58.png 2640w"
                                     }
                                 },
                                 S_jpSYKKV: {
@@ -303,8 +303,8 @@ var Z = {
                                         pixelHeight: 1650,
                                         pixelWidth: 750,
                                         sizes: "250px",
-                                        src: "./public/images/dashboard/slider/eigen-track.png",
-                                        srcSet: "./public/images/dashboard/slider/eigen-track.png?scale-down-to=512 232w, ./public/images/dashboard/slider/eigen-track.png?scale-down-to=1024 465w, ./public/images/dashboard/slider/eigen-track.png 750w"
+                                        src: "./assets/images/dashboard/slider/eigen-track.png",
+                                        srcSet: "./assets/images/dashboard/slider/eigen-track.png?scale-down-to=512 232w, ./assets/images/dashboard/slider/eigen-track.png?scale-down-to=1024 465w, ./assets/images/dashboard/slider/eigen-track.png 750w"
                                     }
                                 }
                             }, f, p)
@@ -321,7 +321,7 @@ var Z = {
                                     intrinsicWidth: 500,
                                     pixelHeight: 500,
                                     pixelWidth: 500,
-                                    src: "../public/images/icon/headcin.ico"
+                                    src: "../assets/images/icon/headcin.ico"
                                 },
                                 className: "framer-wnkr9v",
                                 "data-framer-name": "Icon",
@@ -342,7 +342,7 @@ var Z = {
                                             intrinsicWidth: 500,
                                             pixelHeight: 500,
                                             pixelWidth: 500,
-                                            src: "./public/images/icon/snape.jpeg"
+                                            src: "./assets/images/icon/snape.jpeg"
                                         }
                                     },
                                     dQeLRqgF9: {
@@ -353,7 +353,7 @@ var Z = {
                                             intrinsicWidth: 500,
                                             pixelHeight: 507,
                                             pixelWidth: 500,
-                                            src: "../public/images/icon/hul.svg"
+                                            src: "../assets/images/icon/hul.svg"
                                         }
                                     },
                                     m_dEMUyT4: {
@@ -365,8 +365,8 @@ var Z = {
                                             pixelHeight: 1024,
                                             pixelWidth: 1024,
                                             sizes: "24px",
-                                            src: "../public/images/icon/mg.png",
-                                            srcSet: "../public/images/icon/mg.png?scale-down-to=512 512w, ../public/images/icon/mg.png 1024w"
+                                            src: "../assets/images/icon/mg.png",
+                                            srcSet: "../assets/images/icon/mg.png?scale-down-to=512 512w, ../assets/images/icon/mg.png 1024w"
                                         }
                                     },
                                     RWG2YQchV: {
@@ -377,7 +377,7 @@ var Z = {
                                             intrinsicWidth: 500,
                                             pixelHeight: 500,
                                             pixelWidth: 500,
-                                            src: "./public/images/icon/tech58.png"
+                                            src: "./assets/images/icon/tech58.png"
                                         }
                                     },
                                     S_jpSYKKV: {
@@ -388,7 +388,7 @@ var Z = {
                                             intrinsicWidth: 500,
                                             pixelHeight: 500,
                                             pixelWidth: 500,
-                                            src: "../public/images/icon/eigen.svg"
+                                            src: "../assets/images/icon/eigen.svg"
                                         }
                                     }
                                 }, f, p)

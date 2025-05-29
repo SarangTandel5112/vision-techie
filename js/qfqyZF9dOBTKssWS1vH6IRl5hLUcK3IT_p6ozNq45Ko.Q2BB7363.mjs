@@ -1759,8 +1759,8 @@ var ba = I(Le)
                                                     },
                                                     children: e(le, {
                                                         CsQbKjwc1: C({
-                                                            src: "../public/images/about/viargos.jpeg",
-                                                            srcSet: "../public/images/about/viargos.jpeg?scale-down-to=1024 655w,../public/images/about/viargos.jpeg?scale-down-to=2048 1310w,../public/images/about/viargos.jpeg?scale-down-to=4096 2621w,../public/images/about/viargos.jpeg 3072w"
+                                                            src: "../assets/images/about/viargos.jpeg",
+                                                            srcSet: "../assets/images/about/viargos.jpeg?scale-down-to=1024 655w,../assets/images/about/viargos.jpeg?scale-down-to=2048 1310w,../assets/images/about/viargos.jpeg?scale-down-to=4096 2621w,../assets/images/about/viargos.jpeg 3072w"
                                                         }, ""),
                                                         height: "100%",
                                                         id: "C57hVzS16",
@@ -1896,8 +1896,8 @@ var ba = I(Le)
                                                     },
                                                     children: e(le, {
                                                         CsQbKjwc1: C({
-                                                            src: "../public/images/about/hul.png",
-                                                            srcSet: "../public/images/about/hul.png?scale-down-to=1024 655w,../public/images/about/hul.png?scale-down-to=2048 1310w,../public/images/about/hul.png?scale-down-to=4096 2621w,../public/images/about/hul.png 3072w"
+                                                            src: "../assets/images/about/hul.png",
+                                                            srcSet: "../assets/images/about/hul.png?scale-down-to=1024 655w,../assets/images/about/hul.png?scale-down-to=2048 1310w,../assets/images/about/hul.png?scale-down-to=4096 2621w,../assets/images/about/hul.png 3072w"
                                                         }, ""),
                                                         height: "100%",
                                                         id: "hURnB4HME",
@@ -2033,8 +2033,8 @@ var ba = I(Le)
                                                     },
                                                     children: e(le, {
                                                         CsQbKjwc1: C({
-                                                            src: "../public/images/about/track.png",
-                                                            srcSet: "../public/images/about/track.png?scale-down-to=1024 655w,../public/images/about/track.png?scale-down-to=2048 1310w,../public/images/about/track.png 2048w"
+                                                            src: "../assets/images/about/track.png",
+                                                            srcSet: "../assets/images/about/track.png?scale-down-to=1024 655w,../assets/images/about/track.png?scale-down-to=2048 1310w,../assets/images/about/track.png 2048w"
                                                         }, ""),
                                                         height: "100%",
                                                         id: "HR1fGSp8l",
@@ -2170,8 +2170,8 @@ var ba = I(Le)
                                                     },
                                                     children: e(le, {
                                                         CsQbKjwc1: C({
-                                                            src: "../public/images/about/snape.jpg",
-                                                            srcSet: "../public/images/about/snape.jpg?scale-down-to=1024 655w,../public/images/about/snape.jpg?scale-down-to=2048 1310w,../public/images/about/snape.jpg 2048w"
+                                                            src: "../assets/images/about/snape.jpg",
+                                                            srcSet: "../assets/images/about/snape.jpg?scale-down-to=1024 655w,../assets/images/about/snape.jpg?scale-down-to=2048 1310w,../assets/images/about/snape.jpg 2048w"
                                                         }, ""),
                                                         height: "100%",
                                                         id: "b2riXzFfL",
@@ -2203,8 +2203,8 @@ var ba = I(Le)
                                                 },
                                                 children: e(le, {
                                                     CsQbKjwc1: C({
-                                                        src: "../public/images/about/eigen.png",
-                                                        srcSet: "../public/images/about/eigen.png?scale-down-to=1024 655w,../public/images/about/eigen.png?scale-down-to=2048 1310w,../public/images/about/eigen.png 2048w"
+                                                        src: "../assets/images/about/eigen.png",
+                                                        srcSet: "../assets/images/about/eigen.png?scale-down-to=1024 655w,../assets/images/about/eigen.png?scale-down-to=2048 1310w,../assets/images/about/eigen.png 2048w"
                                                     }, ""),
                                                     height: "100%",
                                                     id: "C6l7TDeln",
@@ -2462,8 +2462,8 @@ var ba = I(Le)
                                                             pixelHeight: 751,
                                                             pixelWidth: 1200,
                                                             sizes: "calc((min(100vw - 40px, 1200px) - 40px) * 0.8)",
-                                                            src: "../public/images/about/tech58-1.png",
-                                                            srcSet: "../public/images/about/tech58-1.png?scale-down-to=512 512w,../public/images/about/tech58-1.png?scale-down-to=1024 1024w,../public/images/about/tech58-1.png 1200w"
+                                                            src: "../assets/images/about/tech58-1.png",
+                                                            srcSet: "../assets/images/about/tech58-1.png?scale-down-to=512 512w,../assets/images/about/tech58-1.png?scale-down-to=1024 1024w,../assets/images/about/tech58-1.png 1200w"
                                                         }
                                                     },
                                                     UrJVvqg6I: {
@@ -2476,8 +2476,8 @@ var ba = I(Le)
                                                             pixelHeight: 751,
                                                             pixelWidth: 1200,
                                                             sizes: "calc((min(max((min(100vw - 80px, 1200px) - 20px) / 2, 1px), 1200px) - 80px) * 0.8)",
-                                                            src: "../public/images/about/tech58-1.png",
-                                                            srcSet: "../public/images/about/tech58-1.png?scale-down-to=512 512w,../public/images/about/tech58-1.png?scale-down-to=1024 1024w,../public/images/about/tech58-1.png 1200w"
+                                                            src: "../assets/images/about/tech58-1.png",
+                                                            srcSet: "../assets/images/about/tech58-1.png?scale-down-to=512 512w,../assets/images/about/tech58-1.png?scale-down-to=1024 1024w,../assets/images/about/tech58-1.png 1200w"
                                                         }
                                                     }
                                                 },
@@ -2501,8 +2501,8 @@ var ba = I(Le)
                                                         pixelHeight: 751,
                                                         pixelWidth: 1200,
                                                         sizes: "321px",
-                                                        src: "../public/images/about/tech58-1.png",
-                                                        srcSet: "../public/images/about/tech58-1.png?scale-down-to=512 512w,../public/images/about/tech58-1.png?scale-down-to=1024 1024w,../public/images/about/tech58-1.png 1200w"
+                                                        src: "../assets/images/about/tech58-1.png",
+                                                        srcSet: "../assets/images/about/tech58-1.png?scale-down-to=512 512w,../assets/images/about/tech58-1.png?scale-down-to=1024 1024w,../assets/images/about/tech58-1.png 1200w"
                                                     },
                                                     className: "framer-14eenos",
                                                     "data-framer-name": "Image",
@@ -3407,7 +3407,7 @@ var ba = I(Le)
                                                 DjPvuQl3b: "Consumer Goods Company",
                                                 height: "100%",
                                                 I67aA0FzH: C({
-                                                    src: "../public/images/logo/hul.png"
+                                                    src: "../assets/images/logo/hul.png"
                                                 }, ""),
                                                 id: "dHxQxDSm5",
                                                 layoutId: "dHxQxDSm5",
@@ -3438,7 +3438,7 @@ var ba = I(Le)
                                                 DjPvuQl3b: "Non-Banking Financial Company",
                                                 height: "100%",
                                                 I67aA0FzH: C({
-                                                    src: "../public/images/logo/avanse.png"
+                                                    src: "../assets/images/logo/avanse.png"
                                                 }, ""),
                                                 id: "cXCkjXXEj",
                                                 layoutId: "cXCkjXXEj",
@@ -3479,7 +3479,7 @@ var ba = I(Le)
                                                     DjPvuQl3b: "Conversational AI",
                                                     height: "100%",
                                                     I67aA0FzH: C({
-                                                        src: "../public/images/logo/eigen-talk.svg"
+                                                        src: "../assets/images/logo/eigen-talk.svg"
                                                     }, ""),
                                                     id: "l3mN3pVTI",
                                                     layoutId: "l3mN3pVTI",
@@ -3527,7 +3527,7 @@ var ba = I(Le)
                                                     DjPvuQl3b: "Migration Assistant Company",
                                                     height: "100%",
                                                     I67aA0FzH: C({
-                                                        src: "../public/images/logo/migrate-globe.svg"
+                                                        src: "../assets/images/logo/migrate-globe.svg"
                                                     }, ""),
                                                     id: "Cp0vNxSxu",
                                                     layoutId: "Cp0vNxSxu",
@@ -3569,7 +3569,7 @@ var ba = I(Le)
                                                     DjPvuQl3b: "Photography Company",
                                                     height: "100%",
                                                     I67aA0FzH: C({
-                                                        src: "../public/images/logo/snape.svg"
+                                                        src: "../assets/images/logo/snape.svg"
                                                     }, ""),
                                                     id: "umRKBr275",
                                                     layoutId: "umRKBr275",
@@ -3611,7 +3611,7 @@ var ba = I(Le)
                                                     DjPvuQl3b: "Hiring Company",
                                                     height: "100%",
                                                     I67aA0FzH: C({
-                                                        src: "../public/images/logo/headcin.png"
+                                                        src: "../assets/images/logo/headcin.png"
                                                     }, ""),
                                                     id: "G1SlL4YZS",
                                                     layoutId: "G1SlL4YZS",
@@ -3659,7 +3659,7 @@ var ba = I(Le)
                                                     DjPvuQl3b: "IT company",
                                                     height: "100%",
                                                     I67aA0FzH: C({
-                                                        src: "../public/images/logo/tech-logo.png"
+                                                        src: "../assets/images/logo/tech-logo.png"
                                                     }, ""),
                                                     id: "xt9ys3cSc",
                                                     layoutId: "xt9ys3cSc",
@@ -3707,7 +3707,7 @@ var ba = I(Le)
                                                     DjPvuQl3b: "Social Media Application",
                                                     height: "100%",
                                                     I67aA0FzH: C({
-                                                        src: "../public/images/logo/viargos.svg"
+                                                        src: "../assets/images/logo/viargos.svg"
                                                     }, ""),
                                                     id: "JXR42G5OB",
                                                     layoutId: "JXR42G5OB",

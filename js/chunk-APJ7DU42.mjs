@@ -118,7 +118,7 @@ var B = ["AD1uRb789", "t6uYX0tBZ", "AnI2DvQZf", "JG7MxGgTY", "snFARdAmz", "Nz_Z2
                     },
                     XGgsiaAin: {
                         background: {
-                            src: '../public/images/dashboard/tech/framer.png',
+                            src: '../assets/images/dashboard/tech/framer.png',
                             pixelWidth: 440,
                             pixelHeight: 440,
                             intrinsicWidth: 440,
@@ -233,7 +233,7 @@ var B = ["AD1uRb789", "t6uYX0tBZ", "AnI2DvQZf", "JG7MxGgTY", "snFARdAmz", "Nz_Z2
                     },
                     XGgsiaAin: {
                         background: {
-                            src: '../public/images/dashboard/tech/spring-boot.png',
+                            src: '../assets/images/dashboard/tech/spring-boot.png',
                             pixelWidth: 440,
                             pixelHeight: 440,
                             intrinsicWidth: 440,
@@ -463,7 +463,7 @@ var B = ["AD1uRb789", "t6uYX0tBZ", "AnI2DvQZf", "JG7MxGgTY", "snFARdAmz", "Nz_Z2
                     },
                     XGgsiaAin: {
                         background: {
-                            src: '../public/images/dashboard/tech/react.jpeg',
+                            src: '../assets/images/dashboard/tech/react.jpeg',
                             pixelWidth: 440,
                             pixelHeight: 440,
                             intrinsicWidth: 440,
@@ -509,7 +509,7 @@ var B = ["AD1uRb789", "t6uYX0tBZ", "AnI2DvQZf", "JG7MxGgTY", "snFARdAmz", "Nz_Z2
                     },
                     XGgsiaAin: {
                         background: {
-                            src: '../public/images/dashboard/tech/next-logo.png',
+                            src: '../assets/images/dashboard/tech/next-logo.png',
                             pixelWidth: 440,
                             pixelHeight: 440,
                             intrinsicWidth: 440,
@@ -532,7 +532,7 @@ var B = ["AD1uRb789", "t6uYX0tBZ", "AnI2DvQZf", "JG7MxGgTY", "snFARdAmz", "Nz_Z2
                     },
                     XGgsiaAin: {
                         background: {
-                            src: './public/images/dashboard/tech/figma.png',
+                            src: './assets/images/dashboard/tech/figma.png',
                             pixelWidth: 440,
                             pixelHeight: 440,
                             intrinsicWidth: 440,
@@ -555,7 +555,7 @@ var B = ["AD1uRb789", "t6uYX0tBZ", "AnI2DvQZf", "JG7MxGgTY", "snFARdAmz", "Nz_Z2
                     },
                     XGgsiaAin: {
                         background: {
-                            src: '../public/images/dashboard/tech/postgres.png',
+                            src: '../assets/images/dashboard/tech/postgres.png',
                             pixelWidth: 440,
                             pixelHeight: 440,
                             intrinsicWidth: 440,
@@ -670,7 +670,7 @@ var B = ["AD1uRb789", "t6uYX0tBZ", "AnI2DvQZf", "JG7MxGgTY", "snFARdAmz", "Nz_Z2
                     },
                     XGgsiaAin: {
                         background: {
-                            src: '../public/images/dashboard/tech/node.png',
+                            src: '../assets/images/dashboard/tech/node.png',
                             pixelWidth: 440,
                             pixelHeight: 440,
                             intrinsicWidth: 440,
@@ -953,7 +953,7 @@ var B = ["AD1uRb789", "t6uYX0tBZ", "AnI2DvQZf", "JG7MxGgTY", "snFARdAmz", "Nz_Z2
                             rotate: Z
                         },
                         background: {
-                            src: '../public/images/dashboard/tech/flutter.png',
+                            src: '../assets/images/dashboard/tech/flutter.png',
                             pixelWidth: 440,
                             pixelHeight: 440,
                             intrinsicWidth: 440,
