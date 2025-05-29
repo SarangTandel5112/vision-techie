@@ -1,0 +1,244 @@
+import {
+    Fa as T,
+    H as k,
+    I as _,
+    K as t,
+    L as v,
+    M as b,
+    N as E,
+    O as I,
+    R as w,
+    V as O,
+    X as P,
+    Xa as z,
+    ca as S,
+    d as h,
+    f as n,
+    ga as M,
+    i as F,
+    j as p,
+    la as U,
+    ra as N
+} from "./chunk-NV2CJCYN.mjs";
+import "./chunk-JR5VT52U.mjs";
+import { c as a } from "./chunk-RIUMFBNJ.mjs";
+
+var Z = "default" in _ ? k : _,
+    l = {},
+    C = Z;
+
+l.createRoot = C.createRoot;
+l.hydrateRoot = C.hydrateRoot;
+
+var f = l.createRoot,
+    x = l.hydrateRoot;
+
+var u = {
+    augiA20Il: {
+        elements: {
+            DmyY8faCl: "s3",
+            fkHhRZZ_G: "faqs",
+            i_cGaKehC: "s2",
+            IeYaqg1iO: "s4",
+            j3NZKdvoy: "testimonials",
+            kqTC4Df1Y: "pricing",
+            lpaHuNNhB: "why",
+            LX_OfT8OG: "services",
+            PSapLKEwN: "s1",
+            t_AQN_Ibt: "howwework",
+            UTRFpoMdO: "s4-1",
+            ZSJWx5Y7R: "landing"
+        },
+        page: t(() => import("./hSR97Pxt7KqTkFrkhORh8nU5QlbG82_WMj3Ctzsv0ck.4UB3K44E.mjs")),
+        path: "/"
+    },
+    suCmzpHhM: {
+        elements: {},
+        page: t(() => import("./w5UPVEjBiahnexWkjAN-u_LvS_BQY4DSh7dBpKq9O3Y.2ZVHHP27.mjs")),
+        path: "/contact"
+    },
+    q_h_cFRrY: {
+        elements: {
+            IiPGPGp3g: "landing-1",
+            U_B_JUMef: "landing"
+        },
+        page: t(() => import("./2V-gOizifoJ6irpw1qG7fsswPlsmRQCpPbrt37YgctY.PFNWOQUX.mjs")),
+        path: "/terms-of-service"
+    },
+    dUcCWuvzQ: {
+        elements: {
+            ot147usIJ: "works",
+            yyZylXl84: "landing"
+        },
+        page: t(() => import("./lCuEYy_P_AcA9yt4ETMftC5Ry1w95URjevBwJzchTt4.L36TZ7UJ.mjs")),
+        path: "/404"
+    },
+    O9kyV_AwX: {
+        elements: {
+            fOhK_VRnJ: "landing",
+            K_t7MZl3C: "cards",
+            osXSxMxjM: "clients"
+        },
+        page: t(() => import("./qfqyZF9dOBTKssWS1vH6IRl5hLUcK3IT_p6ozNq45Ko.Q2BB7363.mjs")),
+        path: "/about"
+    },
+    fGRtGn2hR: {
+        elements: {},
+        page: t(() => import("./83zHtU5pVgO18aLhxdxyAz-nvKf3h5iJxVEo6vO3DO8.YEXFMWZ5.mjs")),
+        path: "/work"
+    },
+    MkaaTZygt: {
+        collectionId: "IlTNCULTU",
+        elements: {},
+        page: t(() => import("./ZvYUXglG_AfUrTzm3XDEuURrjmmU8GJRJY58BRB1V3o.DRNHBJGS.mjs")),
+        path: "/work/:eqfqUBAEO"
+    },
+    SnbL_u0dv: {
+        page: t(() => import("./SnbL_u0dv-QAURS3GO.mjs"))
+    }
+};
+
+var L = [{
+    code: "en",
+    id: "default",
+    name: "English",
+    slug: ""
+}];
+
+async function A({ routeId: o, pathVariables: s, localeId: r }) {
+    await u[o].page.preload();
+
+    let i = n(N, {
+        isWebsite: !0,
+        routeId: o,
+        pathVariables: s,
+        routes: u,
+        collectionUtils: {
+            IlTNCULTU: async () => (await import("./wvEEiTrI8jSFePgD7LSe0QMQ1u7DxhJdf2QLW4yOB2U.BRSFSEF4.mjs"))?.utils
+        },
+        framerSiteId: "fc87a5401aeffa23d360957ef1c580f6b702ec6c63631f37c0dfc0b1eb562e30",
+        notFoundPage: t(() => import("./lCuEYy_P_AcA9yt4ETMftC5Ry1w95URjevBwJzchTt4.L36TZ7UJ.mjs")),
+        isReducedMotion: void 0,
+        localeId: r,
+        locales: L,
+        preserveQueryParams: void 0
+    });
+
+    let c = n(U, {
+        children: i,
+        value: {
+            enableAsyncURLUpdates: !0,
+            replaceNestedLinks: !0,
+            useGranularSuspense: !0,
+            wrapUpdatesInTransitions: !1
+        }
+    });
+
+    return n(v, {
+        children: c,
+        value: {
+            routes: {}
+        }
+    });
+}
+
+var g = typeof document < "u";
+
+if (g) {
+    a.__framer_importFromPackage = (s, r) => () => n(O, {
+        error: 'Package component not supported: "' + r + '" in "' + s + '"'
+    });
+
+    a.process = {
+        ...a.process,
+        env: {
+            ...a.process ? a.process.env : void 0,
+            NODE_ENV: "production"
+        }
+    };
+
+    a.__framer_events = a.__framer_events || [];
+    P();
+
+    let o = document.getElementById("main");
+    "framerHydrateV2" in o.dataset ? G(!0, o) : G(!1, o);
+}
+
+function D() {
+    g && a.__framer_events.push(arguments);
+}
+
+async function G(o, s) {
+    try {
+        let R = function (e, V) {
+            let d = V?.componentStack;
+            console.warn("Recoverable error during hydration. Please check any custom code or code overrides to fix server/client mismatches.", e, d);
+            !(Math.random() > .01) && D("published_site_load_recoverable_error", {
+                message: String(e),
+                componentStack: d,
+                stack: d ? void 0 : e instanceof Error && typeof e.stack == "string" ? e.stack : null
+            });
+        };
+
+        let r, i, c, m;
+
+        if (o) {
+            let e = JSON.parse(s.dataset.framerHydrateV2);
+            r = e.routeId;
+            i = e.localeId;
+            c = e.pathVariables;
+            m = e.breakpoints;
+        } else {
+            let e = w(u, decodeURIComponent(location.pathname), !0, L);
+            r = e.routeId;
+            i = e.localeId;
+            c = e.pathVariables;
+        }
+
+        let y = await A({
+            routeId: r,
+            localeId: i,
+            pathVariables: c
+        });
+
+        if (o) {
+            z("framer-rewrite-breakpoints", () => {
+                T(m);
+                a.__framer_onRewriteBreakpoints?.(m);
+            });
+
+            p(() => {
+                b();
+                I();
+                E();
+                x(s, y, {
+                    onRecoverableError: R
+                });
+            });
+        } else {
+            f(s, {
+                onRecoverableError: R
+            }).render(y);
+        }
+    } catch (r) {
+        throw D("published_site_load_error", {
+            message: String(r),
+            stack: r instanceof Error && typeof r.stack == "string" ? r.stack : null
+        }), r;
+    }
+}
+
+(function () {
+    // Only run in browser environment
+    if (!g) return;
+
+    p(() => {
+        try {
+
+        } catch (error) {
+            console.error("Failed to render Framer badge:", error);
+        }
+    });
+})();
+
+export { A as getPageRoot };
