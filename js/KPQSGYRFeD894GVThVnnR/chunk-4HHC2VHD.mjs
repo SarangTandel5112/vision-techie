@@ -40,11 +40,11 @@ var o = "lL7OOh74T"
             srcSet: "https://framerusercontent.com/images/EZYQGJOeZ8n0LequwepzGkgN0.webp?scale-down-to=1024 655w, https://framerusercontent.com/images/EZYQGJOeZ8n0LequwepzGkgN0.webp?scale-down-to=2048 1310w, https://framerusercontent.com/images/EZYQGJOeZ8n0LequwepzGkgN0.webp 2048w"
         }, ""),
         [p]: e({
-            src: "../public/images/icon/snape.jpeg"
+            src: "../assets/images/icon/snape.jpeg"
         }, ""),
         [w]: e({
-            src: "../public/images/case-study/snape/main3.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/snape/main3.png?scale-down-to=512 512w, ../public/images/case-study/snape/main3.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/main3.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/main3.png?scale-down-to=4096 4096w, ../public/images/case-study/snape/main3.png 4800w"
+            src: "../assets/images/case-study/snape/main3.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/snape/main3.png?scale-down-to=512 512w, ../assets/images/case-study/snape/main3.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/main3.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/main3.png?scale-down-to=4096 4096w, ../assets/images/case-study/snape/main3.png 4800w"
         }, ""),
         [l]: "Transforming the user experience in financial management, we delved into the possibilities of a user-friendly design system for the brand.",
         [g]: `Product Graphic System
@@ -54,33 +54,33 @@ Brand Strategy`,
         [u]: "2024",
         [d]: "Rover is an all-in-one finance app designed to revolutionize the way users manage their money. Offering a comprehensive suite of financial services, Rover aims to simplify everyday banking, investing, and currency exchange for individuals and businesses alike. With its intuitive interface, seamless transactions, and innovative features, Rover empowers users to take control of their finances with ease and confidence.",
         [h]: e({
-            src: "../public/images/case-study/snape/main2.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/snape/main2.png?scale-down-to=512 512w, ../public/images/case-study/snape/main2.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/main2.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/main2.png?scale-down-to=4096 4096w, ../public/images/case-study/snape/main2.png 4800w"
+            src: "../assets/images/case-study/snape/main2.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/snape/main2.png?scale-down-to=512 512w, ../assets/images/case-study/snape/main2.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/main2.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/main2.png?scale-down-to=4096 4096w, ../assets/images/case-study/snape/main2.png 4800w"
         }, ""),
         [f]: e({
-            src: "../public/images/case-study/snape/square1.jpg",
-            srcSet: "../public/images/case-study/snape/square1.jpg?scale-down-to=512 512w, ../public/images/case-study/snape/square1.jpg?scale-down-to=1024 1024w, ../public/images/case-study/snape/square1.jpg?scale-down-to=2048 2048w, ../public/images/case-study/snape/square1.jpg 2160w"
+            src: "../assets/images/case-study/snape/square1.jpg",
+            srcSet: "../assets/images/case-study/snape/square1.jpg?scale-down-to=512 512w, ../assets/images/case-study/snape/square1.jpg?scale-down-to=1024 1024w, ../assets/images/case-study/snape/square1.jpg?scale-down-to=2048 2048w, ../assets/images/case-study/snape/square1.jpg 2160w"
         }, ""),
         [b]: e({
-            src: "../public/images/case-study/snape/square2.png",
-            srcSet: "../public/images/case-study/snape/square2.png?scale-down-to=512 512w, ../public/images/case-study/snape/square2.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/square2.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/square2.png 2160w"
+            src: "../assets/images/case-study/snape/square2.png",
+            srcSet: "../assets/images/case-study/snape/square2.png?scale-down-to=512 512w, ../assets/images/case-study/snape/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/square2.png 2160w"
         }, ""),
         [v]: e({
-            src: "../public/images/case-study/snape/main3.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/snape/main3.png?scale-down-to=512 512w, ../public/images/case-study/snape/main3.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/main3.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/main3.png?scale-down-to=4096 4096w, ../public/images/case-study/snape/main3.png 4800w"
+            src: "../assets/images/case-study/snape/main3.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/snape/main3.png?scale-down-to=512 512w, ../assets/images/case-study/snape/main3.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/main3.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/main3.png?scale-down-to=4096 4096w, ../assets/images/case-study/snape/main3.png 4800w"
         }, ""),
         [y]: "The design team encountered several challenges in developing Rover to meet the diverse needs of its users. Firstly, integrating multiple financial services into a cohesive and user-friendly platform required meticulous planning and design. Additionally, ensuring the security and privacy of users' sensitive financial data was of utmost importance. Furthermore, creating a seamless user experience across various devices and operating systems presented a technical challenge.",
         [S]: e({
-            src: "../public/images/case-study/snape/square4.png",
-            srcSet: "../public/images/case-study/snape/square4.png?scale-down-to=512 512w, ../public/images/case-study/snape/square4.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/square4.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/square4.png 2160w"
+            src: "../assets/images/case-study/snape/square4.png",
+            srcSet: "../assets/images/case-study/snape/square4.png?scale-down-to=512 512w, ../assets/images/case-study/snape/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/square4.png 2160w"
         }, ""),
         [I]: e({
-            src: "../public/images/case-study/snape/square1.jpg",
-            srcSet: "../public/images/case-study/snape/square1.jpg?scale-down-to=512 512w, ../public/images/case-study/snape/square1.jpg?scale-down-to=1024 1024w, ../public/images/case-study/snape/square1.jpg?scale-down-to=2048 2048w, ../public/images/case-study/snape/square1.jpg 2160w"
+            src: "../assets/images/case-study/snape/square1.jpg",
+            srcSet: "../assets/images/case-study/snape/square1.jpg?scale-down-to=512 512w, ../assets/images/case-study/snape/square1.jpg?scale-down-to=1024 1024w, ../assets/images/case-study/snape/square1.jpg?scale-down-to=2048 2048w, ../assets/images/case-study/snape/square1.jpg 2160w"
         }, ""),
         [U]: e({
-            src: "../public/images/case-study/snape/poster3.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/snape/poster3.png?scale-down-to=512 512w, ../public/images/case-study/snape/poster3.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/poster3.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/poster3.png?scale-down-to=4096 4096w, ../public/images/case-study/snape/poster3.png 4800w"
+            src: "../assets/images/case-study/snape/poster3.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/snape/poster3.png?scale-down-to=512 512w, ../assets/images/case-study/snape/poster3.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/poster3.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/poster3.png?scale-down-to=4096 4096w, ../assets/images/case-study/snape/poster3.png 4800w"
         }, ""),
         [M]: "Rover offers users a seamless and intuitive experience, with features such as instant money transfers, budgeting tools, and investment opportunities all within a single app. The incorporation of advanced security measures ensures that users' financial information is protected at all times. Moreover, Rover's sleek design and user-friendly interface have received widespread acclaim, positioning it as a leading contender in the competitive finance app market. Overall, Rover has transformed the way users interact with their money, making financial management simpler, smarter, and more accessible than ever before."
     }, {
@@ -101,8 +101,8 @@ Brand Strategy`,
             srcSet: "https://framerusercontent.com/images/N9KbS6t0a9ZI66TsFabGNjVGxU.png?scale-down-to=512 512w, https://framerusercontent.com/images/N9KbS6t0a9ZI66TsFabGNjVGxU.png 1000w"
         }, ""),
         [w]: e({
-            src: "../public/images/case-study/eigen/main.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/eigen/main.png?scale-down-to=512 512w, ../public/images/case-study/eigen/main.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/main.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/main.png?scale-down-to=4096 4096w, ../public/images/case-study/eigen/main.png 4800w"
+            src: "../assets/images/case-study/eigen/main.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen/main.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/main.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/main.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/main.png?scale-down-to=4096 4096w, ../assets/images/case-study/eigen/main.png 4800w"
         }, ""),
         [l]: "Eigen addresses the challenge of uncovering actionable insights from complex, unstructured data to streamline research and enhance decision-making.",
         [g]: `Brand Identity
@@ -111,33 +111,33 @@ Brand Strategy`,
         [u]: "2024",
         [d]: "Eigen empowers researchers with comprehensive tools for qualitative, quantitative, and contextual data analysis, making it easy to derive actionable insights from diverse sources.",
         [h]: e({
-            src: "../public/images/case-study/eigen/main2.jpeg?scale-down-to=4096",
-            srcSet: "../public/images/case-study/eigen/main2.jpeg?scale-down-to=512 512w, ../public/images/case-study/eigen/main2.jpeg?scale-down-to=1024 1024w, ../public/images/case-study/eigen/main2.jpeg?scale-down-to=2048 2048w, ../public/images/case-study/eigen/main2.jpeg?scale-down-to=4096 4096w, ../public/images/case-study/eigen/main2.jpeg 4800w"
+            src: "../assets/images/case-study/eigen/main2.jpeg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen/main2.jpeg?scale-down-to=512 512w, ../assets/images/case-study/eigen/main2.jpeg?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/main2.jpeg?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/main2.jpeg?scale-down-to=4096 4096w, ../assets/images/case-study/eigen/main2.jpeg 4800w"
         }, ""),
         [f]: e({
-            src: "../public/images/case-study/eigen/square2.png",
-            srcSet: "../public/images/case-study/eigen/square2.png?scale-down-to=512 512w, ../public/images/case-study/eigen/square2.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/square2.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/square2.png 2160w"
+            src: "../assets/images/case-study/eigen/square2.png",
+            srcSet: "../assets/images/case-study/eigen/square2.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/square2.png 2160w"
         }, ""),
         [b]: e({
-            src: "../public/images/case-study/eigen/square3.png",
-            srcSet: "../public/images/case-study/eigen/square3.png?scale-down-to=512 512w, ../public/images/case-study/eigen/square3.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/square3.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/square3.png 2160w"
+            src: "../assets/images/case-study/eigen/square3.png",
+            srcSet: "../assets/images/case-study/eigen/square3.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/square3.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/square3.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/square3.png 2160w"
         }, ""),
         [v]: e({
-            src: "../public/images/case-study/eigen/main3.jpeg?scale-down-to=4096",
-            srcSet: "../public/images/case-study/eigen/main3.jpeg?scale-down-to=512 512w, ../public/images/case-study/eigen/main3.jpeg?scale-down-to=1024 1024w, ../public/images/case-study/eigen/main3.jpeg?scale-down-to=2048 2048w, ../public/images/case-study/eigen/main3.jpeg?scale-down-to=4096 4096w, ../public/images/case-study/eigen/main3.jpeg 4800w"
+            src: "../assets/images/case-study/eigen/main3.jpeg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen/main3.jpeg?scale-down-to=512 512w, ../assets/images/case-study/eigen/main3.jpeg?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/main3.jpeg?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/main3.jpeg?scale-down-to=4096 4096w, ../assets/images/case-study/eigen/main3.jpeg 4800w"
         }, ""),
         [y]: "The design team faced several challenges in conceptualizing and developing Nexus. Firstly, they needed to create a user-friendly interface that catered to a diverse user base with varying levels of financial literacy. Additionally, integrating complex financial data into a visually appealing and easily digestible format presented a significant challenge. Moreover, ensuring the app's security and reliability to handle sensitive financial transactions was paramount.",
         [S]: e({
-            src: "../public/images/case-study/eigen/square4.png",
-            srcSet: "../public/images/case-study/eigen/square4.png?scale-down-to=512 512w, ../public/images/case-study/eigen/square4.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/square4.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/square4.png 2160w"
+            src: "../assets/images/case-study/eigen/square4.png",
+            srcSet: "../assets/images/case-study/eigen/square4.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/square4.png 2160w"
         }, ""),
         [I]: e({
-            src: "../public/images/case-study/eigen/square1.png",
-            srcSet: "../public/images/case-study/eigen/square1.png?scale-down-to=512 512w, ../public/images/case-study/eigen/square1.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/square1.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/square1.png 2160w"
+            src: "../assets/images/case-study/eigen/square1.png",
+            srcSet: "../assets/images/case-study/eigen/square1.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/square1.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/square1.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/square1.png 2160w"
         }, ""),
         [U]: e({
-            src: "../public/images/case-study/eigen/main.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/eigen/main.png?scale-down-to=512 512w, ../public/images/case-study/eigen/main.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/main.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/main.png?scale-down-to=4096 4096w, ../public/images/case-study/eigen/main.png 4800w"
+            src: "../assets/images/case-study/eigen/main.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen/main.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/main.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/main.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/main.png?scale-down-to=4096 4096w, ../assets/images/case-study/eigen/main.png 4800w"
         }, ""),
         [M]: "Despite these challenges, the design team successfully delivered a sleek and user-centric app that exceeded expectations. Nexus offers a seamless user experience, with an intuitive navigation system and interactive features that simplify stock market investing. The incorporation of personalized insights and educational resources has empowered users to make confident financial decisions. Furthermore, stringent security measures have been implemented to safeguard users' assets and data. Overall, Nexus has set a new standard for financial stock market apps, bridging the gap between accessibility and sophistication in the world of investing."
     }, {
@@ -158,8 +158,8 @@ Brand Strategy`,
             srcSet: "https://framerusercontent.com/images/2iqy9Im7u8cg12lMntA92OifQ.png 1000w"
         }, ""),
         [w]: e({
-            src: "../../public/images/case-study/hul/main1.png?scale-down-to=4096",
-            srcSet: "../../public/images/case-study/hul/main1.png?scale-down-to=512 512w, ../../public/images/case-study/hul/main1.png?scale-down-to=1024 1024w, ../../public/images/case-study/hul/main1.png?scale-down-to=2048 2048w, ../../public/images/case-study/hul/main1.png?scale-down-to=4096 4096w, ../../public/images/case-study/hul/main1.png 4800w"
+            src: "../../assets/images/case-study/hul/main1.png?scale-down-to=4096",
+            srcSet: "../../assets/images/case-study/hul/main1.png?scale-down-to=512 512w, ../../assets/images/case-study/hul/main1.png?scale-down-to=1024 1024w, ../../assets/images/case-study/hul/main1.png?scale-down-to=2048 2048w, ../../assets/images/case-study/hul/main1.png?scale-down-to=4096 4096w, ../../assets/images/case-study/hul/main1.png 4800w"
         }, ""),
         [l]: "Awareness & Cleaning Education Platform with Poster Customization",
         [g]: `Product Graphic System
@@ -169,20 +169,20 @@ Brand Strategy`,
         [u]: "2023",
         [d]: "We built an interactive, education-driven web platform aimed at raising public awareness about cleanliness, hygiene, and environmental care. The platform empowers users to explore informative chapters, create personalized awareness posters, and share them online or via email. The core idea is to turn users into active ambassadors for cleanliness through self-driven content creation.",
         [h]: e({
-            src: "../public/images/case-study/hul/main2.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/main2.png?scale-down-to=512 512w, ../public/images/case-study/hul/main2.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/main2.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/main2.png?scale-down-to=4096 4096w, ../public/images/case-study/hul/main2.png 4800w"
+            src: "../assets/images/case-study/hul/main2.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/main2.png?scale-down-to=512 512w, ../assets/images/case-study/hul/main2.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/main2.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/main2.png?scale-down-to=4096 4096w, ../assets/images/case-study/hul/main2.png 4800w"
         }, ""),
         [f]: e({
-            src: "../public/images/case-study/hul/square1.png",
-            srcSet: "../public/images/case-study/hul/square1.png?scale-down-to=512 512w, ../public/images/case-study/hul/square1.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/square1.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/square1.png 3240w"
+            src: "../assets/images/case-study/hul/square1.png",
+            srcSet: "../assets/images/case-study/hul/square1.png?scale-down-to=512 512w, ../assets/images/case-study/hul/square1.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/square1.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/square1.png 3240w"
         }, ""),
         [b]: e({
-            src: "../public/images/case-study/hul/square2.png",
-            srcSet: "../public/images/case-study/hul/square2.png?scale-down-to=512 512w, ../public/images/case-study/hul/square2.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/square2.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/square2.png 3240w"
+            src: "../assets/images/case-study/hul/square2.png",
+            srcSet: "../assets/images/case-study/hul/square2.png?scale-down-to=512 512w, ../assets/images/case-study/hul/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/square2.png 3240w"
         }, ""),
         [v]: e({
-            src: "../public/images/case-study/hul/main3.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/main3.png?scale-down-to=512 512w, ../public/images/case-study/hul/main3.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/main3.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/main3.png?scale-down-to=4096 4096w, ../public/images/case-study/hul/main3.png 4800w"
+            src: "../assets/images/case-study/hul/main3.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/main3.png?scale-down-to=512 512w, ../assets/images/case-study/hul/main3.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/main3.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/main3.png?scale-down-to=4096 4096w, ../assets/images/case-study/hul/main3.png 4800w"
         }, ""),
         [y]: `Our client envisioned a platform that goes beyond passive learning — something that would educate users and engage them in real-world action. The core features they required included:
 	•	A content module for chapters focused on cleanliness and awareness
@@ -211,16 +211,16 @@ Users can either download the customized poster directly or choose to receive it
 Custom Template Support
 To enhance personalization, users can also design and upload their own poster templates, making the platform a hub for creative advocacy.`,
         [S]: e({
-            src: "../public/images/case-study/hul/square3.png",
-            srcSet: "../public/images/case-study/hul/square3.png?scale-down-to=512 512w, ../public/images/case-study/hul/square3.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/square3.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/square3.png 3240w"
+            src: "../assets/images/case-study/hul/square3.png",
+            srcSet: "../assets/images/case-study/hul/square3.png?scale-down-to=512 512w, ../assets/images/case-study/hul/square3.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/square3.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/square3.png 3240w"
         }, ""),
         [I]: e({
-            src: "../public/images/case-study/hul/square4.png",
-            srcSet: "../public/images/case-study/hul/square4.png?scale-down-to=512 512w, ../public/images/case-study/hul/square4.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/square4.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/square4.png 3240w"
+            src: "../assets/images/case-study/hul/square4.png",
+            srcSet: "../assets/images/case-study/hul/square4.png?scale-down-to=512 512w, ../assets/images/case-study/hul/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/square4.png 3240w"
         }, ""),
         [U]: e({
-            src: "../public/images/case-study/hul/main4.jpeg?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/main4.jpeg?scale-down-to=512 512w, ../public/images/case-study/hul/main4.jpeg?scale-down-to=1024 1024w, ../public/images/case-study/hul/main4.jpeg?scale-down-to=2048 2048w, ../public/images/case-study/hul/main4.jpeg?scale-down-to=4096 4096w, ../public/images/case-study/hul/main4.jpeg 4800w"
+            src: "../assets/images/case-study/hul/main4.jpeg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/main4.jpeg?scale-down-to=512 512w, ../assets/images/case-study/hul/main4.jpeg?scale-down-to=1024 1024w, ../assets/images/case-study/hul/main4.jpeg?scale-down-to=2048 2048w, ../assets/images/case-study/hul/main4.jpeg?scale-down-to=4096 4096w, ../assets/images/case-study/hul/main4.jpeg 4800w"
         }, ""),
         [M]: `Dynamic Image Cropping & Integration
 One of the biggest technical challenges in the project was dynamically cropping user-uploaded images to fit within different poster templates without affecting the layout or design quality. Since each template had predefined image boundaries, we needed a reliable way to:

@@ -3545,7 +3545,7 @@ var Si = {
                             intrinsicWidth: 402,
                             pixelHeight: 112,
                             pixelWidth: 402,
-                            src: "./public/images/logo/eigen-track.svg"
+                            src: "./assets/images/logo/eigen-track.svg"
                         },
                         className: P("framer-1nk7dys", h),
                         "data-framer-name": "Variant 1",
@@ -3565,7 +3565,7 @@ var Si = {
                                     intrinsicWidth: 402,
                                     pixelHeight: 98,
                                     pixelWidth: 402,
-                                    src: "./public/images/logo/headcin.png"
+                                    src: "./assets/images/logo/headcin.png"
                                 }
                             },
                             ELIG1hLCs: {
@@ -3577,7 +3577,7 @@ var Si = {
                                     intrinsicWidth: 312,
                                     pixelHeight: 98,
                                     pixelWidth: 312,
-                                    src: "./public/images/logo/avanse.png"
+                                    src: "./assets/images/logo/avanse.png"
                                 }
                             },
                             hBteW_XbU: {
@@ -3589,7 +3589,7 @@ var Si = {
                                     intrinsicWidth: 286,
                                     pixelHeight: 98,
                                     pixelWidth: 286,
-                                    src: "./public/images/logo/tech-logo.png"
+                                    src: "./assets/images/logo/tech-logo.png"
                                 }
                             },
                             IGUSsChqD: {
@@ -3601,7 +3601,7 @@ var Si = {
                                     intrinsicWidth: 221,
                                     pixelHeight: 98,
                                     pixelWidth: 221,
-                                    src: "./public/images/logo/viargos.svg"
+                                    src: "./assets/images/logo/viargos.svg"
                                 }
                             },
                             SozWDvEgb: {
@@ -3613,7 +3613,7 @@ var Si = {
                                     intrinsicWidth: 350,
                                     pixelHeight: 118,
                                     pixelWidth: 350,
-                                    src: "./public/images/logo/hul.png"
+                                    src: "./assets/images/logo/hul.png"
                                 }
                             },
                             uIHj_Defl: {
@@ -3625,7 +3625,7 @@ var Si = {
                                     intrinsicWidth: 355,
                                     pixelHeight: 105,
                                     pixelWidth: 355,
-                                    src: "./public/images/logo/snape.svg"
+                                    src: "./assets/images/logo/snape.svg"
                                 }
                             },
                             YdLtaFI8u: {
@@ -3637,7 +3637,7 @@ var Si = {
                                     intrinsicWidth: 306,
                                     pixelHeight: 98,
                                     pixelWidth: 306,
-                                    src: "./public/images/logo/migrate-globe.svg"
+                                    src: "./assets/images/logo/migrate-globe.svg"
                                 }
                             }
                         }, _, T)
@@ -6499,8 +6499,8 @@ var Xi = R(Ir)
                                                         pixelHeight: 1650,
                                                         pixelWidth: 750,
                                                         sizes: "calc(100vw - 225px)",
-                                                        src: "./public/images/dashboard/slider/eigen-track1.png",
-                                                        srcSet: "./public/images/dashboard/slider/eigen-track1.png 750w"
+                                                        src: "./assets/images/dashboard/slider/eigen-track1.png",
+                                                        srcSet: "./assets/images/dashboard/slider/eigen-track1.png 750w"
                                                     },
                                                     transformTemplate: void 0
                                                 },
@@ -6547,8 +6547,8 @@ var Xi = R(Ir)
                                                         pixelHeight: 1650,
                                                         pixelWidth: 750,
                                                         sizes: "calc(max((100vw - 160px) / 2, 1px) - 185px)",
-                                                        src: "./public/images/dashboard/slider/eigen-track1.png",
-                                                        srcSet: "./public/images/dashboard/slider/eigen-track1.png 750w"
+                                                        src: "./assets/images/dashboard/slider/eigen-track1.png",
+                                                        srcSet: "./assets/images/dashboard/slider/eigen-track1.png 750w"
                                                     },
                                                     transformTemplate: void 0
                                                 }
@@ -6600,8 +6600,8 @@ var Xi = R(Ir)
                                                     pixelHeight: 1650,
                                                     pixelWidth: 750,
                                                     sizes: "220px",
-                                                    src: "./public/images/dashboard/slider/eigen-track1.png",
-                                                    srcSet: "./public/images/dashboard/slider/eigen-track1.png 750w"
+                                                    src: "./assets/images/dashboard/slider/eigen-track1.png",
+                                                    srcSet: "./assets/images/dashboard/slider/eigen-track1.png 750w"
                                                 },
                                                 className: "framer-1vazuy",
                                                 "data-framer-name": "App UI",
@@ -6973,8 +6973,8 @@ var Xi = R(Ir)
                                                         pixelHeight: 1650,
                                                         pixelWidth: 750,
                                                         sizes: "calc(max((100vw - 160px) / 2, 1px) - 185px)",
-                                                        src: "./public/images/dashboard/slider/eigen-talk.png",
-                                                        srcSet: "./public/images/dashboard/slider/eigen-talk.png 750w"
+                                                        src: "./assets/images/dashboard/slider/eigen-talk.png",
+                                                        srcSet: "./assets/images/dashboard/slider/eigen-talk.png 750w"
                                                     },
                                                     transformTemplate: void 0
                                                 }
@@ -7026,8 +7026,8 @@ var Xi = R(Ir)
                                                     pixelHeight: 1650,
                                                     pixelWidth: 750,
                                                     sizes: "220px",
-                                                    src: "./public/images/dashboard/slider/eigen-track1.png",
-                                                    srcSet: "./public/images/dashboard/slider/eigen-track1.png 750w"
+                                                    src: "./assets/images/dashboard/slider/eigen-track1.png",
+                                                    srcSet: "./assets/images/dashboard/slider/eigen-track1.png 750w"
                                                 },
                                                 className: "framer-anjilr",
                                                 "data-framer-name": "App UI",
@@ -12174,7 +12174,7 @@ var Xi = R(Ir)
                                                             intrinsicWidth: 221,
                                                             pixelHeight: 98,
                                                             pixelWidth: 221,
-                                                            src: "./public/images/logo/viargos.svg"
+                                                            src: "./assets/images/logo/viargos.svg"
                                                         }
                                                     },
                                                     kt6FsmLCN: {
@@ -12186,7 +12186,7 @@ var Xi = R(Ir)
                                                             loading: F(10918.6),
                                                             pixelHeight: 98,
                                                             pixelWidth: 221,
-                                                            src: "./public/images/logo/viargos.svg"
+                                                            src: "./assets/images/logo/viargos.svg"
                                                         }
                                                     }
                                                 },
@@ -12199,7 +12199,7 @@ var Xi = R(Ir)
                                                         loading: F(10261.2),
                                                         pixelHeight: 98,
                                                         pixelWidth: 221,
-                                                        src: "./public/images/logo/viargos.svg"
+                                                        src: "./assets/images/logo/viargos.svg"
                                                     },
                                                     className: "framer-1e2l9f1",
                                                     "data-framer-name": "Logo",

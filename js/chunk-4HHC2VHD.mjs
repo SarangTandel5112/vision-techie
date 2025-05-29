@@ -32,19 +32,19 @@ var o = "lL7OOh74T"
         [c]: "Redefining finances",
         [a]: "rover",
         [i]: e({
-            src: "../public/images/case-study/snape/poster.png",
-            srcSet: "../public/images/case-study/snape/poster.png?scale-down-to=1024 655w, ../public/images/case-study/snape/poster.png?scale-down-to=2048 1310w, ../public/images/case-study/snape/poster.png 2048w"
+            src: "../assets/images/case-study/snape/poster.png",
+            srcSet: "../assets/images/case-study/snape/poster.png?scale-down-to=1024 655w, ../assets/images/case-study/snape/poster.png?scale-down-to=2048 1310w, ../assets/images/case-study/snape/poster.png 2048w"
         }, ""),
         [m]: e({
-            src: "../public/images/case-study/snape/hover.jpg",
-            srcSet: "../public/images/case-study/snape/hover.jpg?scale-down-to=1024 655w, ../public/images/case-study/snape/hover.jpg?scale-down-to=2048 1310w, ../public/images/case-study/snape/hover.jpg 2048w"
+            src: "../assets/images/case-study/snape/hover.jpg",
+            srcSet: "../assets/images/case-study/snape/hover.jpg?scale-down-to=1024 655w, ../assets/images/case-study/snape/hover.jpg?scale-down-to=2048 1310w, ../assets/images/case-study/snape/hover.jpg 2048w"
         }, ""),
         [p]: e({
-            src: "../public/images/icon/snape.jpeg"
+            src: "../assets/images/icon/snape.jpeg"
         }, ""),
         [w]: e({
-            src: "../public/images/case-study/snape/main.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/snape/main.png?scale-down-to=512 512w, ../public/images/case-study/snape/main.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/main.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/main.png?scale-down-to=4096 4096w, ../public/images/case-study/snape/main.png 4800w"
+            src: "../assets/images/case-study/snape/main.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/snape/main.png?scale-down-to=512 512w, ../assets/images/case-study/snape/main.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/main.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/main.png?scale-down-to=4096 4096w, ../assets/images/case-study/snape/main.png 4800w"
         }, ""),
         [l]: "Revolutionizing workflow efficiency for photographers, we crafted a custom web solution tailored to streamline project management and elevate the user experience.",
         [g]: `Product Development
@@ -52,20 +52,20 @@ Product hosting`,
         [u]: "2023",
         [d]: "We developed a robust web application for professional photographers, enabling them to manage their complete business workflow — from appointment scheduling to delivering password-protected albums — with ease and efficiency. Designed with scalability and performance in mind, this solution also addresses the unique challenges of handling high-resolution image assets and optimizing cloud storage costs.",
         [h]: e({
-            src: "../public/images/case-study/snape/main2.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/snape/main2.png?scale-down-to=512 512w, ../public/images/case-study/snape/main2.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/main2.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/main2.png?scale-down-to=4096 4096w, ../public/images/case-study/snape/main2.png 4800w"
+            src: "../assets/images/case-study/snape/main2.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/snape/main2.png?scale-down-to=512 512w, ../assets/images/case-study/snape/main2.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/main2.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/main2.png?scale-down-to=4096 4096w, ../assets/images/case-study/snape/main2.png 4800w"
         }, ""),
         [f]: e({
-            src: "../public/images/case-study/snape/square3.png",
-            srcSet: "../public/images/case-study/snape/square3.png?scale-down-to=512 512w, ../public/images/case-study/snape/square3.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/square3.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/square3.png 2160w"
+            src: "../assets/images/case-study/snape/square3.png",
+            srcSet: "../assets/images/case-study/snape/square3.png?scale-down-to=512 512w, ../assets/images/case-study/snape/square3.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/square3.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/square3.png 2160w"
         }, ""),
         [b]: e({
-            src: "../public/images/case-study/snape/square2.png",
-            srcSet: "../public/images/case-study/snape/square2.png?scale-down-to=512 512w, ../public/images/case-study/snape/square2.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/square2.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/square2.png 2160w"
+            src: "../assets/images/case-study/snape/square2.png",
+            srcSet: "../assets/images/case-study/snape/square2.png?scale-down-to=512 512w, ../assets/images/case-study/snape/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/square2.png 2160w"
         }, ""),
         [v]: e({
-            src: "../public/images/case-study/snape/main3.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/snape/main3.png?scale-down-to=512 512w, ../public/images/case-study/snape/main3.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/main3.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/main3.png?scale-down-to=4096 4096w, ../public/images/case-study/snape/main3.png 4800w"
+            src: "../assets/images/case-study/snape/main3.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/snape/main3.png?scale-down-to=512 512w, ../assets/images/case-study/snape/main3.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/main3.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/main3.png?scale-down-to=4096 4096w, ../assets/images/case-study/snape/main3.png 4800w"
         }, ""),
         [y]: `Our client, a photography service provider, needed a centralized platform to streamline operations and improve client experience. Key requirements included:
 	•	Appointment and client management
@@ -90,16 +90,16 @@ Our team built a custom web application using React.js for the frontend and Node
     •   Portfolio Showcase
         A built-in portfolio module allows photographers to showcase their best work to potential clients, improving visibility and business growth.`,
         [S]: e({
-            src: "../public/images/case-study/snape/square4.png",
-            srcSet: "../public/images/case-study/snape/square4.png?scale-down-to=512 512w, ../public/images/case-study/snape/square4.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/square4.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/square4.png 2160w"
+            src: "../assets/images/case-study/snape/square4.png",
+            srcSet: "../assets/images/case-study/snape/square4.png?scale-down-to=512 512w, ../assets/images/case-study/snape/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/square4.png 2160w"
         }, ""),
         [I]: e({
-            src: "../public/images/case-study/snape/square1.jpg",
-            srcSet: "../public/images/case-study/snape/square1.jpg?scale-down-to=512 512w, ../public/images/case-study/snape/square1.jpg?scale-down-to=1024 1024w, ../public/images/case-study/snape/square1.jpg?scale-down-to=2048 2048w, ../public/images/case-study/snape/square1.jpg 2160w"
+            src: "../assets/images/case-study/snape/square1.jpg",
+            srcSet: "../assets/images/case-study/snape/square1.jpg?scale-down-to=512 512w, ../assets/images/case-study/snape/square1.jpg?scale-down-to=1024 1024w, ../assets/images/case-study/snape/square1.jpg?scale-down-to=2048 2048w, ../assets/images/case-study/snape/square1.jpg 2160w"
         }, ""),
         [U]: e({
-            src: "../public/images/case-study/snape/poster3.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/snape/poster3.png?scale-down-to=512 512w, ../public/images/case-study/snape/poster3.png?scale-down-to=1024 1024w, ../public/images/case-study/snape/poster3.png?scale-down-to=2048 2048w, ../public/images/case-study/snape/poster3.png?scale-down-to=4096 4096w, ../public/images/case-study/snape/poster3.png 4800w"
+            src: "../assets/images/case-study/snape/poster3.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/snape/poster3.png?scale-down-to=512 512w, ../assets/images/case-study/snape/poster3.png?scale-down-to=1024 1024w, ../assets/images/case-study/snape/poster3.png?scale-down-to=2048 2048w, ../assets/images/case-study/snape/poster3.png?scale-down-to=4096 4096w, ../assets/images/case-study/snape/poster3.png 4800w"
         }, ""),
         [M]: `Optimized Image Handling
 Handling large volumes of high-resolution images can be resource-intensive. To ensure fast load times and performance, we implemented:
@@ -130,20 +130,20 @@ Amazon S3 is reliable but often costly at scale. To reduce long-term storage exp
         [c]: "Simplifying trading",
         [a]: "nexus",
         [i]: e({
-            src: "../public/images/about/track.png",
-            srcSet: "../public/images/about/track.png?scale-down-to=1024 655w, ../public/images/about/track.png?scale-down-to=2048 1310w, ../public/images/about/track.png 2048w"
+            src: "../assets/images/about/track.png",
+            srcSet: "../assets/images/about/track.png?scale-down-to=1024 655w, ../assets/images/about/track.png?scale-down-to=2048 1310w, ../assets/images/about/track.png 2048w"
         }, ""),
         [m]: e({
-            src: "../public/images/case-study/eigen/hover.png",
-            srcSet: "../public/images/case-study/eigen/hover.png?scale-down-to=1024 655w, ../public/images/case-study/eigen/hover.png?scale-down-to=2048 1310w, ../public/images/case-study/eigen/hover.png 2048w"
+            src: "../assets/images/case-study/eigen/hover.png",
+            srcSet: "../assets/images/case-study/eigen/hover.png?scale-down-to=1024 655w, ../assets/images/case-study/eigen/hover.png?scale-down-to=2048 1310w, ../assets/images/case-study/eigen/hover.png 2048w"
         }, ""),
         [p]: e({
-            src: "../public/images/icon/eigen.svg",
-            srcSet: "../public/images/icon/eigen.svg?scale-down-to=512 512w, ../public/images/icon/eigen.svg 1000w"
+            src: "../assets/images/icon/eigen.svg",
+            srcSet: "../assets/images/icon/eigen.svg?scale-down-to=512 512w, ../assets/images/icon/eigen.svg 1000w"
         }, ""),
         [w]: e({
-            src: "../public/images/case-study/eigen/main.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/eigen/main.png?scale-down-to=512 512w, ../public/images/case-study/eigen/main.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/main.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/main.png?scale-down-to=4096 4096w, ../public/images/case-study/eigen/main.png 4800w"
+            src: "../assets/images/case-study/eigen/main.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen/main.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/main.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/main.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/main.png?scale-down-to=4096 4096w, ../assets/images/case-study/eigen/main.png 4800w"
         }, ""),
         [l]: "Eigen addresses the challenge of uncovering actionable insights from complex, unstructured data to streamline research and enhance decision-making.",
         [g]: `UI/UX Design
@@ -152,20 +152,20 @@ Website hosting`,
         [u]: "2024",
         [d]: "Eigen empowers researchers with comprehensive tools for qualitative, quantitative, and contextual data analysis, making it easy to derive actionable insights from diverse sources.",
         [h]: e({
-            src: "../public/images/case-study/eigen/main2.jpeg?scale-down-to=4096",
-            srcSet: "../public/images/case-study/eigen/main2.jpeg?scale-down-to=512 512w, ../public/images/case-study/eigen/main2.jpeg?scale-down-to=1024 1024w, ../public/images/case-study/eigen/main2.jpeg?scale-down-to=2048 2048w, ../public/images/case-study/eigen/main2.jpeg?scale-down-to=4096 4096w, ../public/images/case-study/eigen/main2.png 4800w"
+            src: "../assets/images/case-study/eigen/main2.jpeg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen/main2.jpeg?scale-down-to=512 512w, ../assets/images/case-study/eigen/main2.jpeg?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/main2.jpeg?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/main2.jpeg?scale-down-to=4096 4096w, ../assets/images/case-study/eigen/main2.png 4800w"
         }, ""),
         [f]: e({
-            src: "../public/images/case-study/eigen/square2.png",
-            srcSet: "../public/images/case-study/eigen/square2.png?scale-down-to=512 512w, ../public/images/case-study/eigen/square2.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/square2.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/square2.png 2160w"
+            src: "../assets/images/case-study/eigen/square2.png",
+            srcSet: "../assets/images/case-study/eigen/square2.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/square2.png 2160w"
         }, ""),
         [b]: e({
-            src: "../public/images/case-study/eigen/square3.png",
-            srcSet: "../public/images/case-study/eigen/square3.png?scale-down-to=512 512w, ../public/images/case-study/eigen/square3.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/square3.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/square3.png 2160w"
+            src: "../assets/images/case-study/eigen/square3.png",
+            srcSet: "../assets/images/case-study/eigen/square3.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/square3.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/square3.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/square3.png 2160w"
         }, ""),
         [v]: e({
-            src: "../public/images/case-study/eigen/main3.jpeg?scale-down-to=4096",
-            srcSet: "../public/images/case-study/eigen/main3.jpeg?scale-down-to=512 512w, ../public/images/case-study/eigen/main3.jpeg?scale-down-to=1024 1024w, ../public/images/case-study/eigen/main3.jpeg?scale-down-to=2048 2048w, ../public/images/case-study/eigen/main3.jpeg?scale-down-to=4096 4096w, ../public/images/case-study/eigen/main3.jpeg 4800w"
+            src: "../assets/images/case-study/eigen/main3.jpeg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen/main3.jpeg?scale-down-to=512 512w, ../assets/images/case-study/eigen/main3.jpeg?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/main3.jpeg?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/main3.jpeg?scale-down-to=4096 4096w, ../assets/images/case-study/eigen/main3.jpeg 4800w"
         }, ""),
         [y]: `Inefficient Data Analysis - Simplifies and accelerates the process of analyzing vast amounts of historical and real-time data.
 Missed Insights -  Unveils hidden patterns and actionable insights that are often overlooked in traditional research methods.
@@ -173,16 +173,16 @@ Lack of Personalization -   Adapts to unique research needs through customized p
 Efficiency Boost - Automate time-intensive processes like web scraping and data synthesis.
 `,
         [S]: e({
-            src: "../public/images/case-study/eigen/square4.png",
-            srcSet: "../public/images/case-study/eigen/square4.png?scale-down-to=512 512w, ../public/images/case-study/eigen/square4.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/square4.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/square4.png 2160w"
+            src: "../assets/images/case-study/eigen/square4.png",
+            srcSet: "../assets/images/case-study/eigen/square4.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/square4.png 2160w"
         }, ""),
         [I]: e({
-            src: "../public/images/case-study/eigen/square1.png",
-            srcSet: "../public/images/case-study/eigen/square1.png?scale-down-to=512 512w, ../public/images/case-study/eigen/square1.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/square1.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/square1.png 2160w"
+            src: "../assets/images/case-study/eigen/square1.png",
+            srcSet: "../assets/images/case-study/eigen/square1.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/square1.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/square1.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/square1.png 2160w"
         }, ""),
         [U]: e({
-            src: "../public/images/case-study/eigen/main4.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/eigen/main4.png?scale-down-to=512 512w, ../public/images/case-study/eigen/main4.png?scale-down-to=1024 1024w, ../public/images/case-study/eigen/main4.png?scale-down-to=2048 2048w, ../public/images/case-study/eigen/main4.png?scale-down-to=4096 4096w, ../public/images/case-study/eigen/main4.png 4800w"
+            src: "../assets/images/case-study/eigen/main4.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen/main4.png?scale-down-to=512 512w, ../assets/images/case-study/eigen/main4.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen/main4.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen/main4.png?scale-down-to=4096 4096w, ../assets/images/case-study/eigen/main4.png 4800w"
         }, ""),
         [M]: "To address the inefficiencies of traditional research by leveraging AI to uncover actionable insights from complex data, streamlining workflows, & empowering confident decision-making."
     }, {
@@ -191,20 +191,20 @@ Efficiency Boost - Automate time-intensive processes like web scraping and data 
         [c]: "Reinventing the next social platform",
         [a]: "social-butterfly",
         [i]: e({
-            src: "../public/images/case-study/hul/poster.jpeg?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/poster.jpeg?scale-down-to=1024 655w, ../public/images/case-study/hul/poster.jpeg?scale-down-to=2048 1310w, ../public/images/case-study/hul/poster.jpeg?scale-down-to=4096 2621w, ../public/images/case-study/hul/poster.jpeg 3072w"
+            src: "../assets/images/case-study/hul/poster.jpeg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/poster.jpeg?scale-down-to=1024 655w, ../assets/images/case-study/hul/poster.jpeg?scale-down-to=2048 1310w, ../assets/images/case-study/hul/poster.jpeg?scale-down-to=4096 2621w, ../assets/images/case-study/hul/poster.jpeg 3072w"
         }, ""),
         [m]: e({
-            src: "../public/images/case-study/hul/hover.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/hover.png?scale-down-to=1024 655w, ../public/images/case-study/hul/hover.png?scale-down-to=2048 1310w, ../public/images/case-study/hul/hover.png?scale-down-to=4096 2621w, ../public/images/case-study/hul/hover.png 3072w"
+            src: "../assets/images/case-study/hul/hover.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/hover.png?scale-down-to=1024 655w, ../assets/images/case-study/hul/hover.png?scale-down-to=2048 1310w, ../assets/images/case-study/hul/hover.png?scale-down-to=4096 2621w, ../assets/images/case-study/hul/hover.png 3072w"
         }, ""),
         [p]: e({
-            src: "../public/images/icon/hul.svg",
-            srcSet: "../public/images/icon/hul.svg 1000w"
+            src: "../assets/images/icon/hul.svg",
+            srcSet: "../assets/images/icon/hul.svg 1000w"
         }, ""),
         [w]: e({
-            src: "../public/images/case-study/hul/main1.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/main1.png?scale-down-to=512 512w, ../public/images/case-study/hul/main1.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/main1.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/main1.png?scale-down-to=4096 4096w, ../public/images/case-study/hul/main1.png 4800w"
+            src: "../assets/images/case-study/hul/main1.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/main1.png?scale-down-to=512 512w, ../assets/images/case-study/hul/main1.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/main1.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/main1.png?scale-down-to=4096 4096w, ../assets/images/case-study/hul/main1.png 4800w"
         }, ""),
         [l]: "Awareness & Cleaning Education Platform with Poster Customization",
         [g]: `UI/UX Design
@@ -214,20 +214,20 @@ Product hosting
         [u]: "2024",
         [d]: "We built an interactive, education-driven web platform aimed at raising public awareness about cleanliness, hygiene, and environmental care. The platform empowers users to explore informative chapters, create personalized awareness posters, and share them online or via email. The core idea is to turn users into active ambassadors for cleanliness through self-driven content creation.",
         [h]: e({
-            src: "../public/images/case-study/hul/main2.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/main2.png?scale-down-to=512 512w, ../public/images/case-study/hul/main2.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/main2.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/main2.png?scale-down-to=4096 4096w, ../public/images/case-study/hul/main2.png 4800w"
+            src: "../assets/images/case-study/hul/main2.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/main2.png?scale-down-to=512 512w, ../assets/images/case-study/hul/main2.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/main2.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/main2.png?scale-down-to=4096 4096w, ../assets/images/case-study/hul/main2.png 4800w"
         }, ""),
         [f]: e({
-            src: "../public/images/case-study/hul/square1.png",
-            srcSet: "../public/images/case-study/hul/square1.png?scale-down-to=512 512w, ../public/images/case-study/hul/square1.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/square1.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/square1.png 3240w"
+            src: "../assets/images/case-study/hul/square1.png",
+            srcSet: "../assets/images/case-study/hul/square1.png?scale-down-to=512 512w, ../assets/images/case-study/hul/square1.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/square1.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/square1.png 3240w"
         }, ""),
         [b]: e({
-            src: "../public/images/case-study/hul/square2.png",
-            srcSet: "../public/images/case-study/hul/square2.png?scale-down-to=512 512w, ../public/images/case-study/hul/square2.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/square2.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/square2.png 3240w"
+            src: "../assets/images/case-study/hul/square2.png",
+            srcSet: "../assets/images/case-study/hul/square2.png?scale-down-to=512 512w, ../assets/images/case-study/hul/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/square2.png 3240w"
         }, ""),
         [v]: e({
-            src: "../public/images/case-study/hul/main3.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/main3.png?scale-down-to=512 512w, ../public/images/case-study/hul/main3.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/main3.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/main3.png?scale-down-to=4096 4096w, ../public/images/case-study/hul/main3.png 4800w"
+            src: "../assets/images/case-study/hul/main3.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/main3.png?scale-down-to=512 512w, ../assets/images/case-study/hul/main3.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/main3.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/main3.png?scale-down-to=4096 4096w, ../assets/images/case-study/hul/main3.png 4800w"
         }, ""),
         [y]: `Our client envisioned a platform that goes beyond passive learning — something that would educate users and engage them in real-world action. The core features they required included:
 	•	A content module for chapters focused on cleanliness and awareness
@@ -256,16 +256,16 @@ Users can either download the customized poster directly or choose to receive it
 Custom Template Support
 To enhance personalization, users can also design and upload their own poster templates, making the platform a hub for creative advocacy.`,
         [S]: e({
-            src: "../public/images/case-study/hul/square3.png",
-            srcSet: "../public/images/case-study/hul/square3.png?scale-down-to=512 512w, ../public/images/case-study/hul/square3.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/square3.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/square3.png 3240w"
+            src: "../assets/images/case-study/hul/square3.png",
+            srcSet: "../assets/images/case-study/hul/square3.png?scale-down-to=512 512w, ../assets/images/case-study/hul/square3.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/square3.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/square3.png 3240w"
         }, ""),
         [I]: e({
-            src: "../public/images/case-study/hul/square4.png",
-            srcSet: "../public/images/case-study/hul/square4.png?scale-down-to=512 512w, ../public/images/case-study/hul/square4.png?scale-down-to=1024 1024w, ../public/images/case-study/hul/square4.png?scale-down-to=2048 2048w, ../public/images/case-study/hul/square4.png 3240w"
+            src: "../assets/images/case-study/hul/square4.png",
+            srcSet: "../assets/images/case-study/hul/square4.png?scale-down-to=512 512w, ../assets/images/case-study/hul/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/hul/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/hul/square4.png 3240w"
         }, ""),
         [U]: e({
-            src: "../public/images/case-study/hul/main4.jpeg?scale-down-to=4096",
-            srcSet: "../public/images/case-study/hul/main4.jpeg?scale-down-to=512 512w, ../public/images/case-study/hul/main4.jpeg?scale-down-to=1024 1024w, ../public/images/case-study/hul/main4.jpeg?scale-down-to=2048 2048w, ../public/images/case-study/hul/main4.jpeg?scale-down-to=4096 4096w, ../public/images/case-study/hul/main4.jpeg 4800w"
+            src: "../assets/images/case-study/hul/main4.jpeg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/hul/main4.jpeg?scale-down-to=512 512w, ../assets/images/case-study/hul/main4.jpeg?scale-down-to=1024 1024w, ../assets/images/case-study/hul/main4.jpeg?scale-down-to=2048 2048w, ../assets/images/case-study/hul/main4.jpeg?scale-down-to=4096 4096w, ../assets/images/case-study/hul/main4.jpeg 4800w"
         }, ""),
         [M]: `Dynamic Image Cropping & Integration
 One of the biggest technical challenges in the project was dynamically cropping user-uploaded images to fit within different poster templates without affecting the layout or design quality. Since each template had predefined image boundaries, we needed a reliable way to:
@@ -295,16 +295,16 @@ Outcome
         [c]: "Streamline the way you spend money",
         [a]: "arrival",
         [i]: e({
-            src: "../public/images/case-study/migrate-globe/poster.png?scale-down-to=4096",
-            srcSet: "../public/images/case-study/migrate-globe/poster.png?scale-down-to=1024 655w, ../public/images/case-study/migrate-globe/poster.png?scale-down-to=2048 1310w, ../public/images/case-study/migrate-globe/poster.png?scale-down-to=4096 2621w, ../public/images/case-study/migrate-globe/poster.png 3072w"
+            src: "../assets/images/case-study/migrate-globe/poster.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/migrate-globe/poster.png?scale-down-to=1024 655w, ../assets/images/case-study/migrate-globe/poster.png?scale-down-to=2048 1310w, ../assets/images/case-study/migrate-globe/poster.png?scale-down-to=4096 2621w, ../assets/images/case-study/migrate-globe/poster.png 3072w"
         }, ""),
         [m]: e({
-            src: "../public/images/case-study/migrate-globe/hover.jpg?scale-down-to=4096",
-            srcSet: "../public/images/case-study/migrate-globe/hover.jpg?scale-down-to=1024 655w, ../public/images/case-study/migrate-globe/hover.jpg?scale-down-to=2048 1310w, ../public/images/case-study/migrate-globe/hover.jpg?scale-down-to=4096 2621w, ../public/images/case-study/migrate-globe/hover.jpg 3072w"
+            src: "../assets/images/case-study/migrate-globe/hover.jpg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/migrate-globe/hover.jpg?scale-down-to=1024 655w, ../assets/images/case-study/migrate-globe/hover.jpg?scale-down-to=2048 1310w, ../assets/images/case-study/migrate-globe/hover.jpg?scale-down-to=4096 2621w, ../assets/images/case-study/migrate-globe/hover.jpg 3072w"
         }, ""),
         [p]: e({
-            src: "../public/images/icon/mg.svg",
-            srcSet: "../public/images/icon/mg.svg?scale-down-to=512 512w, ../public/images/icon/mg.svg 1024w"
+            src: "../assets/images/icon/mg.svg",
+            srcSet: "../assets/images/icon/mg.svg?scale-down-to=512 512w, ../assets/images/icon/mg.svg 1024w"
         }, ""),
         [w]: e({
             src: "https://framerusercontent.com/images/01t7x8n1XUrEZVLDWq9O4M1uE.webp?scale-down-to=4096",
@@ -400,15 +400,15 @@ Outcome
         [c]: "Bringing community together",
         [a]: "cohort",
         [i]: e({
-            src: "../public/images/about/eigen.png",
-            srcSet: "../public/images/about/eigen.png?scale-down-to=1024 655w, ../public/images/about/eigen.png?scale-down-to=2048 1310w, ../public/images/about/eigen.png 2048w"
+            src: "../assets/images/about/eigen.png",
+            srcSet: "../assets/images/about/eigen.png?scale-down-to=1024 655w, ../assets/images/about/eigen.png?scale-down-to=2048 1310w, ../assets/images/about/eigen.png 2048w"
         }, ""),
         [m]: e({
-            src: "../public/images/case-study/eigen/hover.png",
-            srcSet: "../public/images/case-study/eigen/hover.png?scale-down-to=1024 655w, ../public/images/case-study/eigen/hover.png?scale-down-to=2048 1310w, ../public/images/case-study/eigen/hover.png 2048w"
+            src: "../assets/images/case-study/eigen/hover.png",
+            srcSet: "../assets/images/case-study/eigen/hover.png?scale-down-to=1024 655w, ../assets/images/case-study/eigen/hover.png?scale-down-to=2048 1310w, ../assets/images/case-study/eigen/hover.png 2048w"
         }, ""),
         [p]: e({
-            src: "../public/images/icon/eigen.svg"
+            src: "../assets/images/icon/eigen.svg"
         }, ""),
         [w]: e({
             src: "https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=4096",
@@ -508,15 +508,15 @@ Outcome
         [c]: "A sample project for demonstration",
         [a]: "dummy-project",
         [i]: e({
-            src: "../public/images/case-study/viargos/poster.png",
-            srcSet: "../public/images/case-study/viargos/poster.png?scale-down-to=1024 655w, ../public/images/case-study/viargos/poster.png?scale-down-to=2048 1310w, ../public/images/case-study/viargos/poster.png 2048w"
+            src: "../assets/images/case-study/viargos/poster.png",
+            srcSet: "../assets/images/case-study/viargos/poster.png?scale-down-to=1024 655w, ../assets/images/case-study/viargos/poster.png?scale-down-to=2048 1310w, ../assets/images/case-study/viargos/poster.png 2048w"
         }, ""),
         [m]: e({
-            src: "../public/images/case-study/viargos/hover.jpg",
-            srcSet: "../public/images/case-study/viargos/hover.jpg?scale-down-to=1024 655w, ../public/images/case-study/viargos/hover.jpg?scale-down-to=2048 1310w, ../public/images/case-study/viargos/hover.jpg 2048w"
+            src: "../assets/images/case-study/viargos/hover.jpg",
+            srcSet: "../assets/images/case-study/viargos/hover.jpg?scale-down-to=1024 655w, ../assets/images/case-study/viargos/hover.jpg?scale-down-to=2048 1310w, ../assets/images/case-study/viargos/hover.jpg 2048w"
         }, ""),
         [p]: e({
-            src: "../public/images/icon/viargos.svg"
+            src: "../assets/images/icon/viargos.svg"
         }, ""),
         [w]: e({
             src: "https://framerusercontent.com/images/dummy-image.webp",
