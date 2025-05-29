@@ -1369,35 +1369,6 @@ var Lr = x(le)
                                     })
                                 })
                             })
-                        }), ae() && e(g, {
-                            children: e(pe, {
-                                animate: Zr,
-                                className: "framer-1mrltpx-container hidden-1lfy3bo",
-                                "data-framer-appear-id": "1mrltpx",
-                                initial: $r,
-                                layoutScroll: !0,
-                                optimized: !0,
-                                style: {
-                                    transformPerspective: 1200
-                                },
-                                children: e(y, {
-                                    breakpoint: d,
-                                    overrides: {
-                                        vRgxHesXZ: {
-                                            variant: "B8mqnSe2z"
-                                        }
-                                    },
-                                    children: e(se, {
-                                        EF5O7womS: "Buy this template",
-                                        height: "100%",
-                                        id: "eionppGDw",
-                                        layoutId: "eionppGDw",
-                                        rFP3b0sNK: "https://layoutgallery.lemonsqueezy.com/checkout/buy/0030e544-6138-4335-89ee-3f3721c1decd",
-                                        variant: "GN40eO7yZ",
-                                        width: "100%"
-                                    })
-                                })
-                            })
                         }), e("div", {
                             className: "framer-rh892c",
                             "data-framer-name": "Landing",

@@ -11,7 +11,7 @@ function e(a, t) {
             hash: "1lfy3bo",
             mediaQuery: "(max-width: 809px)"
         }],
-        description: "Process is a dynamic and versatile template crafted for creative agencies that offer unlimited design services. ",
+        description: "VisionTeckie is a top software and UI/UX design company creating intuitive user experiences and scalable digital solutions for startups and enterprises. ",
         elements: {},
         framerSearch: {
             index: !0
@@ -19,7 +19,7 @@ function e(a, t) {
         robots: "max-image-preview:large",
         serializationId: "framer-U5lGn",
         socialImage: "https://framerusercontent.com/assets/BWrQIuvdsr4vb15Wl69db7BQCfs.webp",
-        title: "Process \u2014 Unlimited Design Agency Template",
+        title: "VisionTeckie | Software Development & UI/UX Design Company",
         viewport: "width=device-width"
     }
 }
