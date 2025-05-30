@@ -2232,6 +2232,9 @@ var Hr = {
                                 children: e(a.h4, {
                                     className: "framer-styles-preset-1b5vkpe",
                                     "data-styles-preset": "k44p3jO_l",
+                                    style: {
+                                        "--framer-font-family": '"BabaPro-Bold", "Inter Tight Placeholder", sans-serif',
+                                    },
                                     children: "Vision Techie"
                                 })
                             }),
@@ -2241,6 +2244,7 @@ var Hr = {
                             style: {
                                 "--framer-link-text-color": "rgb(0, 153, 255)",
                                 "--framer-link-text-decoration": "underline",
+                                "--framer-font-family": '"BabaPro-Bold", "Inter Tight Placeholder", sans-serif',
                             },
                             text: p,
                             variants: {
@@ -2257,7 +2261,8 @@ var Hr = {
                                             className: "framer-styles-preset-1b5vkpe",
                                             "data-styles-preset": "k44p3jO_l",
                                             style: {
-                                                "--framer-text-color": "var(--extracted-1eung3n, var(--token-bc858b8b-52d3-487d-9657-b26f5f9e69a6, rgb(255, 255, 255)))"
+                                                "--framer-text-color": "var(--extracted-1eung3n, var(--token-bc858b8b-52d3-487d-9657-b26f5f9e69a6, rgb(255, 255, 255)))",
+                                                "--framer-font-family": '"BabaPro-Bold", "Inter Tight Placeholder", sans-serif',
                                             },
                                             children: "Vision Techie"
                                         })
