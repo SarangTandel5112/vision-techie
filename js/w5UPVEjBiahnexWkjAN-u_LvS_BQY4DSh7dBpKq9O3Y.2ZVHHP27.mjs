@@ -1288,10 +1288,10 @@ var Lr = x(le)
                                     animate: er,
                                     className: "framer-oib4h2-container",
                                     "data-framer-appear-id": "oib4h2",
-                                    "data-framer-name": "Process Logo",
+                                    "data-framer-name": "Vision Techie Logo",
                                     initial: Hr,
                                     layoutScroll: !0,
-                                    name: "Process Logo",
+                                    name: "Vision Techie Logo",
                                     optimized: !0,
                                     style: {
                                         transformPerspective: 1200
@@ -1310,18 +1310,18 @@ var Lr = x(le)
                                         },
                                         children: e(le, {
                                             bXKDVwltS: rr({
-                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                src: "../assets/logo/logo-black.svg"
                                             }, ""),
                                             height: "100%",
                                             id: "H2FQhc0iP",
                                             ifUOndEDH: c[0],
-                                            l6Wo4ULiJ: "Process",
+                                            l6Wo4ULiJ: "Vision Techie",
                                             layoutId: "H2FQhc0iP",
-                                            name: "Process Logo",
+                                            name: "Vision Techie Logo",
                                             variant: "sP4e3iZKf",
                                             width: "100%",
                                             YIltgZQMx: rr({
-                                                src: "https://framerusercontent.com/images/ImiRltpaArpM8U7EiaG6I0bxE.png"
+                                                src: "../assets/logo/logo-white.svg"
                                             }, "")
                                         })
                                     })

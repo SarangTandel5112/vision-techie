@@ -4345,10 +4345,10 @@ var Xi = R(Ir)
                                     animate: pn,
                                     className: "framer-1pxf0cd-container",
                                     "data-framer-appear-id": "1pxf0cd",
-                                    "data-framer-name": "Process Logo",
+                                    "data-framer-name": "Vision Techie Logo",
                                     initial: hn,
                                     layoutScroll: !0,
-                                    name: "Process Logo",
+                                    name: "Vision Techie Logo",
                                     optimized: !0,
                                     style: {
                                         transformPerspective: 1200
@@ -4439,18 +4439,18 @@ var Xi = R(Ir)
                                             __framer__threshold: 0,
                                             __framer__variantAppearEffectEnabled: !0,
                                             bXKDVwltS: vt({
-                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                src: "../assets/logo/logo-black.svg"
                                             }, ""),
                                             height: "100%",
                                             id: "m2CsK4b3J",
                                             ifUOndEDH: k[0],
-                                            l6Wo4ULiJ: "Process",
+                                            l6Wo4ULiJ: "Vision Techie",
                                             layoutId: "m2CsK4b3J",
-                                            name: "Process Logo",
+                                            name: "Vision Techie Logo",
                                             variant: "sP4e3iZKf",
                                             width: "100%",
                                             YIltgZQMx: vt({
-                                                src: "https://framerusercontent.com/images/ImiRltpaArpM8U7EiaG6I0bxE.png"
+                                                src: "../assets/logo/logo-white.svg"
                                             }, "")
                                         })
                                     })
@@ -8052,7 +8052,7 @@ var Xi = R(Ir)
                                                                 intrinsicWidth: 300,
                                                                 pixelHeight: 300,
                                                                 pixelWidth: 300,
-                                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                                src: "../assets/logo/logo-black.svg"
                                                             }
                                                         },
                                                         kt6FsmLCN: {
@@ -8064,7 +8064,7 @@ var Xi = R(Ir)
                                                                 loading: F(5829.599999999999),
                                                                 pixelHeight: 300,
                                                                 pixelWidth: 300,
-                                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                                src: "../assets/logo/logo-black.svg"
                                                             }
                                                         }
                                                     },
@@ -8077,7 +8077,7 @@ var Xi = R(Ir)
                                                             loading: F(5951.099999999999),
                                                             pixelHeight: 300,
                                                             pixelWidth: 300,
-                                                            src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                            src: "../assets/logo/logo-black.svg"
                                                         },
                                                         className: "framer-as2fnu",
                                                         "data-framer-name": "Profile Image",
@@ -8104,7 +8104,7 @@ var Xi = R(Ir)
                                                                                 "--framer-line-height": "1.4em",
                                                                                 "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
                                                                             },
-                                                                            children: "Process"
+                                                                            children: "Vision Techie"
                                                                         })
                                                                     })
                                                                 }
@@ -8122,7 +8122,7 @@ var Xi = R(Ir)
                                                                             "--framer-line-height": "1.4em",
                                                                             "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
                                                                         },
-                                                                        children: "Process"
+                                                                        children: "Vision Techie"
                                                                     })
                                                                 }),
                                                                 className: "framer-gw5j6x",
@@ -8526,7 +8526,7 @@ var Xi = R(Ir)
                                                                 intrinsicWidth: 300,
                                                                 pixelHeight: 300,
                                                                 pixelWidth: 300,
-                                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                                src: "../assets/logo/logo-black.svg"
                                                             }
                                                         },
                                                         kt6FsmLCN: {
@@ -8538,7 +8538,7 @@ var Xi = R(Ir)
                                                                 loading: F(5831.999999999999),
                                                                 pixelHeight: 300,
                                                                 pixelWidth: 300,
-                                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                                src: "../assets/logo/logo-black.svg"
                                                             }
                                                         }
                                                     },
@@ -8551,7 +8551,7 @@ var Xi = R(Ir)
                                                             loading: F(5963.999999999999),
                                                             pixelHeight: 300,
                                                             pixelWidth: 300,
-                                                            src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                            src: "../assets/logo/logo-black.svg"
                                                         },
                                                         className: "framer-1pzs4cz",
                                                         "data-framer-name": "Profile Image",
@@ -8578,7 +8578,7 @@ var Xi = R(Ir)
                                                                                 "--framer-line-height": "1.4em",
                                                                                 "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
                                                                             },
-                                                                            children: "Process"
+                                                                            children: "Vision Techie"
                                                                         })
                                                                     })
                                                                 }
@@ -8596,7 +8596,7 @@ var Xi = R(Ir)
                                                                             "--framer-line-height": "1.4em",
                                                                             "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
                                                                         },
-                                                                        children: "Process"
+                                                                        children: "Vision Techie"
                                                                     })
                                                                 }),
                                                                 className: "framer-1k64q7v",

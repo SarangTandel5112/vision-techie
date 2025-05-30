@@ -11,7 +11,7 @@ function e(a, t) {
             hash: "5k2sj2",
             mediaQuery: "(max-width: 809px)"
         }],
-        description: "VisionTeckie is a top software and UI/UX design company creating intuitive user experiences and scalable digital solutions for startups and enterprises. ",
+        description: "VisionTechie is a top software and UI/UX design company creating intuitive user experiences and scalable digital solutions for startups and enterprises. ",
         elements: {
             IiPGPGp3g: "landing-1",
             U_B_JUMef: "landing"
@@ -20,7 +20,7 @@ function e(a, t) {
             index: !0
         },
         socialImage: "https://framerusercontent.com/images/BWrQIuvdsr4vb15Wl69db7BQCfs.webp",
-        title: "VisionTeckie | Software Development & UI/UX Design Company",
+        title: "VisionTechie | Software Development & UI/UX Design Company",
         viewport: "width=device-width"
     }
 }

@@ -1482,10 +1482,10 @@ var ba = I(Le)
                                     animate: Ya,
                                     className: "framer-1x69kgu-container",
                                     "data-framer-appear-id": "1x69kgu",
-                                    "data-framer-name": "Process Logo",
+                                    "data-framer-name": "Vision Techie Logo",
                                     initial: Ua,
                                     layoutScroll: !0,
-                                    name: "Process Logo",
+                                    name: "Vision Techie Logo",
                                     optimized: !0,
                                     style: {
                                         transformPerspective: 1200
@@ -1534,18 +1534,18 @@ var ba = I(Le)
                                             __framer__threshold: 0,
                                             __framer__variantAppearEffectEnabled: !0,
                                             bXKDVwltS: C({
-                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                src: "../assets/logo/logo-black.svg"
                                             }, ""),
                                             height: "100%",
                                             id: "ztYMx5vrW",
                                             ifUOndEDH: A[0],
-                                            l6Wo4ULiJ: "Process",
+                                            l6Wo4ULiJ: "Vision Techie",
                                             layoutId: "ztYMx5vrW",
-                                            name: "Process Logo",
+                                            name: "Vision Techie Logo",
                                             variant: "tbYjNRrlu",
                                             width: "100%",
                                             YIltgZQMx: C({
-                                                src: "https://framerusercontent.com/images/ImiRltpaArpM8U7EiaG6I0bxE.png"
+                                                src: "../assets/logo/logo-white.svg"
                                             }, "")
                                         })
                                     })

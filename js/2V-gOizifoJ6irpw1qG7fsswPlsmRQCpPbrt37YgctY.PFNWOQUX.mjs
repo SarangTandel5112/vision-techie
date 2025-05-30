@@ -327,11 +327,11 @@ var Ce = {
                                 animate: r("animate", "12n34xo", c, "r68n5q"),
                                 className: "framer-12n34xo-container",
                                 "data-framer-appear-id": "12n34xo",
-                                "data-framer-name": "Process Logo",
+                                "data-framer-name": "Vision Techie Logo",
                                 exit: Ge,
                                 initial: r("initial", "12n34xo", _, "r68n5q"),
                                 layoutScroll: !0,
-                                name: "Process Logo",
+                                name: "Vision Techie Logo",
                                 transformTemplate: t("12n34xo", a),
                                 children: e(n, {
                                     breakpoint: i,
@@ -347,18 +347,18 @@ var Ce = {
                                     },
                                     children: e(q, {
                                         bXKDVwltS: be({
-                                            src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                            src: "../assets/logo/logo-black.svg"
                                         }, ""),
                                         height: "100%",
                                         id: "VUubQl_iM",
                                         ifUOndEDH: f[0],
-                                        l6Wo4ULiJ: "Process",
+                                        l6Wo4ULiJ: "Vision Techie",
                                         layoutId: "VUubQl_iM",
-                                        name: "Process Logo",
+                                        name: "Vision Techie Logo",
                                         variant: "sP4e3iZKf",
                                         width: "100%",
                                         YIltgZQMx: be({
-                                            src: "https://framerusercontent.com/images/ImiRltpaArpM8U7EiaG6I0bxE.png"
+                                            src: "../assets/logo/logo-white.svg"
                                         }, "")
                                     })
                                 })
@@ -876,7 +876,7 @@ var Ce = {
                                                 "--framer-text-alignment": "left",
                                                 "--framer-text-color": "var(--token-7ba9acdf-338f-43d0-9fd7-a40ca1655446, rgb(100, 100, 102))"
                                             },
-                                            children: "For any inquiries or concerns regarding the our service, please contact us at contact@process.design"
+                                            children: "For any inquiries or concerns regarding the our service, please contact us at contact@visiontechie.com"
                                         })]
                                     }),
                                     fonts: ["GF;Inter Tight-500"],
@@ -1222,7 +1222,7 @@ var Ce = {
                                                 "--framer-text-alignment": "left",
                                                 "--framer-text-color": "var(--token-7ba9acdf-338f-43d0-9fd7-a40ca1655446, rgb(100, 100, 102))"
                                             },
-                                            children: "For any inquiries or concerns regarding the our service, please contact us at contact@process.design"
+                                            children: "For any inquiries or concerns regarding the our service, please contact us at contact@visiontechie.com"
                                         })]
                                     }),
                                     fonts: ["GF;Inter Tight-500"],
@@ -1521,7 +1521,7 @@ var Ce = {
                                             "--framer-text-alignment": "left",
                                             "--framer-text-color": "var(--token-7ba9acdf-338f-43d0-9fd7-a40ca1655446, rgb(100, 100, 102))"
                                         },
-                                        children: "For any inquiries or concerns regarding the our service, please contact us at contact@process.design"
+                                        children: "For any inquiries or concerns regarding the our service, please contact us at contact@visiontechie.com"
                                     })]
                                 }),
                                 className: "framer-a45dnh",

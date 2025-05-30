@@ -204,7 +204,7 @@ var Sr = {
                                                 "--framer-text-alignment": "left",
                                                 "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20)))"
                                             },
-                                            children: "Arrival"
+                                            children: "Migrate Globe"
                                         })
                                     }),
                                     className: "framer-9a0qjz",
@@ -780,10 +780,10 @@ var qr = {
                                     animate: Xr,
                                     className: "framer-hn9ru4-container",
                                     "data-framer-appear-id": "hn9ru4",
-                                    "data-framer-name": "Process Logo",
+                                    "data-framer-name": "Vision Techie Logo",
                                     initial: Hr,
                                     layoutScroll: !0,
-                                    name: "Process Logo",
+                                    name: "Vision Techie Logo",
                                     optimized: !0,
                                     style: {
                                         transformPerspective: 1200
@@ -802,18 +802,18 @@ var qr = {
                                         },
                                         children: e(xe, {
                                             bXKDVwltS: or({
-                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                src: "../assets/logo/logo-black.svg"
                                             }, ""),
                                             height: "100%",
                                             id: "no3BOaHD1",
                                             ifUOndEDH: n[0],
-                                            l6Wo4ULiJ: "Process",
+                                            l6Wo4ULiJ: "Vision Techie",
                                             layoutId: "no3BOaHD1",
-                                            name: "Process Logo",
+                                            name: "Vision Techie Logo",
                                             variant: "sP4e3iZKf",
                                             width: "100%",
                                             YIltgZQMx: or({
-                                                src: "https://framerusercontent.com/images/ImiRltpaArpM8U7EiaG6I0bxE.png"
+                                                src: "../assets/logo/logo-white.svg"
                                             }, "")
                                         })
                                     })

@@ -204,7 +204,7 @@ var de = {
                                                 "--framer-text-alignment": "left",
                                                 "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20)))"
                                             },
-                                            children: "Arrival"
+                                            children: "Migrate Globe"
                                         })
                                     }),
                                     className: "framer-1e62rbn",
@@ -634,11 +634,11 @@ var Te = {
                                 animate: t("animate", "ocekcd", R, "louqoa"),
                                 className: "framer-ocekcd-container",
                                 "data-framer-appear-id": "ocekcd",
-                                "data-framer-name": "Process Logo",
+                                "data-framer-name": "Vision Techie Logo",
                                 exit: Be,
                                 initial: t("initial", "ocekcd", ia, "louqoa"),
                                 layoutScroll: !0,
-                                name: "Process Logo",
+                                name: "Vision Techie Logo",
                                 transformTemplate: i("ocekcd", n),
                                 children: a(f, {
                                     breakpoint: s,
@@ -654,18 +654,18 @@ var Te = {
                                     },
                                     children: a(J, {
                                         bXKDVwltS: Va({
-                                            src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                            src: "../assets/logo/logo-black.svg"
                                         }, ""),
                                         height: "100%",
                                         id: "IX1Cs7SOR",
                                         ifUOndEDH: d[0],
-                                        l6Wo4ULiJ: "Process",
+                                        l6Wo4ULiJ: "Vision Techie",
                                         layoutId: "IX1Cs7SOR",
-                                        name: "Process Logo",
+                                        name: "Vision Techie Logo",
                                         variant: "sP4e3iZKf",
                                         width: "100%",
                                         YIltgZQMx: Va({
-                                            src: "https://framerusercontent.com/images/ImiRltpaArpM8U7EiaG6I0bxE.png"
+                                            src: "../assets/logo/logo-white.svg"
                                         }, "")
                                     })
                                 })

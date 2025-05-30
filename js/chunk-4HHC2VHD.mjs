@@ -29,7 +29,7 @@ var o = "lL7OOh74T"
     , n = [{
         id: "hRoAkoMTG",
         [o]: "Snape",
-        [c]: "Redefining finances",
+        [c]: "Studio Management",
         [a]: "rover",
         [i]: e({
             src: "../assets/images/case-study/snape/poster.png",
@@ -127,7 +127,7 @@ Amazon S3 is reliable but often costly at scale. To reduce long-term storage exp
     }, {
         id: "oXxnJv3FA",
         [o]: "Eigen talk",
-        [c]: "Simplifying trading",
+        [c]: "AI research tool",
         [a]: "nexus",
         [i]: e({
             src: "../assets/images/about/track.png",
@@ -188,7 +188,7 @@ Efficiency Boost - Automate time-intensive processes like web scraping and data 
     }, {
         id: "u21euAVoq",
         [o]: "Circular India",
-        [c]: "Reinventing the next social platform",
+        [c]: "Awareness & Cleaning Education Platform",
         [a]: "social-butterfly",
         [i]: e({
             src: "../assets/images/case-study/hul/poster.jpeg?scale-down-to=4096",
@@ -291,8 +291,8 @@ Outcome
 	•	Supported both creative expression and social responsibility through an accessible toolset`
     }, {
         id: "oCGbwTiUI",
-        [o]: "Arrival",
-        [c]: "Streamline the way you spend money",
+        [o]: "Migrate Globe",
+        [c]: "Digital Immigration Solutions",
         [a]: "arrival",
         [i]: e({
             src: "../assets/images/case-study/migrate-globe/poster.png?scale-down-to=4096",
@@ -307,8 +307,8 @@ Outcome
             srcSet: "../assets/images/icon/mg.svg?scale-down-to=512 512w, ../assets/images/icon/mg.svg 1024w"
         }, ""),
         [w]: e({
-            src: "https://framerusercontent.com/images/01t7x8n1XUrEZVLDWq9O4M1uE.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/01t7x8n1XUrEZVLDWq9O4M1uE.webp?scale-down-to=512 512w, https://framerusercontent.com/images/01t7x8n1XUrEZVLDWq9O4M1uE.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/01t7x8n1XUrEZVLDWq9O4M1uE.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/01t7x8n1XUrEZVLDWq9O4M1uE.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/01t7x8n1XUrEZVLDWq9O4M1uE.webp 4800w"
+            src: "../assets/images/case-study/migrate-globe/main1.jpg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/migrate-globe/main1.jpg?scale-down-to=512 512w, ../assets/images/case-study/migrate-globe/main1.jpg?scale-down-to=1024 1024w, ../assets/images/case-study/migrate-globe/main1.jpg?scale-down-to=2048 2048w, ../assets/images/case-study/migrate-globe/main1.jpg?scale-down-to=4096 4096w, ../assets/images/case-study/migrate-globe/main1.jpg 4800w"
         }, ""),
         [l]: "A comprehensive digital platform guiding users through every stage of migrating to Australia — from skill assessments and visa checks to insurance and personalized migration plans — all in one place.",
         [g]: `UI/UX Development
@@ -317,20 +317,20 @@ Website hosting`,
         [u]: "2025",
         [d]: "We developed a comprehensive digital platform designed to assist users through every step of migrating to Australia. From skill assessments and visa eligibility checks to insurance purchases and professional migration plans, the platform serves as an all-in-one solution for individuals planning to start a new life in Australia.",
         [h]: e({
-            src: "https://framerusercontent.com/images/84tth2q8RnvPDm9ChonsSTcAOqg.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/84tth2q8RnvPDm9ChonsSTcAOqg.webp?scale-down-to=512 512w, https://framerusercontent.com/images/84tth2q8RnvPDm9ChonsSTcAOqg.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/84tth2q8RnvPDm9ChonsSTcAOqg.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/84tth2q8RnvPDm9ChonsSTcAOqg.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/84tth2q8RnvPDm9ChonsSTcAOqg.webp 4800w"
+            src: "../assets/images/case-study/migrate-globe/main2.jpg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/migrate-globe/main2.jpg?scale-down-to=512 512w, ../assets/images/case-study/migrate-globe/main2.jpg?scale-down-to=1024 1024w, ../assets/images/case-study/migrate-globe/main2.jpg?scale-down-to=2048 2048w, ../assets/images/case-study/migrate-globe/main2.jpg?scale-down-to=4096 4096w, ../assets/images/case-study/migrate-globe/main2.jpg 4800w"
         }, ""),
         [f]: e({
-            src: "https://framerusercontent.com/images/e7ywWXPWKD4eAU0bEWPiZVdM5o.webp",
-            srcSet: "https://framerusercontent.com/images/e7ywWXPWKD4eAU0bEWPiZVdM5o.webp?scale-down-to=512 512w, https://framerusercontent.com/images/e7ywWXPWKD4eAU0bEWPiZVdM5o.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/e7ywWXPWKD4eAU0bEWPiZVdM5o.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/e7ywWXPWKD4eAU0bEWPiZVdM5o.webp 2160w"
+            src: "../assets/images/case-study/migrate-globe/square1.png",
+            srcSet: "../assets/images/case-study/migrate-globe/square1.png?scale-down-to=512 512w, ../assets/images/case-study/migrate-globe/square1.png?scale-down-to=1024 1024w, ../assets/images/case-study/migrate-globe/square1.png?scale-down-to=2048 2048w, ../assets/images/case-study/migrate-globe/square1.png 2160w"
         }, ""),
         [b]: e({
-            src: "https://framerusercontent.com/images/3SSmuQVizGQvbTNG9wSd61Cld7E.webp",
-            srcSet: "https://framerusercontent.com/images/3SSmuQVizGQvbTNG9wSd61Cld7E.webp?scale-down-to=512 512w, https://framerusercontent.com/images/3SSmuQVizGQvbTNG9wSd61Cld7E.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/3SSmuQVizGQvbTNG9wSd61Cld7E.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/3SSmuQVizGQvbTNG9wSd61Cld7E.webp 2160w"
+            src: "../assets/images/case-study/migrate-globe/square2.png",
+            srcSet: "../assets/images/case-study/migrate-globe/square2.png?scale-down-to=512 512w, ../assets/images/case-study/migrate-globe/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/migrate-globe/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/migrate-globe/square2.png 2160w"
         }, ""),
         [v]: e({
-            src: "https://framerusercontent.com/images/J8eGlfVxaDuCTOEzuAHIFYrwNM.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/J8eGlfVxaDuCTOEzuAHIFYrwNM.webp?scale-down-to=512 512w, https://framerusercontent.com/images/J8eGlfVxaDuCTOEzuAHIFYrwNM.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/J8eGlfVxaDuCTOEzuAHIFYrwNM.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/J8eGlfVxaDuCTOEzuAHIFYrwNM.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/J8eGlfVxaDuCTOEzuAHIFYrwNM.webp 4800w"
+            src: "../assets/images/case-study/migrate-globe/main3.jpeg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/migrate-globe/main3.jpeg?scale-down-to=512 512w, ../assets/images/case-study/migrate-globe/main3.jpeg?scale-down-to=1024 1024w, ../assets/images/case-study/migrate-globe/main3.jpeg?scale-down-to=2048 2048w, ../assets/images/case-study/migrate-globe/main3.jpeg?scale-down-to=4096 4096w, ../assets/images/case-study/migrate-globe/main3.jpeg 4800w"
         }, ""),
         [y]: `The client wanted to launch a centralized, user-friendly web application that simplifies the complex process of Australian immigration. Key goals included:
 	•	Providing detailed information on different visa types and migration options
@@ -356,16 +356,16 @@ Built-in ANZSCO (Australian and New Zealand Standard Classification of Occupatio
 Purchase Migration Plans & Insurance
 Users can browse and buy migration packages or international insurance directly from the website using a secure checkout system.`,
         [S]: e({
-            src: "https://framerusercontent.com/images/MSHrPDNrshwNo91mxcr6WiMuJ1c.webp",
-            srcSet: "https://framerusercontent.com/images/MSHrPDNrshwNo91mxcr6WiMuJ1c.webp?scale-down-to=512 512w, https://framerusercontent.com/images/MSHrPDNrshwNo91mxcr6WiMuJ1c.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/MSHrPDNrshwNo91mxcr6WiMuJ1c.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/MSHrPDNrshwNo91mxcr6WiMuJ1c.webp 2160w"
+            src: "../assets/images/case-study/migrate-globe/square3.png",
+            srcSet: "../assets/images/case-study/migrate-globe/square3.png?scale-down-to=512 512w, ../assets/images/case-study/migrate-globe/square3.png?scale-down-to=1024 1024w, ../assets/images/case-study/migrate-globe/square3.png?scale-down-to=2048 2048w, ../assets/images/case-study/migrate-globe/square3.png 2160w"
         }, ""),
         [I]: e({
-            src: "https://framerusercontent.com/images/4rMfGqYChj6IcHCxQPKkGvFah2o.webp",
-            srcSet: "https://framerusercontent.com/images/4rMfGqYChj6IcHCxQPKkGvFah2o.webp?scale-down-to=512 512w, https://framerusercontent.com/images/4rMfGqYChj6IcHCxQPKkGvFah2o.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/4rMfGqYChj6IcHCxQPKkGvFah2o.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/4rMfGqYChj6IcHCxQPKkGvFah2o.webp 2160w"
+            src: "../assets/images/case-study/migrate-globe/square4.png",
+            srcSet: "../assets/images/case-study/migrate-globe/square4.png?scale-down-to=512 512w, ../assets/images/case-study/migrate-globe/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/migrate-globe/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/migrate-globe/square4.png 2160w"
         }, ""),
         [U]: e({
-            src: "https://framerusercontent.com/images/Z94GOWUz1TDJWzrjyxp3D5qWdLg.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/Z94GOWUz1TDJWzrjyxp3D5qWdLg.webp?scale-down-to=512 512w, https://framerusercontent.com/images/Z94GOWUz1TDJWzrjyxp3D5qWdLg.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/Z94GOWUz1TDJWzrjyxp3D5qWdLg.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/Z94GOWUz1TDJWzrjyxp3D5qWdLg.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/Z94GOWUz1TDJWzrjyxp3D5qWdLg.webp 4800w"
+            src: "../assets/images/case-study/migrate-globe/main4.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/migrate-globe/main4.png?scale-down-to=512 512w, ../assets/images/case-study/migrate-globe/main4.png?scale-down-to=1024 1024w, ../assets/images/case-study/migrate-globe/main4.png?scale-down-to=2048 2048w, ../assets/images/case-study/migrate-globe/main4.png?scale-down-to=4096 4096w, ../assets/images/case-study/migrate-globe/main4.png 4800w"
         }, ""),
         [M]: `
 Dynamic Eligibility Logic
@@ -396,9 +396,9 @@ Outcome
 	•	Delivered a scalable content management system that empowers admins to update rules, content, and plans without developer intervention`
     }, {
         id: "ealQ8WrTo",
-        [o]: "Cohort",
-        [c]: "Bringing community together",
-        [a]: "cohort",
+        [o]: "Eigen track",
+        [c]: "Tracking and Reward Platform",
+        [a]: "eigen-track",
         [i]: e({
             src: "../assets/images/about/eigen.png",
             srcSet: "../assets/images/about/eigen.png?scale-down-to=1024 655w, ../assets/images/about/eigen.png?scale-down-to=2048 1310w, ../assets/images/about/eigen.png 2048w"
@@ -505,8 +505,8 @@ Outcome
     {
         id: "dummy12345",
         [o]: "Viargos",
-        [c]: "A sample project for demonstration",
-        [a]: "dummy-project",
+        [c]: "Travel-Based Social Media Platform",
+        [a]: "viargos",
         [i]: e({
             src: "../assets/images/case-study/viargos/poster.png",
             srcSet: "../assets/images/case-study/viargos/poster.png?scale-down-to=1024 655w, ../assets/images/case-study/viargos/poster.png?scale-down-to=2048 1310w, ../assets/images/case-study/viargos/poster.png 2048w"

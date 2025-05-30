@@ -346,10 +346,10 @@ var be = o(U)
                                     animate: se,
                                     className: "framer-1ksltj-container",
                                     "data-framer-appear-id": "1ksltj",
-                                    "data-framer-name": "Process Logo",
+                                    "data-framer-name": "Vision Techie Logo",
                                     initial: Ce,
                                     layoutScroll: !0,
-                                    name: "Process Logo",
+                                    name: "Vision Techie Logo",
                                     optimized: !0,
                                     style: {
                                         transformPerspective: 1200
@@ -368,18 +368,18 @@ var be = o(U)
                                         },
                                         children: e(U, {
                                             bXKDVwltS: me({
-                                                src: "https://framerusercontent.com/images/z7hVHMwW8KD8HamBNBKSVx55T0.png"
+                                                src: "../assets/logo/logo-black.svg"
                                             }, ""),
                                             height: "100%",
                                             id: "CvgO9d2ss",
                                             ifUOndEDH: t[0],
-                                            l6Wo4ULiJ: "Process",
+                                            l6Wo4ULiJ: "Vision Techie",
                                             layoutId: "CvgO9d2ss",
-                                            name: "Process Logo",
+                                            name: "Vision Techie Logo",
                                             variant: "sP4e3iZKf",
                                             width: "100%",
                                             YIltgZQMx: me({
-                                                src: "https://framerusercontent.com/images/ImiRltpaArpM8U7EiaG6I0bxE.png"
+                                                src: "../assets/logo/logo-white.svg"
                                             }, "")
                                         })
                                     })

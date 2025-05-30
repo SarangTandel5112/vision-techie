@@ -21,7 +21,7 @@ function a(t, d) {
         robots: "max-image-preview:large",
         serializationId: "framer-MvuQS",
         socialImage: r(o),
-        title: `${e !== void 0 ? i(e) : "{{lL7OOh74T}}"} - VisionTeckie | Software Development & UI/UX Design Company`,
+        title: `${e !== void 0 ? i(e) : "{{lL7OOh74T}}"} - VisionTechie | Software Development & UI/UX Design Company`,
         viewport: "width=device-width"
     }
 }

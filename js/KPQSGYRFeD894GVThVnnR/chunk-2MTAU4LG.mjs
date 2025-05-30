@@ -2119,7 +2119,7 @@ var Hr = {
             ...m,
             bXKDVwltS: r ?? m.bXKDVwltS,
             ifUOndEDH: l ?? m.ifUOndEDH,
-            l6Wo4ULiJ: (p = s ?? m.l6Wo4ULiJ) !== null && p !== void 0 ? p : "Process",
+            l6Wo4ULiJ: (p = s ?? m.l6Wo4ULiJ) !== null && p !== void 0 ? p : "Vision Techie",
             variant: (S = (h = Gr[m.variant]) !== null && h !== void 0 ? h : m.variant) !== null && S !== void 0 ? S : "sP4e3iZKf",
             YIltgZQMx: n ?? m.YIltgZQMx
         }
@@ -2232,7 +2232,7 @@ var Hr = {
                                 children: e(a.h4, {
                                     className: "framer-styles-preset-1b5vkpe",
                                     "data-styles-preset": "k44p3jO_l",
-                                    children: "Process"
+                                    children: "Vision Techie"
                                 })
                             }),
                             className: "framer-1s94547",
@@ -2240,7 +2240,7 @@ var Hr = {
                             layoutId: "GLexcCNg2",
                             style: {
                                 "--framer-link-text-color": "rgb(0, 153, 255)",
-                                "--framer-link-text-decoration": "underline"
+                                "--framer-link-text-decoration": "underline",
                             },
                             text: p,
                             variants: {
@@ -2259,7 +2259,7 @@ var Hr = {
                                             style: {
                                                 "--framer-text-color": "var(--extracted-1eung3n, var(--token-bc858b8b-52d3-487d-9657-b26f5f9e69a6, rgb(255, 255, 255)))"
                                             },
-                                            children: "Process"
+                                            children: "Vision Techie"
                                         })
                                     })
                                 }
@@ -2286,7 +2286,7 @@ B(se, {
         type: i.Enum
     },
     l6Wo4ULiJ: {
-        defaultValue: "Process",
+        defaultValue: "Vision Techie",
         displayTextArea: !1,
         title: "Title",
         type: i.String
@@ -3909,8 +3909,7 @@ var Bt = {
                                     },
                                     children: e(u, {
                                         href: {
-                                            hash: ":kqTC4Df1Y",
-                                            webPageId: "augiA20Il"
+                                            webPageId: "fGRtGn2hR"
                                         },
                                         openInNewTab: !1,
                                         smoothScroll: !1,
@@ -4828,7 +4827,7 @@ var ia = {
                                                 style: {
                                                     "--framer-text-color": "var(--extracted-1eung3n, var(--token-bc858b8b-52d3-487d-9657-b26f5f9e69a6, rgb(255, 255, 255)))"
                                                 },
-                                                children: "Sign up to Process"
+                                                children: "Sign up to Vision Techie"
                                             })
                                         }),
                                         className: "framer-lj4cce",
@@ -5148,7 +5147,7 @@ var ia = {
                                                 "--framer-text-alignment": "center",
                                                 "--framer-text-color": "var(--extracted-r6o4lv, var(--token-7ba9acdf-338f-43d0-9fd7-a40ca1655446, rgb(100, 100, 102)))"
                                             },
-                                            children: "\xA9 2024 Process"
+                                            children: "\xA9 2024 Vision Techie"
                                         })
                                     }),
                                     className: "framer-1067vh3",
