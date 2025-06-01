@@ -303,8 +303,8 @@ Outcome
             srcSet: "../assets/images/case-study/migrate-globe/hover.jpg?scale-down-to=1024 655w, ../assets/images/case-study/migrate-globe/hover.jpg?scale-down-to=2048 1310w, ../assets/images/case-study/migrate-globe/hover.jpg?scale-down-to=4096 2621w, ../assets/images/case-study/migrate-globe/hover.jpg 3072w"
         }, ""),
         [p]: e({
-            src: "../assets/images/icon/mg.svg",
-            srcSet: "../assets/images/icon/mg.svg?scale-down-to=512 512w, ../assets/images/icon/mg.svg 1024w"
+            src: "../assets/images/icon/mg.png",
+            srcSet: "../assets/images/icon/mg.png?scale-down-to=512 512w, ../assets/images/icon/mg.png 1024w"
         }, ""),
         [w]: e({
             src: "../assets/images/case-study/migrate-globe/main1.jpg?scale-down-to=4096",
