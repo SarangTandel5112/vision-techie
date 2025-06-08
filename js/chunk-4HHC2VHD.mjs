@@ -519,8 +519,8 @@ Outcome
             src: "../assets/images/icon/viargos.svg"
         }, ""),
         [w]: e({
-            src: "https://framerusercontent.com/images/dummy-image.webp",
-            srcSet: "https://framerusercontent.com/images/dummy-image.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dummy-image.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dummy-image.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/dummy-image.webp 4800w"
+            src: "../assets/images/case-study/viargos/main1.png",
+            srcSet: "../assets/images/case-study/viargos/main1.png?scale-down-to=512 512w, ../assets/images/case-study/viargos/main1.png?scale-down-to=1024 1024w, ../assets/images/case-study/viargos/main1.png?scale-down-to=2048 2048w, ../assets/images/case-study/viargos/main1.png 4800w"
         }, ""),
         [l]: "Travel-Based Social Media Platform",
         [g]: `UI/UX Design
@@ -530,20 +530,20 @@ Website hosting`,
         [u]: "2025",
         [d]: "We developed a unique social media application tailored specifically for travelers. The platform combines social networking with travel planning, allowing users to share journeys, document experiences, and explore destinations through interactive maps and community-driven posts.",
         [h]: e({
-            src: "https://framerusercontent.com/images/dummy-image-2.webp",
-            srcSet: "https://framerusercontent.com/images/dummy-image-2.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dummy-image-2.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dummy-image-2.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/dummy-image-2.webp 4800w"
+            src: "../assets/images/case-study/viargos/main2.png",
+            srcSet: "../assets/images/case-study/viargos/main2.png?scale-down-to=512 512w, ../assets/images/case-study/viargos/main2.png?scale-down-to=1024 1024w, ../assets/images/case-study/viargos/main2.png?scale-down-to=2048 2048w, ../assets/images/case-study/viargos/main2.png 4800w"
         }, ""),
         [f]: e({
-            src: "https://framerusercontent.com/images/dummy-image-3.webp",
-            srcSet: "https://framerusercontent.com/images/dummy-image-3.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dummy-image-3.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dummy-image-3.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/dummy-image-3.webp 2160w"
+            src: "../assets/images/case-study/viargos/square1.png",
+            srcSet: "../assets/images/case-study/viargos/square1.png?scale-down-to=512 512w, ../assets/images/case-study/viargos/square1.png?scale-down-to=1024 1024w, ../assets/images/case-study/viargos/square1.png?scale-down-to=2048 2048w, ../assets/images/case-study/viargos/square1.png 2160w"
         }, ""),
         [b]: e({
-            src: "https://framerusercontent.com/images/dummy-image-4.webp",
-            srcSet: "https://framerusercontent.com/images/dummy-image-4.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dummy-image-4.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dummy-image-4.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/dummy-image-4.webp 2160w"
+            src: "../assets/images/case-study/viargos/square2.png",
+            srcSet: "../assets/images/case-study/viargos/square2.png?scale-down-to=512 512w, ../assets/images/case-study/viargos/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/viargos/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/viargos/square2.png 2160w"
         }, ""),
         [v]: e({
-            src: "https://framerusercontent.com/images/dummy-image-5.webp",
-            srcSet: "https://framerusercontent.com/images/dummy-image-5.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dummy-image-5.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dummy-image-5.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/dummy-image-5.webp 4800w"
+            src: "../assets/images/case-study/viargos/main3.png",
+            srcSet: "../assets/images/case-study/viargos/main3.png?scale-down-to=512 512w, ../assets/images/case-study/viargos/main3.png?scale-down-to=1024 1024w, ../assets/images/case-study/viargos/main3.png?scale-down-to=2048 2048w, ../assets/images/case-study/viargos/main3.png 4800w"
         }, ""),
         [y]: `
 The client wanted a vibrant, community-centric platform where travel lovers could:
@@ -590,16 +590,16 @@ The platform includes standard social features:
 	•	Notifications for new activity
 	•	Personalized feed based on user interests and locations`,
         [S]: e({
-            src: "https://framerusercontent.com/images/dummy-image-6.webp",
-            srcSet: "https://framerusercontent.com/images/dummy-image-6.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dummy-image-6.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dummy-image-6.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/dummy-image-6.webp 2160w"
+            src: "../assets/images/case-study/viargos/square3.png",
+            srcSet: "../assets/images/case-study/viargos/square3.png?scale-down-to=512 512w, ../assets/images/case-study/viargos/square3.png?scale-down-to=1024 1024w, ../assets/images/case-study/viargos/square3.png?scale-down-to=2048 2048w, ../assets/images/case-study/viargos/square3.png 2160w"
         }, ""),
         [I]: e({
-            src: "https://framerusercontent.com/images/dummy-image-7.webp",
-            srcSet: "https://framerusercontent.com/images/dummy-image-7.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dummy-image-7.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dummy-image-7.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/dummy-image-7.webp 2160w"
+            src: "../assets/images/case-study/viargos/square4.png",
+            srcSet: "../assets/images/case-study/viargos/square4.png?scale-down-to=512 512w, ../assets/images/case-study/viargos/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/viargos/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/viargos/square4.png 2160w"
         }, ""),
         [U]: e({
-            src: "https://framerusercontent.com/images/dummy-image-8.webp",
-            srcSet: "https://framerusercontent.com/images/dummy-image-8.webp?scale-down-to=512 512w, https://framerusercontent.com/images/dummy-image-8.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/dummy-image-8.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/dummy-image-8.webp 4800w"
+            src: "../assets/images/case-study/viargos/main4.png",
+            srcSet: "../assets/images/case-study/viargos/main4.png?scale-down-to=512 512w, ../assets/images/case-study/viargos/main4.png?scale-down-to=1024 1024w, ../assets/images/case-study/viargos/main4.png?scale-down-to=2048 2048w, ../assets/images/case-study/viargos/main4.png 4800w"
         }, ""),
         [M]: `
 Real-Time Map Plotting & Optimization
