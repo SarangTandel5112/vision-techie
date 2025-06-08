@@ -3978,101 +3978,104 @@ var Bt = {
                                     })
                                 }
                             }, h, C)
-                        }), e(k, {
-                            __fromCanvasComponent: !0,
-                            children: e(f, {
-                                children: e(a.p, {
-                                    style: {
-                                        "--font-selector": "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                        "--framer-font-family": '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                        "--framer-font-weight": "500",
-                                        "--framer-line-height": "1.5em",
-                                        "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20)))"
-                                    },
-                                    children: e(u, {
-                                        href: {
-                                            hash: ":j3NZKdvoy",
-                                            webPageId: "augiA20Il"
-                                        },
-                                        openInNewTab: !1,
-                                        smoothScroll: !1,
-                                        children: e(a.a, {
-                                            className: "framer-styles-preset-1wicq5s",
-                                            "data-styles-preset": "ro7OPezbn",
-                                            children: "Testimonials"
-                                        })
-                                    })
-                                })
-                            }),
-                            className: "framer-nhzuw8",
-                            fonts: ["GF;Inter Tight-500"],
-                            layoutDependency: w,
-                            layoutId: "SwPpaq3S4",
-                            style: {
-                                "--extracted-r6o4lv": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))",
-                                "--framer-paragraph-spacing": "0px"
-                            },
-                            verticalAlignment: "top",
-                            withExternalLayout: !0,
-                            ...oe({
-                                FcJT006TF: {
-                                    children: e(f, {
-                                        children: e(a.p, {
-                                            style: {
-                                                "--font-selector": "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                                "--framer-font-family": '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                                "--framer-font-weight": "500",
-                                                "--framer-line-height": "1.5em",
-                                                "--framer-text-alignment": "left",
-                                                "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20)))"
-                                            },
-                                            children: e(u, {
-                                                href: {
-                                                    hash: ":j3NZKdvoy",
-                                                    webPageId: "augiA20Il"
-                                                },
-                                                openInNewTab: !1,
-                                                smoothScroll: !1,
-                                                children: e(a.a, {
-                                                    className: "framer-styles-preset-1wicq5s",
-                                                    "data-styles-preset": "ro7OPezbn",
-                                                    children: "Testimonials"
-                                                })
-                                            })
-                                        })
-                                    })
-                                },
-                                zWjVcnPlS: {
-                                    children: e(f, {
-                                        children: e(a.p, {
-                                            style: {
-                                                "--font-selector": "R0Y7SW50ZXIgVGlnaHQtNTAw",
-                                                "--framer-font-family": '"Inter Tight", "Inter Tight Placeholder", sans-serif',
-                                                "--framer-font-size": "14px",
-                                                "--framer-font-weight": "500",
-                                                "--framer-letter-spacing": "0.1px",
-                                                "--framer-line-height": "1.5em",
-                                                "--framer-text-alignment": "center",
-                                                "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20)))"
-                                            },
-                                            children: e(u, {
-                                                href: {
-                                                    hash: ":j3NZKdvoy",
-                                                    webPageId: "augiA20Il"
-                                                },
-                                                openInNewTab: !1,
-                                                smoothScroll: !1,
-                                                children: e(a.a, {
-                                                    className: "framer-styles-preset-1wicq5s",
-                                                    "data-styles-preset": "ro7OPezbn",
-                                                    children: "Testimonials"
-                                                })
-                                            })
-                                        })
-                                    })
-                                }
-                            }, h, C)
-                        }), e(k, {
+                        }),
+                        //TODO: testimonial
+                        //  e(k, {
+                        //     __fromCanvasComponent: !0,
+                        //     children: e(f, {
+                        //         children: e(a.p, {
+                        //             style: {
+                        //                 "--font-selector": "R0Y7SW50ZXIgVGlnaHQtNTAw",
+                        //                 "--framer-font-family": '"Inter Tight", "Inter Tight Placeholder", sans-serif',
+                        //                 "--framer-font-weight": "500",
+                        //                 "--framer-line-height": "1.5em",
+                        //                 "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20)))"
+                        //             },
+                        //             children: e(u, {
+                        //                 href: {
+                        //                     hash: ":j3NZKdvoy",
+                        //                     webPageId: "augiA20Il"
+                        //                 },
+                        //                 openInNewTab: !1,
+                        //                 smoothScroll: !1,
+                        //                 children: e(a.a, {
+                        //                     className: "framer-styles-preset-1wicq5s",
+                        //                     "data-styles-preset": "ro7OPezbn",
+                        //                     children: "Testimonials"
+                        //                 })
+                        //             })
+                        //         })
+                        //     }),
+                        //     className: "framer-nhzuw8",
+                        //     fonts: ["GF;Inter Tight-500"],
+                        //     layoutDependency: w,
+                        //     layoutId: "SwPpaq3S4",
+                        //     style: {
+                        //         "--extracted-r6o4lv": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))",
+                        //         "--framer-paragraph-spacing": "0px"
+                        //     },
+                        //     verticalAlignment: "top",
+                        //     withExternalLayout: !0,
+                        //     ...oe({
+                        //         FcJT006TF: {
+                        //             children: e(f, {
+                        //                 children: e(a.p, {
+                        //                     style: {
+                        //                         "--font-selector": "R0Y7SW50ZXIgVGlnaHQtNTAw",
+                        //                         "--framer-font-family": '"Inter Tight", "Inter Tight Placeholder", sans-serif',
+                        //                         "--framer-font-weight": "500",
+                        //                         "--framer-line-height": "1.5em",
+                        //                         "--framer-text-alignment": "left",
+                        //                         "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20)))"
+                        //                     },
+                        //                     children: e(u, {
+                        //                         href: {
+                        //                             hash: ":j3NZKdvoy",
+                        //                             webPageId: "augiA20Il"
+                        //                         },
+                        //                         openInNewTab: !1,
+                        //                         smoothScroll: !1,
+                        //                         children: e(a.a, {
+                        //                             className: "framer-styles-preset-1wicq5s",
+                        //                             "data-styles-preset": "ro7OPezbn",
+                        //                             children: "Testimonials"
+                        //                         })
+                        //                     })
+                        //                 })
+                        //             })
+                        //         },
+                        //         zWjVcnPlS: {
+                        //             children: e(f, {
+                        //                 children: e(a.p, {
+                        //                     style: {
+                        //                         "--font-selector": "R0Y7SW50ZXIgVGlnaHQtNTAw",
+                        //                         "--framer-font-family": '"Inter Tight", "Inter Tight Placeholder", sans-serif',
+                        //                         "--framer-font-size": "14px",
+                        //                         "--framer-font-weight": "500",
+                        //                         "--framer-letter-spacing": "0.1px",
+                        //                         "--framer-line-height": "1.5em",
+                        //                         "--framer-text-alignment": "center",
+                        //                         "--framer-text-color": "var(--extracted-r6o4lv, var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20)))"
+                        //                     },
+                        //                     children: e(u, {
+                        //                         href: {
+                        //                             hash: ":j3NZKdvoy",
+                        //                             webPageId: "augiA20Il"
+                        //                         },
+                        //                         openInNewTab: !1,
+                        //                         smoothScroll: !1,
+                        //                         children: e(a.a, {
+                        //                             className: "framer-styles-preset-1wicq5s",
+                        //                             "data-styles-preset": "ro7OPezbn",
+                        //                             children: "Testimonials"
+                        //                         })
+                        //                     })
+                        //                 })
+                        //             })
+                        //         }
+                        //     }, h, C)
+                        // }),
+                        e(k, {
                             __fromCanvasComponent: !0,
                             children: e(f, {
                                 children: e(a.p, {

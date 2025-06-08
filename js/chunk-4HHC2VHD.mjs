@@ -411,8 +411,8 @@ Outcome
             src: "../assets/images/icon/eigen.svg"
         }, ""),
         [w]: e({
-            src: "https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=512 512w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp 4800w"
+            src: "../assets/images/case-study/eigen-track/main.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen-track/main.png?scale-down-to=512 512w, ../assets/images/case-study/eigen-track/main.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen-track/main.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen-track/main.png?scale-down-to=4096 4096w, ../assets/images/case-study/eigen-track/main.png 4800w"
         }, ""),
         [l]: "Tracking and Reward Platform",
         [g]: `UI/UX Design
@@ -421,20 +421,20 @@ Website hosting`,
         [u]: "2025",
         [d]: "Real-time brand tracking with Eigen enables brands to monitor consumer behavior and engagement across channels instantly, uncovering actionable insights as they happen. This dynamic approach empowers swift decision-making and enhances brand performance in ever-changing markets.",
         [h]: e({
-            src: "https://framerusercontent.com/images/fZ5mM6wd4kPIaOTV0BrA3K7oJ6c.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/fZ5mM6wd4kPIaOTV0BrA3K7oJ6c.webp?scale-down-to=512 512w, https://framerusercontent.com/images/fZ5mM6wd4kPIaOTV0BrA3K7oJ6c.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/fZ5mM6wd4kPIaOTV0BrA3K7oJ6c.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/fZ5mM6wd4kPIaOTV0BrA3K7oJ6c.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/fZ5mM6wd4kPIaOTV0BrA3K7oJ6c.webp 4800w"
+            src: "../assets/images/case-study/eigen-track/main2.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen-track/main2.png?scale-down-to=512 512w, ../assets/images/case-study/eigen-track/main2.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen-track/main2.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen-track/main2.png?scale-down-to=4096 4096w, ../assets/images/case-study/eigen-track/main2.png 4800w"
         }, ""),
         [f]: e({
-            src: "https://framerusercontent.com/images/sWg9d7AvKyrGcSHY50VuK95wCU.webp",
-            srcSet: "https://framerusercontent.com/images/sWg9d7AvKyrGcSHY50VuK95wCU.webp?scale-down-to=512 512w, https://framerusercontent.com/images/sWg9d7AvKyrGcSHY50VuK95wCU.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/sWg9d7AvKyrGcSHY50VuK95wCU.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/sWg9d7AvKyrGcSHY50VuK95wCU.webp 2160w"
+            src: "../assets/images/case-study/eigen-track/square2.png",
+            srcSet: "../assets/images/case-study/eigen-track/square2.png?scale-down-to=512 512w, ../assets/images/case-study/eigen-track/square2.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen-track/square2.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen-track/square2.png 2160w"
         }, ""),
         [b]: e({
-            src: "https://framerusercontent.com/images/wUtreHFIHBxluqfqWnw6ec6uTM.webp",
-            srcSet: "https://framerusercontent.com/images/wUtreHFIHBxluqfqWnw6ec6uTM.webp?scale-down-to=512 512w, https://framerusercontent.com/images/wUtreHFIHBxluqfqWnw6ec6uTM.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/wUtreHFIHBxluqfqWnw6ec6uTM.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/wUtreHFIHBxluqfqWnw6ec6uTM.webp 2160w"
+            src: "../assets/images/case-study/eigen-track/square1.png",
+            srcSet: "../assets/images/case-study/eigen-track/square1.png?scale-down-to=512 512w, ../assets/images/case-study/eigen-track/square1.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen-track/square1.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen-track/square1.png 2160w"
         }, ""),
         [v]: e({
-            src: "https://framerusercontent.com/images/hezCGEXSJuXQuWACjSHVOr1E.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/hezCGEXSJuXQuWACjSHVOr1E.webp?scale-down-to=512 512w, https://framerusercontent.com/images/hezCGEXSJuXQuWACjSHVOr1E.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/hezCGEXSJuXQuWACjSHVOr1E.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/hezCGEXSJuXQuWACjSHVOr1E.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/hezCGEXSJuXQuWACjSHVOr1E.webp 4800w"
+            src: "../assets/images/case-study/eigen-track/main3.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen-track/main3.png?scale-down-to=512 512w, ../assets/images/case-study/eigen-track/main3.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen-track/main3.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen-track/main3.png?scale-down-to=4096 4096w, ../assets/images/case-study/eigen-track/main3.png 4800w"
         }, ""),
         [y]: `
 The client wanted to launch a user-friendly, scalable system that would:
@@ -467,16 +467,16 @@ To boost participation, the platform includes a reward system:
 	•	Automated distribution via wallet points, coupon codes, or integrations
 	•	User profile with earned rewards history`,
         [S]: e({
-            src: "https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=512 512w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp 4800w"
+            src: "../assets/images/case-study/eigen-track/square3.jpg?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen-track/square3.jpg?scale-down-to=512 512w, ../assets/images/case-study/eigen-track/square3.jpg?scale-down-to=1024 1024w, ../assets/images/case-study/eigen-track/square3.jpg?scale-down-to=2048 2048w, ../assets/images/case-study/eigen-track/square3.jpg?scale-down-to=4096 4096w, ../assets/images/case-study/eigen-track/square3.jpg 4800w"
         }, ""),
         [I]: e({
-            src: "https://framerusercontent.com/images/Gfb5VpJIq7PxYREHL2lsbq5DGFY.webp",
-            srcSet: "https://framerusercontent.com/images/Gfb5VpJIq7PxYREHL2lsbq5DGFY.webp?scale-down-to=512 512w, https://framerusercontent.com/images/Gfb5VpJIq7PxYREHL2lsbq5DGFY.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/Gfb5VpJIq7PxYREHL2lsbq5DGFY.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/Gfb5VpJIq7PxYREHL2lsbq5DGFY.webp 2160w"
+            src: "../assets/images/case-study/eigen-track/square4.png",
+            srcSet: "../assets/images/case-study/eigen-track/square4.png?scale-down-to=512 512w, ../assets/images/case-study/eigen-track/square4.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen-track/square4.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen-track/square4.png 2160w"
         }, ""),
         [U]: e({
-            src: "https://framerusercontent.com/images/thwbOTRou78Qzqrh8d29m2HwuAo.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/thwbOTRou78Qzqrh8d29m2HwuAo.webp?scale-down-to=512 512w, https://framerusercontent.com/images/thwbOTRou78Qzqrh8d29m2HwuAo.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/thwbOTRou78Qzqrh8d29m2HwuAo.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/thwbOTRou78Qzqrh8d29m2HwuAo.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/thwbOTRou78Qzqrh8d29m2HwuAo.webp 4800w"
+            src: "../assets/images/case-study/eigen-track/main4.png?scale-down-to=4096",
+            srcSet: "../assets/images/case-study/eigen-track/main4.png?scale-down-to=512 512w, ../assets/images/case-study/eigen-track/main4.png?scale-down-to=1024 1024w, ../assets/images/case-study/eigen-track/main4.png?scale-down-to=2048 2048w, ../assets/images/case-study/eigen-track/main4.png?scale-down-to=4096 4096w, ../assets/images/case-study/eigen-track/main4.png 4800w"
         }, ""),
         [M]: `
 Dynamic Form Rendering

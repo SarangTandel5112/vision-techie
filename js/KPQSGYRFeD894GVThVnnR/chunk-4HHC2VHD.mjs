@@ -366,8 +366,8 @@ Outcome
             src: "https://framerusercontent.com/images/nblY99jTzUmFvIIJDrBiCRB64.png"
         }, ""),
         [w]: e({
-            src: "https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=4096",
-            srcSet: "https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=512 512w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=1024 1024w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=2048 2048w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp?scale-down-to=4096 4096w, https://framerusercontent.com/images/KqkvNvilWNgvOhFRYFI4pLXSsU.webp 4800w"
+            src: "../../assets/images/case-study/eigen-track/main.png?scale-down-to=4096",
+            srcSet: "../../assets/images/case-study/eigen-track/main.png?scale-down-to=512 512w, ../../assets/images/case-study/eigen-track/main.png?scale-down-to=1024 1024w, ../../assets/images/case-study/eigen-track/main.png?scale-down-to=2048 2048w, ../../assets/images/case-study/eigen-track/main.png?scale-down-to=4096 4096w, ../../assets/images/case-study/eigen-track/main.png 4800w"
         }, ""),
         [l]: "Tracking and Reward Platform",
         [g]: `UI/UX Design

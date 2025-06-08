@@ -11940,946 +11940,948 @@ var Xi = R(Ir)
                         //         })]
                         //     })]
                         // }),
+                        //TODO: testimonial
+                        // t("section", {
+                        //     className: "framer-1vnxnvh",
+                        //     "data-framer-name": "Testominials",
+                        //     id: Ht,
+                        //     name: "Testominials",
+                        //     ref: E,
+                        //     children: [e(Xe, {
+                        //         __framer__animate: {
+                        //             transition: Re
+                        //         },
+                        //         __framer__animateOnce: !0,
+                        //         __framer__enter: Pe,
+                        //         __framer__exit: Oe,
+                        //         __framer__styleAppearEffectEnabled: !0,
+                        //         __framer__threshold: .5,
+                        //         __fromCanvasComponent: !0,
+                        //         __perspectiveFX: !1,
+                        //         __targetOpacity: 1,
+                        //         children: e(r, {
+                        //             children: t("h3", {
+                        //                 className: "framer-styles-preset-1q1tllb",
+                        //                 "data-styles-preset": "IOEcq6nbj",
+                        //                 style: {
+                        //                     "--framer-text-alignment": "center",
+                        //                     "--framer-text-color": "var(--token-06538032-c0a4-4346-b17b-14a1de931108, rgb(134, 133, 138))"
+                        //                 },
+                        //                 children: [e("span", {
+                        //                     style: {
+                        //                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                     },
+                        //                     children: "Trusted by industry leaders. "
+                        //                 }), "Hear what clients are saying about Process."]
+                        //             })
+                        //         }),
+                        //         className: "framer-1v5atzp",
+                        //         fonts: ["Inter"],
+                        //         style: {
+                        //             transformPerspective: 1200
+                        //         },
+                        //         verticalAlignment: "top",
+                        //         withExternalLayout: !0
+                        //     }), t("div", {
+                        //         className: "framer-2a876m",
+                        //         "data-framer-name": "Cards",
+                        //         name: "Cards",
+                        //         children: [e(u, {
+                        //             __framer__animate: {
+                        //                 transition: J
+                        //             },
+                        //             __framer__animateOnce: !0,
+                        //             __framer__enter: tr,
+                        //             __framer__exit: Vr,
+                        //             __framer__styleAppearEffectEnabled: !0,
+                        //             __framer__threshold: .5,
+                        //             __perspectiveFX: !1,
+                        //             __targetOpacity: 1,
+                        //             className: "framer-nhxmea",
+                        //             "data-framer-name": "Card",
+                        //             name: "Card",
+                        //             style: {
+                        //                 transformPerspective: 1200
+                        //             },
+                        //             children: t("div", {
+                        //                 className: "framer-1ac78f9",
+                        //                 "data-framer-name": "Content",
+                        //                 name: "Content",
+                        //                 children: [e(l, {
+                        //                     breakpoint: i,
+                        //                     overrides: {
+                        //                         IahHNl4AI: {
+                        //                             children: e(r, {
+                        //                                 children: e("h4", {
+                        //                                     className: "framer-styles-preset-1b5vkpe",
+                        //                                     "data-styles-preset": "k44p3jO_l",
+                        //                                     style: {
+                        //                                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                     },
+                        //                                     children: "Working with Process was an absolute delight. Their exceptional performance made it the most seamless collaboration I've ever experienced. If you're in need of a landing page or website design agency, Process is the top choice."
+                        //                                 })
+                        //                             })
+                        //                         },
+                        //                         kt6FsmLCN: {
+                        //                             children: e(r, {
+                        //                                 children: e("h4", {
+                        //                                     className: "framer-styles-preset-1b5vkpe",
+                        //                                     "data-styles-preset": "k44p3jO_l",
+                        //                                     style: {
+                        //                                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                     },
+                        //                                     children: "Working with Process was an absolute delight. Their exceptional performance made it the most seamless collaboration I've ever experienced. If you're in need of a landing page or website design agency, Process is the top choice."
+                        //                                 })
+                        //                             })
+                        //                         }
+                        //                     },
+                        //                     children: e(a, {
+                        //                         __fromCanvasComponent: !0,
+                        //                         children: e(r, {
+                        //                             children: e("h5", {
+                        //                                 className: "framer-styles-preset-1jm41cg",
+                        //                                 "data-styles-preset": "TjJlMJ6w8",
+                        //                                 style: {
+                        //                                     "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                 },
+                        //                                 children: "Working with Process was an absolute delight. Their exceptional performance made it the most seamless collaboration I've ever experienced. If you're in need of a landing page or website design agency, Process is the top choice."
+                        //                             })
+                        //                         }),
+                        //                         className: "framer-1cqbc31",
+                        //                         fonts: ["Inter"],
+                        //                         verticalAlignment: "top",
+                        //                         withExternalLayout: !0
+                        //                     })
+                        //                 }), t("div", {
+                        //                     className: "framer-falush",
+                        //                     "data-framer-name": "Bottom Content",
+                        //                     name: "Bottom Content",
+                        //                     children: [t("div", {
+                        //                         className: "framer-al0lk9",
+                        //                         "data-framer-name": "Left Content",
+                        //                         name: "Left Content",
+                        //                         children: [e(l, {
+                        //                             breakpoint: i,
+                        //                             overrides: {
+                        //                                 IahHNl4AI: {
+                        //                                     background: {
+                        //                                         alt: "",
+                        //                                         fit: "fill",
+                        //                                         intrinsicHeight: 1657,
+                        //                                         intrinsicWidth: 1657,
+                        //                                         pixelHeight: 1657,
+                        //                                         pixelWidth: 1657,
+                        //                                         sizes: "40px",
+                        //                                         src: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp",
+                        //                                         srcSet: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp 1657w"
+                        //                                     }
+                        //                                 },
+                        //                                 kt6FsmLCN: {
+                        //                                     background: {
+                        //                                         alt: "",
+                        //                                         fit: "fill",
+                        //                                         intrinsicHeight: 1657,
+                        //                                         intrinsicWidth: 1657,
+                        //                                         loading: F(10912.6),
+                        //                                         pixelHeight: 1657,
+                        //                                         pixelWidth: 1657,
+                        //                                         sizes: "40px",
+                        //                                         src: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp",
+                        //                                         srcSet: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp 1657w"
+                        //                                     }
+                        //                                 }
+                        //                             },
+                        //                             children: e(A, {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 1657,
+                        //                                     intrinsicWidth: 1657,
+                        //                                     loading: F(10255.2),
+                        //                                     pixelHeight: 1657,
+                        //                                     pixelWidth: 1657,
+                        //                                     sizes: "40px",
+                        //                                     src: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp",
+                        //                                     srcSet: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp 1657w"
+                        //                                 },
+                        //                                 className: "framer-puejkq",
+                        //                                 "data-framer-name": "Profile Picture",
+                        //                                 name: "Profile Picture"
+                        //                             })
+                        //                         }), t("div", {
+                        //                             className: "framer-13j774l",
+                        //                             "data-framer-name": "Name and Designation",
+                        //                             name: "Name and Designation",
+                        //                             children: [e(a, {
+                        //                                 __fromCanvasComponent: !0,
+                        //                                 children: e(r, {
+                        //                                     children: e("p", {
+                        //                                         className: "framer-styles-preset-1yqtg1q",
+                        //                                         "data-styles-preset": "Die60VzNz",
+                        //                                         style: {
+                        //                                             "--framer-text-alignment": "left"
+                        //                                         },
+                        //                                         children: "Lauren Marin"
+                        //                                     })
+                        //                                 }),
+                        //                                 className: "framer-hafnms",
+                        //                                 fonts: ["Inter"],
+                        //                                 verticalAlignment: "top",
+                        //                                 withExternalLayout: !0
+                        //                             }), e(l, {
+                        //                                 breakpoint: i,
+                        //                                 overrides: {
+                        //                                     IahHNl4AI: {
+                        //                                         children: e(r, {
+                        //                                             children: e("p", {
+                        //                                                 className: "framer-styles-preset-1yqtg1q",
+                        //                                                 "data-styles-preset": "Die60VzNz",
+                        //                                                 style: {
+                        //                                                     "--framer-text-alignment": "left",
+                        //                                                     "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
+                        //                                                 },
+                        //                                                 children: "Product Manager, NeIO"
+                        //                                             })
+                        //                                         })
+                        //                                     }
+                        //                                 },
+                        //                                 children: e(a, {
+                        //                                     __fromCanvasComponent: !0,
+                        //                                     children: e(r, {
+                        //                                         children: e("p", {
+                        //                                             className: "framer-styles-preset-1yqtg1q",
+                        //                                             "data-styles-preset": "Die60VzNz",
+                        //                                             style: {
+                        //                                                 "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
+                        //                                             },
+                        //                                             children: "Product Manager, NeIO"
+                        //                                         })
+                        //                                     }),
+                        //                                     className: "framer-hyh4am",
+                        //                                     fonts: ["Inter"],
+                        //                                     verticalAlignment: "top",
+                        //                                     withExternalLayout: !0
+                        //                                 })
+                        //                             })]
+                        //                         })]
+                        //                     }), e(l, {
+                        //                         breakpoint: i,
+                        //                         overrides: {
+                        //                             IahHNl4AI: {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 98,
+                        //                                     intrinsicWidth: 221,
+                        //                                     pixelHeight: 98,
+                        //                                     pixelWidth: 221,
+                        //                                     src: "./assets/images/logo/viargos.svg"
+                        //                                 }
+                        //                             },
+                        //                             kt6FsmLCN: {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 98,
+                        //                                     intrinsicWidth: 221,
+                        //                                     loading: F(10918.6),
+                        //                                     pixelHeight: 98,
+                        //                                     pixelWidth: 221,
+                        //                                     src: "./assets/images/logo/viargos.svg"
+                        //                                 }
+                        //                             }
+                        //                         },
+                        //                         children: e(A, {
+                        //                             background: {
+                        //                                 alt: "",
+                        //                                 fit: "fill",
+                        //                                 intrinsicHeight: 98,
+                        //                                 intrinsicWidth: 221,
+                        //                                 loading: F(10261.2),
+                        //                                 pixelHeight: 98,
+                        //                                 pixelWidth: 221,
+                        //                                 src: "./assets/images/logo/viargos.svg"
+                        //                             },
+                        //                             className: "framer-1e2l9f1",
+                        //                             "data-framer-name": "Logo",
+                        //                             name: "Logo"
+                        //                         })
+                        //                     })]
+                        //                 })]
+                        //             })
+                        //         }), e(u, {
+                        //             __framer__animate: {
+                        //                 transition: oe
+                        //             },
+                        //             __framer__animateOnce: !0,
+                        //             __framer__enter: X,
+                        //             __framer__exit: fe,
+                        //             __framer__styleAppearEffectEnabled: !0,
+                        //             __framer__threshold: .5,
+                        //             __perspectiveFX: !1,
+                        //             __targetOpacity: 1,
+                        //             className: "framer-b15xj9",
+                        //             "data-framer-name": "Card",
+                        //             name: "Card",
+                        //             style: {
+                        //                 transformPerspective: 1200
+                        //             },
+                        //             children: t("div", {
+                        //                 className: "framer-1827caz",
+                        //                 "data-framer-name": "Content",
+                        //                 name: "Content",
+                        //                 children: [e(l, {
+                        //                     breakpoint: i,
+                        //                     overrides: {
+                        //                         IahHNl4AI: {
+                        //                             children: e(r, {
+                        //                                 children: e("h4", {
+                        //                                     className: "framer-styles-preset-1b5vkpe",
+                        //                                     "data-styles-preset": "k44p3jO_l",
+                        //                                     style: {
+                        //                                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                     },
+                        //                                     children: "We can't express enough how grateful we are for Process. Their designs have completely transformed our online presence. The variety and exceptional quality are truly remarkable. It feels as if we have a personal designer who understands our needs perfectly."
+                        //                                 })
+                        //                             })
+                        //                         },
+                        //                         kt6FsmLCN: {
+                        //                             children: e(r, {
+                        //                                 children: e("h4", {
+                        //                                     className: "framer-styles-preset-1b5vkpe",
+                        //                                     "data-styles-preset": "k44p3jO_l",
+                        //                                     style: {
+                        //                                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                     },
+                        //                                     children: "We can't express enough how grateful we are for Process. Their designs have completely transformed our online presence. The variety and exceptional quality are truly remarkable. It feels as if we have a personal designer who understands our needs perfectly."
+                        //                                 })
+                        //                             })
+                        //                         }
+                        //                     },
+                        //                     children: e(a, {
+                        //                         __fromCanvasComponent: !0,
+                        //                         children: e(r, {
+                        //                             children: e("h5", {
+                        //                                 className: "framer-styles-preset-1jm41cg",
+                        //                                 "data-styles-preset": "TjJlMJ6w8",
+                        //                                 style: {
+                        //                                     "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                 },
+                        //                                 children: "We can't express enough how grateful we are for Process. Their designs have completely transformed our online presence. The variety and exceptional quality are truly remarkable. It feels as if we have a personal designer who understands our needs perfectly."
+                        //                             })
+                        //                         }),
+                        //                         className: "framer-1eqfe9",
+                        //                         fonts: ["Inter"],
+                        //                         verticalAlignment: "top",
+                        //                         withExternalLayout: !0
+                        //                     })
+                        //                 }), t("div", {
+                        //                     className: "framer-1furide",
+                        //                     "data-framer-name": "Bottom Content",
+                        //                     name: "Bottom Content",
+                        //                     children: [t("div", {
+                        //                         className: "framer-1aqvfzb",
+                        //                         "data-framer-name": "Left Content",
+                        //                         name: "Left Content",
+                        //                         children: [e(l, {
+                        //                             breakpoint: i,
+                        //                             overrides: {
+                        //                                 IahHNl4AI: {
+                        //                                     background: {
+                        //                                         alt: "",
+                        //                                         fit: "fill",
+                        //                                         intrinsicHeight: 1672,
+                        //                                         intrinsicWidth: 1672,
+                        //                                         pixelHeight: 1672,
+                        //                                         pixelWidth: 1672,
+                        //                                         sizes: "40px",
+                        //                                         src: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp",
+                        //                                         srcSet: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=512 512w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp 1672w"
+                        //                                     }
+                        //                                 },
+                        //                                 kt6FsmLCN: {
+                        //                                     background: {
+                        //                                         alt: "",
+                        //                                         fit: "fill",
+                        //                                         intrinsicHeight: 1672,
+                        //                                         intrinsicWidth: 1672,
+                        //                                         loading: F(11312.6),
+                        //                                         pixelHeight: 1672,
+                        //                                         pixelWidth: 1672,
+                        //                                         sizes: "40px",
+                        //                                         src: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp",
+                        //                                         srcSet: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=512 512w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp 1672w"
+                        //                                     }
+                        //                                 }
+                        //                             },
+                        //                             children: e(A, {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 1672,
+                        //                                     intrinsicWidth: 1672,
+                        //                                     loading: F(10255.2),
+                        //                                     pixelHeight: 1672,
+                        //                                     pixelWidth: 1672,
+                        //                                     sizes: "40px",
+                        //                                     src: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp",
+                        //                                     srcSet: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=512 512w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp 1672w"
+                        //                                 },
+                        //                                 className: "framer-1yiif4c",
+                        //                                 "data-framer-name": "Profile Picture",
+                        //                                 name: "Profile Picture"
+                        //                             })
+                        //                         }), t("div", {
+                        //                             className: "framer-k4zbmb",
+                        //                             "data-framer-name": "Name and Designation",
+                        //                             name: "Name and Designation",
+                        //                             children: [e(a, {
+                        //                                 __fromCanvasComponent: !0,
+                        //                                 children: e(r, {
+                        //                                     children: e("p", {
+                        //                                         className: "framer-styles-preset-1yqtg1q",
+                        //                                         "data-styles-preset": "Die60VzNz",
+                        //                                         style: {
+                        //                                             "--framer-text-alignment": "left"
+                        //                                         },
+                        //                                         children: "Mae Rafson"
+                        //                                     })
+                        //                                 }),
+                        //                                 className: "framer-eo172n",
+                        //                                 fonts: ["Inter"],
+                        //                                 verticalAlignment: "top",
+                        //                                 withExternalLayout: !0
+                        //                             }), e(l, {
+                        //                                 breakpoint: i,
+                        //                                 overrides: {
+                        //                                     IahHNl4AI: {
+                        //                                         children: e(r, {
+                        //                                             children: e("p", {
+                        //                                                 className: "framer-styles-preset-1yqtg1q",
+                        //                                                 "data-styles-preset": "Die60VzNz",
+                        //                                                 style: {
+                        //                                                     "--framer-text-alignment": "left",
+                        //                                                     "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
+                        //                                                 },
+                        //                                                 children: "Head of Marketing, Augment Reality"
+                        //                                             })
+                        //                                         })
+                        //                                     }
+                        //                                 },
+                        //                                 children: e(a, {
+                        //                                     __fromCanvasComponent: !0,
+                        //                                     children: e(r, {
+                        //                                         children: e("p", {
+                        //                                             className: "framer-styles-preset-1yqtg1q",
+                        //                                             "data-styles-preset": "Die60VzNz",
+                        //                                             style: {
+                        //                                                 "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
+                        //                                             },
+                        //                                             children: "Head of Marketing, Augment Reality"
+                        //                                         })
+                        //                                     }),
+                        //                                     className: "framer-169v7sl",
+                        //                                     fonts: ["Inter"],
+                        //                                     verticalAlignment: "top",
+                        //                                     withExternalLayout: !0
+                        //                                 })
+                        //                             })]
+                        //                         })]
+                        //                     }), e(l, {
+                        //                         breakpoint: i,
+                        //                         overrides: {
+                        //                             IahHNl4AI: {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 98,
+                        //                                     intrinsicWidth: 201,
+                        //                                     pixelHeight: 98,
+                        //                                     pixelWidth: 201,
+                        //                                     src: "https://framerusercontent.com/images/tniR7jCaw0rjod5Bu8ppfZJhW8.png"
+                        //                                 }
+                        //                             },
+                        //                             kt6FsmLCN: {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 98,
+                        //                                     intrinsicWidth: 201,
+                        //                                     loading: F(11313.6),
+                        //                                     pixelHeight: 98,
+                        //                                     pixelWidth: 201,
+                        //                                     src: "https://framerusercontent.com/images/tniR7jCaw0rjod5Bu8ppfZJhW8.png"
+                        //                                 }
+                        //                             }
+                        //                         },
+                        //                         children: e(A, {
+                        //                             background: {
+                        //                                 alt: "",
+                        //                                 fit: "fill",
+                        //                                 intrinsicHeight: 98,
+                        //                                 intrinsicWidth: 201,
+                        //                                 loading: F(10256.2),
+                        //                                 pixelHeight: 98,
+                        //                                 pixelWidth: 201,
+                        //                                 src: "https://framerusercontent.com/images/tniR7jCaw0rjod5Bu8ppfZJhW8.png"
+                        //                             },
+                        //                             className: "framer-10t9qib",
+                        //                             "data-framer-name": "Logo",
+                        //                             name: "Logo"
+                        //                         })
+                        //                     })]
+                        //                 })]
+                        //             })
+                        //         }), e(u, {
+                        //             __framer__animate: {
+                        //                 transition: J
+                        //             },
+                        //             __framer__animateOnce: !0,
+                        //             __framer__enter: tr,
+                        //             __framer__exit: Vr,
+                        //             __framer__styleAppearEffectEnabled: !0,
+                        //             __framer__threshold: .5,
+                        //             __perspectiveFX: !1,
+                        //             __targetOpacity: 1,
+                        //             className: "framer-12jzd0v",
+                        //             "data-framer-name": "Card",
+                        //             name: "Card",
+                        //             style: {
+                        //                 transformPerspective: 1200
+                        //             },
+                        //             children: t("div", {
+                        //                 className: "framer-12ubg9b",
+                        //                 "data-framer-name": "Content",
+                        //                 name: "Content",
+                        //                 children: [e(l, {
+                        //                     breakpoint: i,
+                        //                     overrides: {
+                        //                         IahHNl4AI: {
+                        //                             children: e(r, {
+                        //                                 children: e("h4", {
+                        //                                     className: "framer-styles-preset-1b5vkpe",
+                        //                                     "data-styles-preset": "k44p3jO_l",
+                        //                                     style: {
+                        //                                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                     },
+                        //                                     children: "Unparalleled skills in designing websites and products. They grasp my design preferences instantly and execute on them with speed."
+                        //                                 })
+                        //                             })
+                        //                         },
+                        //                         kt6FsmLCN: {
+                        //                             children: e(r, {
+                        //                                 children: e("h4", {
+                        //                                     className: "framer-styles-preset-1b5vkpe",
+                        //                                     "data-styles-preset": "k44p3jO_l",
+                        //                                     style: {
+                        //                                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                     },
+                        //                                     children: "Unparalleled skills in designing websites and products. They grasp my design preferences instantly and execute on them with speed."
+                        //                                 })
+                        //                             })
+                        //                         }
+                        //                     },
+                        //                     children: e(a, {
+                        //                         __fromCanvasComponent: !0,
+                        //                         children: e(r, {
+                        //                             children: e("h5", {
+                        //                                 className: "framer-styles-preset-1jm41cg",
+                        //                                 "data-styles-preset": "TjJlMJ6w8",
+                        //                                 style: {
+                        //                                     "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                 },
+                        //                                 children: "Unparalleled skills in designing websites and products. They grasp my design preferences instantly and execute on them with speed."
+                        //                             })
+                        //                         }),
+                        //                         className: "framer-1n5sjxl",
+                        //                         fonts: ["Inter"],
+                        //                         verticalAlignment: "top",
+                        //                         withExternalLayout: !0
+                        //                     })
+                        //                 }), t("div", {
+                        //                     className: "framer-14ngdb6",
+                        //                     "data-framer-name": "Bottom Content",
+                        //                     name: "Bottom Content",
+                        //                     children: [t("div", {
+                        //                         className: "framer-1jwsd0e",
+                        //                         "data-framer-name": "Left Content",
+                        //                         name: "Left Content",
+                        //                         children: [e(l, {
+                        //                             breakpoint: i,
+                        //                             overrides: {
+                        //                                 IahHNl4AI: {
+                        //                                     background: {
+                        //                                         alt: "",
+                        //                                         fit: "fill",
+                        //                                         intrinsicHeight: 2800,
+                        //                                         intrinsicWidth: 2800,
+                        //                                         pixelHeight: 2800,
+                        //                                         pixelWidth: 2800,
+                        //                                         sizes: "40px",
+                        //                                         src: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp",
+                        //                                         srcSet: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=512 512w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=2048 2048w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp 2800w"
+                        //                                     }
+                        //                                 },
+                        //                                 kt6FsmLCN: {
+                        //                                     background: {
+                        //                                         alt: "",
+                        //                                         fit: "fill",
+                        //                                         intrinsicHeight: 2800,
+                        //                                         intrinsicWidth: 2800,
+                        //                                         loading: F(11712.6),
+                        //                                         pixelHeight: 2800,
+                        //                                         pixelWidth: 2800,
+                        //                                         sizes: "40px",
+                        //                                         src: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp",
+                        //                                         srcSet: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=512 512w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=2048 2048w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp 2800w"
+                        //                                     }
+                        //                                 }
+                        //                             },
+                        //                             children: e(A, {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 2800,
+                        //                                     intrinsicWidth: 2800,
+                        //                                     loading: F(10655.2),
+                        //                                     pixelHeight: 2800,
+                        //                                     pixelWidth: 2800,
+                        //                                     sizes: "40px",
+                        //                                     src: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp",
+                        //                                     srcSet: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=512 512w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=2048 2048w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp 2800w"
+                        //                                 },
+                        //                                 className: "framer-onv81",
+                        //                                 "data-framer-name": "Profile Picture",
+                        //                                 name: "Profile Picture"
+                        //                             })
+                        //                         }), t("div", {
+                        //                             className: "framer-mod1k9",
+                        //                             "data-framer-name": "Name and Designation",
+                        //                             name: "Name and Designation",
+                        //                             children: [e(a, {
+                        //                                 __fromCanvasComponent: !0,
+                        //                                 children: e(r, {
+                        //                                     children: e("p", {
+                        //                                         className: "framer-styles-preset-1yqtg1q",
+                        //                                         "data-styles-preset": "Die60VzNz",
+                        //                                         style: {
+                        //                                             "--framer-text-alignment": "left"
+                        //                                         },
+                        //                                         children: "Garrett Carson"
+                        //                                     })
+                        //                                 }),
+                        //                                 className: "framer-12zxfsi",
+                        //                                 fonts: ["Inter"],
+                        //                                 verticalAlignment: "top",
+                        //                                 withExternalLayout: !0
+                        //                             }), e(l, {
+                        //                                 breakpoint: i,
+                        //                                 overrides: {
+                        //                                     IahHNl4AI: {
+                        //                                         children: e(r, {
+                        //                                             children: e("p", {
+                        //                                                 className: "framer-styles-preset-1yqtg1q",
+                        //                                                 "data-styles-preset": "Die60VzNz",
+                        //                                                 style: {
+                        //                                                     "--framer-text-alignment": "left",
+                        //                                                     "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
+                        //                                                 },
+                        //                                                 children: "Founder, Trippin.com"
+                        //                                             })
+                        //                                         })
+                        //                                     }
+                        //                                 },
+                        //                                 children: e(a, {
+                        //                                     __fromCanvasComponent: !0,
+                        //                                     children: e(r, {
+                        //                                         children: e("p", {
+                        //                                             className: "framer-styles-preset-1yqtg1q",
+                        //                                             "data-styles-preset": "Die60VzNz",
+                        //                                             style: {
+                        //                                                 "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
+                        //                                             },
+                        //                                             children: "Founder, Trippin.com"
+                        //                                         })
+                        //                                     }),
+                        //                                     className: "framer-1rhdi64",
+                        //                                     fonts: ["Inter"],
+                        //                                     verticalAlignment: "top",
+                        //                                     withExternalLayout: !0
+                        //                                 })
+                        //                             })]
+                        //                         })]
+                        //                     }), e(l, {
+                        //                         breakpoint: i,
+                        //                         overrides: {
+                        //                             IahHNl4AI: {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 100,
+                        //                                     intrinsicWidth: 284,
+                        //                                     pixelHeight: 100,
+                        //                                     pixelWidth: 284,
+                        //                                     src: "https://framerusercontent.com/images/s1coaLPu700iZDLyiGursvXHUw.png"
+                        //                                 }
+                        //                             },
+                        //                             kt6FsmLCN: {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 100,
+                        //                                     intrinsicWidth: 284,
+                        //                                     loading: F(11713.6),
+                        //                                     pixelHeight: 100,
+                        //                                     pixelWidth: 284,
+                        //                                     src: "https://framerusercontent.com/images/s1coaLPu700iZDLyiGursvXHUw.png"
+                        //                                 }
+                        //                             }
+                        //                         },
+                        //                         children: e(A, {
+                        //                             background: {
+                        //                                 alt: "",
+                        //                                 fit: "fill",
+                        //                                 intrinsicHeight: 100,
+                        //                                 intrinsicWidth: 284,
+                        //                                 loading: F(10656.2),
+                        //                                 pixelHeight: 100,
+                        //                                 pixelWidth: 284,
+                        //                                 src: "https://framerusercontent.com/images/s1coaLPu700iZDLyiGursvXHUw.png"
+                        //                             },
+                        //                             className: "framer-l6bwsw",
+                        //                             "data-framer-name": "Logo",
+                        //                             name: "Logo"
+                        //                         })
+                        //                     })]
+                        //                 })]
+                        //             })
+                        //         }), e(u, {
+                        //             __framer__animate: {
+                        //                 transition: oe
+                        //             },
+                        //             __framer__animateOnce: !0,
+                        //             __framer__enter: X,
+                        //             __framer__exit: fe,
+                        //             __framer__styleAppearEffectEnabled: !0,
+                        //             __framer__threshold: .5,
+                        //             __perspectiveFX: !1,
+                        //             __targetOpacity: 1,
+                        //             className: "framer-1qv78so",
+                        //             "data-framer-name": "Card",
+                        //             name: "Card",
+                        //             style: {
+                        //                 transformPerspective: 1200
+                        //             },
+                        //             children: t("div", {
+                        //                 className: "framer-twvvwa",
+                        //                 "data-framer-name": "Content",
+                        //                 name: "Content",
+                        //                 children: [e(l, {
+                        //                     breakpoint: i,
+                        //                     overrides: {
+                        //                         IahHNl4AI: {
+                        //                             children: e(r, {
+                        //                                 children: e("h4", {
+                        //                                     className: "framer-styles-preset-1b5vkpe",
+                        //                                     "data-styles-preset": "k44p3jO_l",
+                        //                                     style: {
+                        //                                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                     },
+                        //                                     children: "Remarkable expertise in website and product design. They effortlessly understand Synthmind's design language and promptly bring it to fruition."
+                        //                                 })
+                        //                             })
+                        //                         },
+                        //                         kt6FsmLCN: {
+                        //                             children: e(r, {
+                        //                                 children: e("h4", {
+                        //                                     className: "framer-styles-preset-1b5vkpe",
+                        //                                     "data-styles-preset": "k44p3jO_l",
+                        //                                     style: {
+                        //                                         "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                     },
+                        //                                     children: "Remarkable expertise in website and product design. They effortlessly understand Synthmind's design language and promptly bring it to fruition."
+                        //                                 })
+                        //                             })
+                        //                         }
+                        //                     },
+                        //                     children: e(a, {
+                        //                         __fromCanvasComponent: !0,
+                        //                         children: e(r, {
+                        //                             children: e("h5", {
+                        //                                 className: "framer-styles-preset-1jm41cg",
+                        //                                 "data-styles-preset": "TjJlMJ6w8",
+                        //                                 style: {
+                        //                                     "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
+                        //                                 },
+                        //                                 children: "Remarkable expertise in website and product design. They effortlessly understand Synthmind's design language and promptly bring it to fruition."
+                        //                             })
+                        //                         }),
+                        //                         className: "framer-38eybi",
+                        //                         fonts: ["Inter"],
+                        //                         verticalAlignment: "top",
+                        //                         withExternalLayout: !0
+                        //                     })
+                        //                 }), t("div", {
+                        //                     className: "framer-1s4dhlg",
+                        //                     "data-framer-name": "Bottom Content",
+                        //                     name: "Bottom Content",
+                        //                     children: [t("div", {
+                        //                         className: "framer-1kvhf3f",
+                        //                         "data-framer-name": "Left Content",
+                        //                         name: "Left Content",
+                        //                         children: [e(l, {
+                        //                             breakpoint: i,
+                        //                             overrides: {
+                        //                                 IahHNl4AI: {
+                        //                                     background: {
+                        //                                         alt: "",
+                        //                                         fit: "fill",
+                        //                                         intrinsicHeight: 1816,
+                        //                                         intrinsicWidth: 1816,
+                        //                                         pixelHeight: 1816,
+                        //                                         pixelWidth: 1816,
+                        //                                         sizes: "40px",
+                        //                                         src: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp",
+                        //                                         srcSet: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp 1816w"
+                        //                                     }
+                        //                                 },
+                        //                                 kt6FsmLCN: {
+                        //                                     background: {
+                        //                                         alt: "",
+                        //                                         fit: "fill",
+                        //                                         intrinsicHeight: 1816,
+                        //                                         intrinsicWidth: 1816,
+                        //                                         loading: F(12112.6),
+                        //                                         pixelHeight: 1816,
+                        //                                         pixelWidth: 1816,
+                        //                                         sizes: "40px",
+                        //                                         src: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp",
+                        //                                         srcSet: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp 1816w"
+                        //                                     }
+                        //                                 }
+                        //                             },
+                        //                             children: e(A, {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 1816,
+                        //                                     intrinsicWidth: 1816,
+                        //                                     loading: F(10655.2),
+                        //                                     pixelHeight: 1816,
+                        //                                     pixelWidth: 1816,
+                        //                                     sizes: "40px",
+                        //                                     src: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp",
+                        //                                     srcSet: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp 1816w"
+                        //                                 },
+                        //                                 className: "framer-1g7jvnd",
+                        //                                 "data-framer-name": "Profile Picture",
+                        //                                 name: "Profile Picture"
+                        //                             })
+                        //                         }), t("div", {
+                        //                             className: "framer-1pabg9j",
+                        //                             "data-framer-name": "Name and Designation",
+                        //                             name: "Name and Designation",
+                        //                             children: [e(a, {
+                        //                                 __fromCanvasComponent: !0,
+                        //                                 children: e(r, {
+                        //                                     children: e("p", {
+                        //                                         className: "framer-styles-preset-1yqtg1q",
+                        //                                         "data-styles-preset": "Die60VzNz",
+                        //                                         style: {
+                        //                                             "--framer-text-alignment": "left"
+                        //                                         },
+                        //                                         children: "Claire Cottom"
+                        //                                     })
+                        //                                 }),
+                        //                                 className: "framer-12oahez",
+                        //                                 fonts: ["Inter"],
+                        //                                 verticalAlignment: "top",
+                        //                                 withExternalLayout: !0
+                        //                             }), e(l, {
+                        //                                 breakpoint: i,
+                        //                                 overrides: {
+                        //                                     IahHNl4AI: {
+                        //                                         children: e(r, {
+                        //                                             children: e("p", {
+                        //                                                 className: "framer-styles-preset-1yqtg1q",
+                        //                                                 "data-styles-preset": "Die60VzNz",
+                        //                                                 style: {
+                        //                                                     "--framer-text-alignment": "left",
+                        //                                                     "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
+                        //                                                 },
+                        //                                                 children: "Creative Director, Synthmind"
+                        //                                             })
+                        //                                         })
+                        //                                     }
+                        //                                 },
+                        //                                 children: e(a, {
+                        //                                     __fromCanvasComponent: !0,
+                        //                                     children: e(r, {
+                        //                                         children: e("p", {
+                        //                                             className: "framer-styles-preset-1yqtg1q",
+                        //                                             "data-styles-preset": "Die60VzNz",
+                        //                                             style: {
+                        //                                                 "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
+                        //                                             },
+                        //                                             children: "Creative Director, Synthmind"
+                        //                                         })
+                        //                                     }),
+                        //                                     className: "framer-hn8vea",
+                        //                                     fonts: ["Inter"],
+                        //                                     verticalAlignment: "top",
+                        //                                     withExternalLayout: !0
+                        //                                 })
+                        //                             })]
+                        //                         })]
+                        //                     }), e(l, {
+                        //                         breakpoint: i,
+                        //                         overrides: {
+                        //                             IahHNl4AI: {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 98,
+                        //                                     intrinsicWidth: 440,
+                        //                                     pixelHeight: 98,
+                        //                                     pixelWidth: 440,
+                        //                                     src: "https://framerusercontent.com/images/2oKswWxxsDLNKzqcDEo3mLsbkM.png"
+                        //                                 }
+                        //                             },
+                        //                             kt6FsmLCN: {
+                        //                                 background: {
+                        //                                     alt: "",
+                        //                                     fit: "fill",
+                        //                                     intrinsicHeight: 98,
+                        //                                     intrinsicWidth: 440,
+                        //                                     loading: F(12123.6),
+                        //                                     pixelHeight: 98,
+                        //                                     pixelWidth: 440,
+                        //                                     src: "https://framerusercontent.com/images/2oKswWxxsDLNKzqcDEo3mLsbkM.png"
+                        //                                 }
+                        //                             }
+                        //                         },
+                        //                         children: e(A, {
+                        //                             background: {
+                        //                                 alt: "",
+                        //                                 fit: "fill",
+                        //                                 intrinsicHeight: 98,
+                        //                                 intrinsicWidth: 440,
+                        //                                 loading: F(10666.2),
+                        //                                 pixelHeight: 98,
+                        //                                 pixelWidth: 440,
+                        //                                 src: "https://framerusercontent.com/images/2oKswWxxsDLNKzqcDEo3mLsbkM.png"
+                        //                             },
+                        //                             className: "framer-1gnua8y",
+                        //                             "data-framer-name": "Logo",
+                        //                             name: "Logo"
+                        //                         })
+                        //                     })]
+                        //                 })]
+                        //             })
+                        //         })]
+                        //     })]
+                        // }), 
                         t("section", {
-                            className: "framer-1vnxnvh",
-                            "data-framer-name": "Testominials",
-                            id: Ht,
-                            name: "Testominials",
-                            ref: E,
-                            children: [e(Xe, {
-                                __framer__animate: {
-                                    transition: Re
-                                },
-                                __framer__animateOnce: !0,
-                                __framer__enter: Pe,
-                                __framer__exit: Oe,
-                                __framer__styleAppearEffectEnabled: !0,
-                                __framer__threshold: .5,
-                                __fromCanvasComponent: !0,
-                                __perspectiveFX: !1,
-                                __targetOpacity: 1,
-                                children: e(r, {
-                                    children: t("h3", {
-                                        className: "framer-styles-preset-1q1tllb",
-                                        "data-styles-preset": "IOEcq6nbj",
-                                        style: {
-                                            "--framer-text-alignment": "center",
-                                            "--framer-text-color": "var(--token-06538032-c0a4-4346-b17b-14a1de931108, rgb(134, 133, 138))"
-                                        },
-                                        children: [e("span", {
-                                            style: {
-                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                            },
-                                            children: "Trusted by industry leaders. "
-                                        }), "Hear what clients are saying about Process."]
-                                    })
-                                }),
-                                className: "framer-1v5atzp",
-                                fonts: ["Inter"],
-                                style: {
-                                    transformPerspective: 1200
-                                },
-                                verticalAlignment: "top",
-                                withExternalLayout: !0
-                            }), t("div", {
-                                className: "framer-2a876m",
-                                "data-framer-name": "Cards",
-                                name: "Cards",
-                                children: [e(u, {
-                                    __framer__animate: {
-                                        transition: J
-                                    },
-                                    __framer__animateOnce: !0,
-                                    __framer__enter: tr,
-                                    __framer__exit: Vr,
-                                    __framer__styleAppearEffectEnabled: !0,
-                                    __framer__threshold: .5,
-                                    __perspectiveFX: !1,
-                                    __targetOpacity: 1,
-                                    className: "framer-nhxmea",
-                                    "data-framer-name": "Card",
-                                    name: "Card",
-                                    style: {
-                                        transformPerspective: 1200
-                                    },
-                                    children: t("div", {
-                                        className: "framer-1ac78f9",
-                                        "data-framer-name": "Content",
-                                        name: "Content",
-                                        children: [e(l, {
-                                            breakpoint: i,
-                                            overrides: {
-                                                IahHNl4AI: {
-                                                    children: e(r, {
-                                                        children: e("h4", {
-                                                            className: "framer-styles-preset-1b5vkpe",
-                                                            "data-styles-preset": "k44p3jO_l",
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                            },
-                                                            children: "Working with Process was an absolute delight. Their exceptional performance made it the most seamless collaboration I've ever experienced. If you're in need of a landing page or website design agency, Process is the top choice."
-                                                        })
-                                                    })
-                                                },
-                                                kt6FsmLCN: {
-                                                    children: e(r, {
-                                                        children: e("h4", {
-                                                            className: "framer-styles-preset-1b5vkpe",
-                                                            "data-styles-preset": "k44p3jO_l",
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                            },
-                                                            children: "Working with Process was an absolute delight. Their exceptional performance made it the most seamless collaboration I've ever experienced. If you're in need of a landing page or website design agency, Process is the top choice."
-                                                        })
-                                                    })
-                                                }
-                                            },
-                                            children: e(a, {
-                                                __fromCanvasComponent: !0,
-                                                children: e(r, {
-                                                    children: e("h5", {
-                                                        className: "framer-styles-preset-1jm41cg",
-                                                        "data-styles-preset": "TjJlMJ6w8",
-                                                        style: {
-                                                            "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                        },
-                                                        children: "Working with Process was an absolute delight. Their exceptional performance made it the most seamless collaboration I've ever experienced. If you're in need of a landing page or website design agency, Process is the top choice."
-                                                    })
-                                                }),
-                                                className: "framer-1cqbc31",
-                                                fonts: ["Inter"],
-                                                verticalAlignment: "top",
-                                                withExternalLayout: !0
-                                            })
-                                        }), t("div", {
-                                            className: "framer-falush",
-                                            "data-framer-name": "Bottom Content",
-                                            name: "Bottom Content",
-                                            children: [t("div", {
-                                                className: "framer-al0lk9",
-                                                "data-framer-name": "Left Content",
-                                                name: "Left Content",
-                                                children: [e(l, {
-                                                    breakpoint: i,
-                                                    overrides: {
-                                                        IahHNl4AI: {
-                                                            background: {
-                                                                alt: "",
-                                                                fit: "fill",
-                                                                intrinsicHeight: 1657,
-                                                                intrinsicWidth: 1657,
-                                                                pixelHeight: 1657,
-                                                                pixelWidth: 1657,
-                                                                sizes: "40px",
-                                                                src: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp",
-                                                                srcSet: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp 1657w"
-                                                            }
-                                                        },
-                                                        kt6FsmLCN: {
-                                                            background: {
-                                                                alt: "",
-                                                                fit: "fill",
-                                                                intrinsicHeight: 1657,
-                                                                intrinsicWidth: 1657,
-                                                                loading: F(10912.6),
-                                                                pixelHeight: 1657,
-                                                                pixelWidth: 1657,
-                                                                sizes: "40px",
-                                                                src: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp",
-                                                                srcSet: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp 1657w"
-                                                            }
-                                                        }
-                                                    },
-                                                    children: e(A, {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 1657,
-                                                            intrinsicWidth: 1657,
-                                                            loading: F(10255.2),
-                                                            pixelHeight: 1657,
-                                                            pixelWidth: 1657,
-                                                            sizes: "40px",
-                                                            src: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp",
-                                                            srcSet: "https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/fBOHXM7RkwZXQS12B2aM2wxVVU.webp 1657w"
-                                                        },
-                                                        className: "framer-puejkq",
-                                                        "data-framer-name": "Profile Picture",
-                                                        name: "Profile Picture"
-                                                    })
-                                                }), t("div", {
-                                                    className: "framer-13j774l",
-                                                    "data-framer-name": "Name and Designation",
-                                                    name: "Name and Designation",
-                                                    children: [e(a, {
-                                                        __fromCanvasComponent: !0,
-                                                        children: e(r, {
-                                                            children: e("p", {
-                                                                className: "framer-styles-preset-1yqtg1q",
-                                                                "data-styles-preset": "Die60VzNz",
-                                                                style: {
-                                                                    "--framer-text-alignment": "left"
-                                                                },
-                                                                children: "Lauren Marin"
-                                                            })
-                                                        }),
-                                                        className: "framer-hafnms",
-                                                        fonts: ["Inter"],
-                                                        verticalAlignment: "top",
-                                                        withExternalLayout: !0
-                                                    }), e(l, {
-                                                        breakpoint: i,
-                                                        overrides: {
-                                                            IahHNl4AI: {
-                                                                children: e(r, {
-                                                                    children: e("p", {
-                                                                        className: "framer-styles-preset-1yqtg1q",
-                                                                        "data-styles-preset": "Die60VzNz",
-                                                                        style: {
-                                                                            "--framer-text-alignment": "left",
-                                                                            "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
-                                                                        },
-                                                                        children: "Product Manager, NeIO"
-                                                                    })
-                                                                })
-                                                            }
-                                                        },
-                                                        children: e(a, {
-                                                            __fromCanvasComponent: !0,
-                                                            children: e(r, {
-                                                                children: e("p", {
-                                                                    className: "framer-styles-preset-1yqtg1q",
-                                                                    "data-styles-preset": "Die60VzNz",
-                                                                    style: {
-                                                                        "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
-                                                                    },
-                                                                    children: "Product Manager, NeIO"
-                                                                })
-                                                            }),
-                                                            className: "framer-hyh4am",
-                                                            fonts: ["Inter"],
-                                                            verticalAlignment: "top",
-                                                            withExternalLayout: !0
-                                                        })
-                                                    })]
-                                                })]
-                                            }), e(l, {
-                                                breakpoint: i,
-                                                overrides: {
-                                                    IahHNl4AI: {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 98,
-                                                            intrinsicWidth: 221,
-                                                            pixelHeight: 98,
-                                                            pixelWidth: 221,
-                                                            src: "./assets/images/logo/viargos.svg"
-                                                        }
-                                                    },
-                                                    kt6FsmLCN: {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 98,
-                                                            intrinsicWidth: 221,
-                                                            loading: F(10918.6),
-                                                            pixelHeight: 98,
-                                                            pixelWidth: 221,
-                                                            src: "./assets/images/logo/viargos.svg"
-                                                        }
-                                                    }
-                                                },
-                                                children: e(A, {
-                                                    background: {
-                                                        alt: "",
-                                                        fit: "fill",
-                                                        intrinsicHeight: 98,
-                                                        intrinsicWidth: 221,
-                                                        loading: F(10261.2),
-                                                        pixelHeight: 98,
-                                                        pixelWidth: 221,
-                                                        src: "./assets/images/logo/viargos.svg"
-                                                    },
-                                                    className: "framer-1e2l9f1",
-                                                    "data-framer-name": "Logo",
-                                                    name: "Logo"
-                                                })
-                                            })]
-                                        })]
-                                    })
-                                }), e(u, {
-                                    __framer__animate: {
-                                        transition: oe
-                                    },
-                                    __framer__animateOnce: !0,
-                                    __framer__enter: X,
-                                    __framer__exit: fe,
-                                    __framer__styleAppearEffectEnabled: !0,
-                                    __framer__threshold: .5,
-                                    __perspectiveFX: !1,
-                                    __targetOpacity: 1,
-                                    className: "framer-b15xj9",
-                                    "data-framer-name": "Card",
-                                    name: "Card",
-                                    style: {
-                                        transformPerspective: 1200
-                                    },
-                                    children: t("div", {
-                                        className: "framer-1827caz",
-                                        "data-framer-name": "Content",
-                                        name: "Content",
-                                        children: [e(l, {
-                                            breakpoint: i,
-                                            overrides: {
-                                                IahHNl4AI: {
-                                                    children: e(r, {
-                                                        children: e("h4", {
-                                                            className: "framer-styles-preset-1b5vkpe",
-                                                            "data-styles-preset": "k44p3jO_l",
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                            },
-                                                            children: "We can't express enough how grateful we are for Process. Their designs have completely transformed our online presence. The variety and exceptional quality are truly remarkable. It feels as if we have a personal designer who understands our needs perfectly."
-                                                        })
-                                                    })
-                                                },
-                                                kt6FsmLCN: {
-                                                    children: e(r, {
-                                                        children: e("h4", {
-                                                            className: "framer-styles-preset-1b5vkpe",
-                                                            "data-styles-preset": "k44p3jO_l",
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                            },
-                                                            children: "We can't express enough how grateful we are for Process. Their designs have completely transformed our online presence. The variety and exceptional quality are truly remarkable. It feels as if we have a personal designer who understands our needs perfectly."
-                                                        })
-                                                    })
-                                                }
-                                            },
-                                            children: e(a, {
-                                                __fromCanvasComponent: !0,
-                                                children: e(r, {
-                                                    children: e("h5", {
-                                                        className: "framer-styles-preset-1jm41cg",
-                                                        "data-styles-preset": "TjJlMJ6w8",
-                                                        style: {
-                                                            "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                        },
-                                                        children: "We can't express enough how grateful we are for Process. Their designs have completely transformed our online presence. The variety and exceptional quality are truly remarkable. It feels as if we have a personal designer who understands our needs perfectly."
-                                                    })
-                                                }),
-                                                className: "framer-1eqfe9",
-                                                fonts: ["Inter"],
-                                                verticalAlignment: "top",
-                                                withExternalLayout: !0
-                                            })
-                                        }), t("div", {
-                                            className: "framer-1furide",
-                                            "data-framer-name": "Bottom Content",
-                                            name: "Bottom Content",
-                                            children: [t("div", {
-                                                className: "framer-1aqvfzb",
-                                                "data-framer-name": "Left Content",
-                                                name: "Left Content",
-                                                children: [e(l, {
-                                                    breakpoint: i,
-                                                    overrides: {
-                                                        IahHNl4AI: {
-                                                            background: {
-                                                                alt: "",
-                                                                fit: "fill",
-                                                                intrinsicHeight: 1672,
-                                                                intrinsicWidth: 1672,
-                                                                pixelHeight: 1672,
-                                                                pixelWidth: 1672,
-                                                                sizes: "40px",
-                                                                src: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp",
-                                                                srcSet: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=512 512w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp 1672w"
-                                                            }
-                                                        },
-                                                        kt6FsmLCN: {
-                                                            background: {
-                                                                alt: "",
-                                                                fit: "fill",
-                                                                intrinsicHeight: 1672,
-                                                                intrinsicWidth: 1672,
-                                                                loading: F(11312.6),
-                                                                pixelHeight: 1672,
-                                                                pixelWidth: 1672,
-                                                                sizes: "40px",
-                                                                src: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp",
-                                                                srcSet: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=512 512w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp 1672w"
-                                                            }
-                                                        }
-                                                    },
-                                                    children: e(A, {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 1672,
-                                                            intrinsicWidth: 1672,
-                                                            loading: F(10255.2),
-                                                            pixelHeight: 1672,
-                                                            pixelWidth: 1672,
-                                                            sizes: "40px",
-                                                            src: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp",
-                                                            srcSet: "https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=512 512w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/MJ1o6I4GjvFkKMqUH2UwibrEQIY.webp 1672w"
-                                                        },
-                                                        className: "framer-1yiif4c",
-                                                        "data-framer-name": "Profile Picture",
-                                                        name: "Profile Picture"
-                                                    })
-                                                }), t("div", {
-                                                    className: "framer-k4zbmb",
-                                                    "data-framer-name": "Name and Designation",
-                                                    name: "Name and Designation",
-                                                    children: [e(a, {
-                                                        __fromCanvasComponent: !0,
-                                                        children: e(r, {
-                                                            children: e("p", {
-                                                                className: "framer-styles-preset-1yqtg1q",
-                                                                "data-styles-preset": "Die60VzNz",
-                                                                style: {
-                                                                    "--framer-text-alignment": "left"
-                                                                },
-                                                                children: "Mae Rafson"
-                                                            })
-                                                        }),
-                                                        className: "framer-eo172n",
-                                                        fonts: ["Inter"],
-                                                        verticalAlignment: "top",
-                                                        withExternalLayout: !0
-                                                    }), e(l, {
-                                                        breakpoint: i,
-                                                        overrides: {
-                                                            IahHNl4AI: {
-                                                                children: e(r, {
-                                                                    children: e("p", {
-                                                                        className: "framer-styles-preset-1yqtg1q",
-                                                                        "data-styles-preset": "Die60VzNz",
-                                                                        style: {
-                                                                            "--framer-text-alignment": "left",
-                                                                            "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
-                                                                        },
-                                                                        children: "Head of Marketing, Augment Reality"
-                                                                    })
-                                                                })
-                                                            }
-                                                        },
-                                                        children: e(a, {
-                                                            __fromCanvasComponent: !0,
-                                                            children: e(r, {
-                                                                children: e("p", {
-                                                                    className: "framer-styles-preset-1yqtg1q",
-                                                                    "data-styles-preset": "Die60VzNz",
-                                                                    style: {
-                                                                        "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
-                                                                    },
-                                                                    children: "Head of Marketing, Augment Reality"
-                                                                })
-                                                            }),
-                                                            className: "framer-169v7sl",
-                                                            fonts: ["Inter"],
-                                                            verticalAlignment: "top",
-                                                            withExternalLayout: !0
-                                                        })
-                                                    })]
-                                                })]
-                                            }), e(l, {
-                                                breakpoint: i,
-                                                overrides: {
-                                                    IahHNl4AI: {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 98,
-                                                            intrinsicWidth: 201,
-                                                            pixelHeight: 98,
-                                                            pixelWidth: 201,
-                                                            src: "https://framerusercontent.com/images/tniR7jCaw0rjod5Bu8ppfZJhW8.png"
-                                                        }
-                                                    },
-                                                    kt6FsmLCN: {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 98,
-                                                            intrinsicWidth: 201,
-                                                            loading: F(11313.6),
-                                                            pixelHeight: 98,
-                                                            pixelWidth: 201,
-                                                            src: "https://framerusercontent.com/images/tniR7jCaw0rjod5Bu8ppfZJhW8.png"
-                                                        }
-                                                    }
-                                                },
-                                                children: e(A, {
-                                                    background: {
-                                                        alt: "",
-                                                        fit: "fill",
-                                                        intrinsicHeight: 98,
-                                                        intrinsicWidth: 201,
-                                                        loading: F(10256.2),
-                                                        pixelHeight: 98,
-                                                        pixelWidth: 201,
-                                                        src: "https://framerusercontent.com/images/tniR7jCaw0rjod5Bu8ppfZJhW8.png"
-                                                    },
-                                                    className: "framer-10t9qib",
-                                                    "data-framer-name": "Logo",
-                                                    name: "Logo"
-                                                })
-                                            })]
-                                        })]
-                                    })
-                                }), e(u, {
-                                    __framer__animate: {
-                                        transition: J
-                                    },
-                                    __framer__animateOnce: !0,
-                                    __framer__enter: tr,
-                                    __framer__exit: Vr,
-                                    __framer__styleAppearEffectEnabled: !0,
-                                    __framer__threshold: .5,
-                                    __perspectiveFX: !1,
-                                    __targetOpacity: 1,
-                                    className: "framer-12jzd0v",
-                                    "data-framer-name": "Card",
-                                    name: "Card",
-                                    style: {
-                                        transformPerspective: 1200
-                                    },
-                                    children: t("div", {
-                                        className: "framer-12ubg9b",
-                                        "data-framer-name": "Content",
-                                        name: "Content",
-                                        children: [e(l, {
-                                            breakpoint: i,
-                                            overrides: {
-                                                IahHNl4AI: {
-                                                    children: e(r, {
-                                                        children: e("h4", {
-                                                            className: "framer-styles-preset-1b5vkpe",
-                                                            "data-styles-preset": "k44p3jO_l",
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                            },
-                                                            children: "Unparalleled skills in designing websites and products. They grasp my design preferences instantly and execute on them with speed."
-                                                        })
-                                                    })
-                                                },
-                                                kt6FsmLCN: {
-                                                    children: e(r, {
-                                                        children: e("h4", {
-                                                            className: "framer-styles-preset-1b5vkpe",
-                                                            "data-styles-preset": "k44p3jO_l",
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                            },
-                                                            children: "Unparalleled skills in designing websites and products. They grasp my design preferences instantly and execute on them with speed."
-                                                        })
-                                                    })
-                                                }
-                                            },
-                                            children: e(a, {
-                                                __fromCanvasComponent: !0,
-                                                children: e(r, {
-                                                    children: e("h5", {
-                                                        className: "framer-styles-preset-1jm41cg",
-                                                        "data-styles-preset": "TjJlMJ6w8",
-                                                        style: {
-                                                            "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                        },
-                                                        children: "Unparalleled skills in designing websites and products. They grasp my design preferences instantly and execute on them with speed."
-                                                    })
-                                                }),
-                                                className: "framer-1n5sjxl",
-                                                fonts: ["Inter"],
-                                                verticalAlignment: "top",
-                                                withExternalLayout: !0
-                                            })
-                                        }), t("div", {
-                                            className: "framer-14ngdb6",
-                                            "data-framer-name": "Bottom Content",
-                                            name: "Bottom Content",
-                                            children: [t("div", {
-                                                className: "framer-1jwsd0e",
-                                                "data-framer-name": "Left Content",
-                                                name: "Left Content",
-                                                children: [e(l, {
-                                                    breakpoint: i,
-                                                    overrides: {
-                                                        IahHNl4AI: {
-                                                            background: {
-                                                                alt: "",
-                                                                fit: "fill",
-                                                                intrinsicHeight: 2800,
-                                                                intrinsicWidth: 2800,
-                                                                pixelHeight: 2800,
-                                                                pixelWidth: 2800,
-                                                                sizes: "40px",
-                                                                src: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp",
-                                                                srcSet: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=512 512w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=2048 2048w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp 2800w"
-                                                            }
-                                                        },
-                                                        kt6FsmLCN: {
-                                                            background: {
-                                                                alt: "",
-                                                                fit: "fill",
-                                                                intrinsicHeight: 2800,
-                                                                intrinsicWidth: 2800,
-                                                                loading: F(11712.6),
-                                                                pixelHeight: 2800,
-                                                                pixelWidth: 2800,
-                                                                sizes: "40px",
-                                                                src: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp",
-                                                                srcSet: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=512 512w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=2048 2048w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp 2800w"
-                                                            }
-                                                        }
-                                                    },
-                                                    children: e(A, {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 2800,
-                                                            intrinsicWidth: 2800,
-                                                            loading: F(10655.2),
-                                                            pixelHeight: 2800,
-                                                            pixelWidth: 2800,
-                                                            sizes: "40px",
-                                                            src: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp",
-                                                            srcSet: "https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=512 512w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp?scale-down-to=2048 2048w,https://framerusercontent.com/images/vkThWPcVCOOly8jo5yjYqYbiNRk.webp 2800w"
-                                                        },
-                                                        className: "framer-onv81",
-                                                        "data-framer-name": "Profile Picture",
-                                                        name: "Profile Picture"
-                                                    })
-                                                }), t("div", {
-                                                    className: "framer-mod1k9",
-                                                    "data-framer-name": "Name and Designation",
-                                                    name: "Name and Designation",
-                                                    children: [e(a, {
-                                                        __fromCanvasComponent: !0,
-                                                        children: e(r, {
-                                                            children: e("p", {
-                                                                className: "framer-styles-preset-1yqtg1q",
-                                                                "data-styles-preset": "Die60VzNz",
-                                                                style: {
-                                                                    "--framer-text-alignment": "left"
-                                                                },
-                                                                children: "Garrett Carson"
-                                                            })
-                                                        }),
-                                                        className: "framer-12zxfsi",
-                                                        fonts: ["Inter"],
-                                                        verticalAlignment: "top",
-                                                        withExternalLayout: !0
-                                                    }), e(l, {
-                                                        breakpoint: i,
-                                                        overrides: {
-                                                            IahHNl4AI: {
-                                                                children: e(r, {
-                                                                    children: e("p", {
-                                                                        className: "framer-styles-preset-1yqtg1q",
-                                                                        "data-styles-preset": "Die60VzNz",
-                                                                        style: {
-                                                                            "--framer-text-alignment": "left",
-                                                                            "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
-                                                                        },
-                                                                        children: "Founder, Trippin.com"
-                                                                    })
-                                                                })
-                                                            }
-                                                        },
-                                                        children: e(a, {
-                                                            __fromCanvasComponent: !0,
-                                                            children: e(r, {
-                                                                children: e("p", {
-                                                                    className: "framer-styles-preset-1yqtg1q",
-                                                                    "data-styles-preset": "Die60VzNz",
-                                                                    style: {
-                                                                        "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
-                                                                    },
-                                                                    children: "Founder, Trippin.com"
-                                                                })
-                                                            }),
-                                                            className: "framer-1rhdi64",
-                                                            fonts: ["Inter"],
-                                                            verticalAlignment: "top",
-                                                            withExternalLayout: !0
-                                                        })
-                                                    })]
-                                                })]
-                                            }), e(l, {
-                                                breakpoint: i,
-                                                overrides: {
-                                                    IahHNl4AI: {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 100,
-                                                            intrinsicWidth: 284,
-                                                            pixelHeight: 100,
-                                                            pixelWidth: 284,
-                                                            src: "https://framerusercontent.com/images/s1coaLPu700iZDLyiGursvXHUw.png"
-                                                        }
-                                                    },
-                                                    kt6FsmLCN: {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 100,
-                                                            intrinsicWidth: 284,
-                                                            loading: F(11713.6),
-                                                            pixelHeight: 100,
-                                                            pixelWidth: 284,
-                                                            src: "https://framerusercontent.com/images/s1coaLPu700iZDLyiGursvXHUw.png"
-                                                        }
-                                                    }
-                                                },
-                                                children: e(A, {
-                                                    background: {
-                                                        alt: "",
-                                                        fit: "fill",
-                                                        intrinsicHeight: 100,
-                                                        intrinsicWidth: 284,
-                                                        loading: F(10656.2),
-                                                        pixelHeight: 100,
-                                                        pixelWidth: 284,
-                                                        src: "https://framerusercontent.com/images/s1coaLPu700iZDLyiGursvXHUw.png"
-                                                    },
-                                                    className: "framer-l6bwsw",
-                                                    "data-framer-name": "Logo",
-                                                    name: "Logo"
-                                                })
-                                            })]
-                                        })]
-                                    })
-                                }), e(u, {
-                                    __framer__animate: {
-                                        transition: oe
-                                    },
-                                    __framer__animateOnce: !0,
-                                    __framer__enter: X,
-                                    __framer__exit: fe,
-                                    __framer__styleAppearEffectEnabled: !0,
-                                    __framer__threshold: .5,
-                                    __perspectiveFX: !1,
-                                    __targetOpacity: 1,
-                                    className: "framer-1qv78so",
-                                    "data-framer-name": "Card",
-                                    name: "Card",
-                                    style: {
-                                        transformPerspective: 1200
-                                    },
-                                    children: t("div", {
-                                        className: "framer-twvvwa",
-                                        "data-framer-name": "Content",
-                                        name: "Content",
-                                        children: [e(l, {
-                                            breakpoint: i,
-                                            overrides: {
-                                                IahHNl4AI: {
-                                                    children: e(r, {
-                                                        children: e("h4", {
-                                                            className: "framer-styles-preset-1b5vkpe",
-                                                            "data-styles-preset": "k44p3jO_l",
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                            },
-                                                            children: "Remarkable expertise in website and product design. They effortlessly understand Synthmind's design language and promptly bring it to fruition."
-                                                        })
-                                                    })
-                                                },
-                                                kt6FsmLCN: {
-                                                    children: e(r, {
-                                                        children: e("h4", {
-                                                            className: "framer-styles-preset-1b5vkpe",
-                                                            "data-styles-preset": "k44p3jO_l",
-                                                            style: {
-                                                                "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                            },
-                                                            children: "Remarkable expertise in website and product design. They effortlessly understand Synthmind's design language and promptly bring it to fruition."
-                                                        })
-                                                    })
-                                                }
-                                            },
-                                            children: e(a, {
-                                                __fromCanvasComponent: !0,
-                                                children: e(r, {
-                                                    children: e("h5", {
-                                                        className: "framer-styles-preset-1jm41cg",
-                                                        "data-styles-preset": "TjJlMJ6w8",
-                                                        style: {
-                                                            "--framer-text-color": "var(--token-d4389f1b-5b95-4515-8b2f-79789fffb29d, rgb(19, 19, 20))"
-                                                        },
-                                                        children: "Remarkable expertise in website and product design. They effortlessly understand Synthmind's design language and promptly bring it to fruition."
-                                                    })
-                                                }),
-                                                className: "framer-38eybi",
-                                                fonts: ["Inter"],
-                                                verticalAlignment: "top",
-                                                withExternalLayout: !0
-                                            })
-                                        }), t("div", {
-                                            className: "framer-1s4dhlg",
-                                            "data-framer-name": "Bottom Content",
-                                            name: "Bottom Content",
-                                            children: [t("div", {
-                                                className: "framer-1kvhf3f",
-                                                "data-framer-name": "Left Content",
-                                                name: "Left Content",
-                                                children: [e(l, {
-                                                    breakpoint: i,
-                                                    overrides: {
-                                                        IahHNl4AI: {
-                                                            background: {
-                                                                alt: "",
-                                                                fit: "fill",
-                                                                intrinsicHeight: 1816,
-                                                                intrinsicWidth: 1816,
-                                                                pixelHeight: 1816,
-                                                                pixelWidth: 1816,
-                                                                sizes: "40px",
-                                                                src: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp",
-                                                                srcSet: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp 1816w"
-                                                            }
-                                                        },
-                                                        kt6FsmLCN: {
-                                                            background: {
-                                                                alt: "",
-                                                                fit: "fill",
-                                                                intrinsicHeight: 1816,
-                                                                intrinsicWidth: 1816,
-                                                                loading: F(12112.6),
-                                                                pixelHeight: 1816,
-                                                                pixelWidth: 1816,
-                                                                sizes: "40px",
-                                                                src: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp",
-                                                                srcSet: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp 1816w"
-                                                            }
-                                                        }
-                                                    },
-                                                    children: e(A, {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 1816,
-                                                            intrinsicWidth: 1816,
-                                                            loading: F(10655.2),
-                                                            pixelHeight: 1816,
-                                                            pixelWidth: 1816,
-                                                            sizes: "40px",
-                                                            src: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp",
-                                                            srcSet: "https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=512 512w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp?scale-down-to=1024 1024w,https://framerusercontent.com/images/43yK6SP3hMvBdkt5VC3PnlCfU.webp 1816w"
-                                                        },
-                                                        className: "framer-1g7jvnd",
-                                                        "data-framer-name": "Profile Picture",
-                                                        name: "Profile Picture"
-                                                    })
-                                                }), t("div", {
-                                                    className: "framer-1pabg9j",
-                                                    "data-framer-name": "Name and Designation",
-                                                    name: "Name and Designation",
-                                                    children: [e(a, {
-                                                        __fromCanvasComponent: !0,
-                                                        children: e(r, {
-                                                            children: e("p", {
-                                                                className: "framer-styles-preset-1yqtg1q",
-                                                                "data-styles-preset": "Die60VzNz",
-                                                                style: {
-                                                                    "--framer-text-alignment": "left"
-                                                                },
-                                                                children: "Claire Cottom"
-                                                            })
-                                                        }),
-                                                        className: "framer-12oahez",
-                                                        fonts: ["Inter"],
-                                                        verticalAlignment: "top",
-                                                        withExternalLayout: !0
-                                                    }), e(l, {
-                                                        breakpoint: i,
-                                                        overrides: {
-                                                            IahHNl4AI: {
-                                                                children: e(r, {
-                                                                    children: e("p", {
-                                                                        className: "framer-styles-preset-1yqtg1q",
-                                                                        "data-styles-preset": "Die60VzNz",
-                                                                        style: {
-                                                                            "--framer-text-alignment": "left",
-                                                                            "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
-                                                                        },
-                                                                        children: "Creative Director, Synthmind"
-                                                                    })
-                                                                })
-                                                            }
-                                                        },
-                                                        children: e(a, {
-                                                            __fromCanvasComponent: !0,
-                                                            children: e(r, {
-                                                                children: e("p", {
-                                                                    className: "framer-styles-preset-1yqtg1q",
-                                                                    "data-styles-preset": "Die60VzNz",
-                                                                    style: {
-                                                                        "--framer-text-color": "var(--token-5553722d-43da-4a73-a7ce-d2499d28fa68, rgb(135, 134, 138))"
-                                                                    },
-                                                                    children: "Creative Director, Synthmind"
-                                                                })
-                                                            }),
-                                                            className: "framer-hn8vea",
-                                                            fonts: ["Inter"],
-                                                            verticalAlignment: "top",
-                                                            withExternalLayout: !0
-                                                        })
-                                                    })]
-                                                })]
-                                            }), e(l, {
-                                                breakpoint: i,
-                                                overrides: {
-                                                    IahHNl4AI: {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 98,
-                                                            intrinsicWidth: 440,
-                                                            pixelHeight: 98,
-                                                            pixelWidth: 440,
-                                                            src: "https://framerusercontent.com/images/2oKswWxxsDLNKzqcDEo3mLsbkM.png"
-                                                        }
-                                                    },
-                                                    kt6FsmLCN: {
-                                                        background: {
-                                                            alt: "",
-                                                            fit: "fill",
-                                                            intrinsicHeight: 98,
-                                                            intrinsicWidth: 440,
-                                                            loading: F(12123.6),
-                                                            pixelHeight: 98,
-                                                            pixelWidth: 440,
-                                                            src: "https://framerusercontent.com/images/2oKswWxxsDLNKzqcDEo3mLsbkM.png"
-                                                        }
-                                                    }
-                                                },
-                                                children: e(A, {
-                                                    background: {
-                                                        alt: "",
-                                                        fit: "fill",
-                                                        intrinsicHeight: 98,
-                                                        intrinsicWidth: 440,
-                                                        loading: F(10666.2),
-                                                        pixelHeight: 98,
-                                                        pixelWidth: 440,
-                                                        src: "https://framerusercontent.com/images/2oKswWxxsDLNKzqcDEo3mLsbkM.png"
-                                                    },
-                                                    className: "framer-1gnua8y",
-                                                    "data-framer-name": "Logo",
-                                                    name: "Logo"
-                                                })
-                                            })]
-                                        })]
-                                    })
-                                })]
-                            })]
-                        }), t("section", {
                             className: "framer-1e8sroc",
                             "data-framer-name": "FAQs",
                             id: Yt,
